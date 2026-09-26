@@ -32,17 +32,21 @@
 	},
 	"vars": {
 		// Public OAuth client id from Google Cloud Console (the secret goes in `wrangler secret put GOOGLE_CLIENT_SECRET`).
-		"GOOGLE_CLIENT_ID": "",
+		"GOOGLE_CLIENT_ID": "984277548472-5j0tm7ms8q6vjceok2o9ua33j29q1vr3.apps.googleusercontent.com",
 		// Optional: this Google account becomes admin automatically on first login.
-		"BOOTSTRAP_ADMIN_EMAIL": ""
+		"BOOTSTRAP_ADMIN_EMAIL": "pratham0gupta@gmail.com"
 	},
 	"hyperdrive": [
 		{
 			"binding": "DB",
 			// Replace with the id printed by: npx wrangler hyperdrive create bulbapedia-db --connection-string="<supabase session pooler url>"
-			"id": "00000000000000000000000000000000",
+			"id": "80804733db13436b9d690b057bffed81",
 			// Used only by local dev (vite dev). Points at the embedded Postgres started by `npm run db:start`.
 			"localConnectionString": "postgres://postgres:postgres@127.0.0.1:54329/bulbapedia"
+		},
+		{
+			"binding": "HYPERDRIVE_BULBAPEDIA_MCP",
+			"id": "80804733db13436b9d690b057bffed81"
 		}
 	]
 }
