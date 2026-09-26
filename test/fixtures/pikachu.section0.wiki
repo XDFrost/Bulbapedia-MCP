@@ -1,0 +1,65 @@
+{{PokémonPrevNext/Head|type=Electric}}
+{{PokémonPrevNext/GO|species=Pikachu}}
+{{PokémonPrevNext/Pokémon|type=Electric|prevnum=0024|prev=Arbok|nextnum=0026|next=Raichu|round=none}}
+{{PokémonPrevNext/Disambig|species=Pikachu}}
+|}
+{{Pokémon Infobox
+|name=Pikachu
+|jname=ピカチュウ
+|jtranslit=Pikachū
+|tmname=Pikachu
+|forme=5
+|form2=Cosplay Pikachu
+|image2=0025Pikachu-Cosplay.png
+|form3={{#switch: {{#expr: {{#time: U}} mod 9}}|0=Original|1=Hoenn|2=Sinnoh|3=Unova|4=Kalos|5=Unova|6=Alola|7=Partner|8=World}} Cap
+|image3=0025Pikachu-{{#switch: {{#expr: {{#time: U}} mod 9}}|0=Original|1=Hoenn|2=Sinnoh|3=Unova|4=Kalos|5=Unova|6=Alola|7=Partner|8=World}} Cap.png
+|form4=Gigantamax
+|image4=0025Pikachu-Gigantamax.png
+|form5=Pale
+|image5=0025Pikachu-Pale.png
+|ndex=0025
+|type1=Electric
+|category=Mouse
+|height-ftin=1'04"
+|height-m=0.4
+|height-ftin4=68'11"+
+|height-m4=21.0+
+|weight-lbs=13.2
+|weight-kg=6.0
+|weight-lbs4=????.?
+|weight-kg4=???.?
+|height-ftin5=1'04"
+|height-m5=0.4
+|weight-lbs5=11.0
+|weight-kg5=5.0
+|abilitylayout=2
+|ability1=Static
+|abilityd=Lightning Rod
+|egggroupn=2
+|egggroup1=Field
+|egggroup2=Fairy
+|egggroup2note=&nbsp;or {{color2|000|No Eggs Discovered (Egg Group)|No Eggs Discovered}}<sup>{{color2|000|Cosplay Pikachu|Cosplay}}/{{color2|000|Pikachu in a cap|Cap}}</sup>
+|eggcycles=10
+|evtotal=2
+|evsp=2
+|expyield=112<!--105 in Gen V-VI-->
+|oldexp=82
+|lv100exp=1,000,000
+|gendercode=127
+|color=Yellow
+|catchrate=190
+|body=08
+|generation=1
+|friendship=70
+}}
+'''Pikachu''' ([[List of Japanese Pokémon names|Japanese]]: '''ピカチュウ''' ''Pikachu'') is an {{type|Electric}} {{OBP|Pokémon|species}} introduced in [[Generation I]].
+
+It [[Evolution|evolves]] from {{p|Pichu}} when [[friendship Evolution|leveled up with high friendship]] and evolves into {{p|Raichu}} when exposed to a [[Thunder Stone]].
+
+In [[Alola]], Pikachu evolves into {{rf|Alolan}} Raichu when exposed to a Thunder Stone.
+
+Pikachu has fifteen alternate [[#Form data|forms]] that fall into three groups: '''[[Cosplay Pikachu]]''', '''[[Pikachu in a cap]]''', and '''Gigantamax Pikachu'''. Ordinary Pikachu can [[Gigantamax]] into Gigantamax Pikachu if it has the {{DL|Gigantamax|Gigantamax Factor}}. An additional form of Pikachu, called '''Pale''', appears exclusively in [[Pokémon Pokopia]] (as a character named [[Peakychu]]). Another form, the '''{{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Pikachu''' appears exclusively in {{LGPE}}, however it is not described as a unique form in the Pokédex, and is only recognized as a form in the game data. Additionally, many other [[Pikachu variants]] have appeared in various media.
+
+Cosplay Pikachu, Pikachu in a cap, the partner Pikachu, and Pikachu with the Gigantamax Factor cannot evolve. The {{OBP|Pikachu|Yellow}} received at the beginning of {{g|Yellow Version}} will refuse to evolve into Raichu unless it is [[trade]]d and evolved on another save file.
+
+Pikachu is popularly known as the mascot of the [[Pokémon]] franchise and one of [[Nintendo]]'s major mascots. It is also the [[game mascot]] and the [[first partner Pokémon]] in [[Pokémon Yellow Version|Pokémon Yellow Version: Special Pikachu Edition]] and {{LGPE|Pokémon: Let's Go, Pikachu!}}, as well the [[List of the player's first Pokémon|player's first Pokémon]] in {{g|Rumble Blast}} and {{g|Rumble World}}, and has made numerous appearances on the covers of spin-off games.

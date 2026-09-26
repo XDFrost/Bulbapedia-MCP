@@ -1,0 +1,153 @@
+==Biology==
+[[File:HOME0845Go.png|thumb|left|200px|A Pikachu who has been accidentally partially {{a|Gulp Missile|swallowed}} by a {{p|Cramorant}}]]
+Pikachu is a short, chubby {{wp|rodent}} {{OBP|Pokémon|species}}. It is covered in yellow fur with two horizontal brown stripes on its back. It has a small mouth, long, pointed ears with black tips, and brown eyes. Each cheek is a red circle that contains a pouch for electricity storage. It has short forearms with five fingers on each paw, and its feet each have three toes. At the base of its lightning bolt-shaped tail is a patch of brown fur. A [[List of Pokémon with gender differences|female]] Pikachu has a "V"-shaped notch at the end of its tail, which looks like the top of a heart. It is classified as a quadruped, but it has been known to stand and walk on its hind legs; therefore, Pikachu is a facultative biped.
+
+Pikachu stores electric energy using the small pouches in its cheeks in case it is attacked, so one might feel a small shock if it is touched. These pouches become electrically charged during the night as it sleeps, so a dozy Pikachu may occasionally discharge electricity after waking up. If it does not get enough sleep, it will not be able to release said electricity at its full power. When angered or threatened, Pikachu quickly unleashes the electric energy from its cheeks, which can reach the intensity of a lightning bolt. This also serves as a sign that it's wary, and it will feel stressed if it's unable to fully release the electricity. In ''[[EP030|Sparks Fly for Magnemite]]'', Pikachu is shown to accumulate energy in its glands, which it will need to eject to avoid complications. When several Pikachu form a group, they are capable of causing thunder storms by building up electricity. If one Pikachu sees another one who is weakened and in need of help, it revitalizes it by recharging it with an electric shock. However, as seen with [[Peakychu]], overusing this ability alters its physical structure, causing it to lose its ability to generate electricity and its fur to become pale, though it can still manipulate electricity from external sources. In [[Alola]], a plan was recently announced to help build an electric power plant by gathering many Pikachu. If its cheek sacs are very soft and stretchy, this means that it can generate powerful electricity. As shown in [[Pokémon Sleep]], Pikachu is known to emit electricity through its cheeks while sleeping, perhaps because it's dreaming of firing electric shots.<ref>[[Sleep style|Sleep Style Dex]]</ref>
+
+Pikachu is a curious, playful, and intelligent Pokémon who primarily eats fruits and roasts {{Berries}} with its electricity to make them tender enough to eat. However, it can end up accidentally burning them too much if it underestimates the intensity of its charge, as it has a tendency to blast new things it finds. In [[The Electric Tale of Pikachu]], it is also depicted eating and sometimes destroying telephone poles, wires, and other electronic equipment. Pikachu raises its tail to monitor its surroundings and bites [[Human|people]] who yank it, as it does not like having it pulled. While doing this, its tail is sometimes struck by lightning. {{pkmn2|Wild}} Pikachu live in {{DL|List of Pokémon by habitat|Forest Pokémon|forested areas}} away from people and with others of its kind in nests, as seen in the ''[[Pokémon the Series]]'' episode ''[[EP039|Pikachu's Goodbye]]''. Such forests are dangerous, though, as trees there are often struck by lightning. When Pikachu meet, their tails make contact and they exchange electricity through them to greet each other. Relatedly, in ''[[SM091|A Plethora of Pikachu!]]'', it is shown that Pikachu from Alola are known to greet each other by sniffing one another and rubbing their tails together. In the [[Pokémon Adventures]] manga, it is considered exceptionally rare, though it seems to be a quite common Pokémon in other forms of media. Many [[Pokémon Trainer]]s prefer Pikachu's cute appearance over {{p|Raichu}}'s, which is why the latter is not commonly seen among them. Because of the popularity of Pikachu-themed merchandise, {{p|Mimikyu}} dresses itself in a Pikachu cloth in an effort to look less scary and make friends and appease its loneliness.<ref>[http://www.pokemon-sunmoon.com/en-us/pokemon/mimikyu/ Mimikyu | Pokémon Sun and Pokémon Moon] ([https://web.archive.org/web/20160917171041/http://www.pokemon-sunmoon.com/en-us/pokemon/mimikyu/ archived])</ref> Unfortunately, its creepy costume only ends up doing the opposite. By occasion, Pikachu can get unintentionally {{a|Gulp Missile|swallowed}} by {{p|Cramorant}}. While startled, it looks for ways to escape from the latter. Pikachu, along with {{p|Pichu}} and Raichu, is related to {{p|Pachirisu}}.
+
+Pikachu and its [[evolution]]ary relatives are the [[signature move|only known Pokémon]] capable of learning the [[move]] {{m|Volt Tackle}}. It is also the only known Pokémon capable of using the [[Z-Move]] {{m|Catastropika}}, as well as the only one who can use the [[Light Ball]] [[item]].
+{{left clear}}
+
+===Forms===
+Pikachu has sixteen additional forms that fall into five groups: [[Cosplay Pikachu]], [[Pikachu in a cap]], [[Gigantamax]] Pikachu, and [[Peakychu|Pale Pikachu]]. Additionally, the {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Pikachu is considered as a form internally in the game data. Many other [[Pikachu variants]] have also appeared in various media.
+
+====Cosplay Pikachu====
+[[Cosplay Pikachu]] is always [[Gender|female]], has a black heart-shaped spot at the end of its tail, and can be dressed in any of five outfits corresponding to the five [[Contest conditions]]: [[Cool]], [[Beautiful]], [[Cute]], [[Clever]], and [[Tough]].
+<div class="scrollbox">
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{electric color}}; {{roundy|10px}} border: 3px solid #{{electric color dark}}"
+|-
+| {{color2|000|Cosplay Pikachu}}
+| {{color2|000|Cosplay Pikachu|Pikachu Rock Star}}
+| {{color2|000|Cosplay Pikachu|Pikachu Belle}}
+| {{color2|000|Cosplay Pikachu|Pikachu Pop Star}}
+| {{color2|000|Cosplay Pikachu|Pikachu, Ph.D}}
+| {{color2|000|Cosplay Pikachu|Pikachu Libre}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Cosplay.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Rock Star.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Belle.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Pop Star.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-PhD.png|100px]]
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Libre.png|100px]]
+|}
+</div>
+
+====Pikachu in a cap====
+[[Pikachu in a cap]] is always male and has eight variants, each wearing one of [[Ash Ketchum]]'s {{AP|hat}}s from {{aniseries|PTS}}. This form of Pikachu is somewhat rare and wears the hat of its partner, who is its {{pkmn|Trainer}}. The cap is a bit loose because it is not the right size, but brims with memories of Pikachu and its Trainer's first encounter and is proof that they have traveled through many [[region]]s together.
+
+Pikachu in a cap is the only known Pokémon capable of using the Z-Move {{m|10,000,000 Volt Thunderbolt}}, but cannot use {{m|Catastropika}} or [[Gigantamax]].
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 5px; padding: 3px; width: fit-content; margin:auto; text-align:center; font-size:80%; background: #{{electric color}}; border: 3px solid #{{electric color dark}}; {{roundy|10px}};">
+
+<div>
+<div>{{color2|000|Original series|Original Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Original Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon the Series: Ruby and Sapphire|Hoenn Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Hoenn Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon the Series: Diamond and Pearl|Sinnoh Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Sinnoh Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon the Series: Black & White|Unova Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Unova Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon the Series: XY|Kalos Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Kalos Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon the Series: Sun & Moon|Alola Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Alola Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|M20|Partner Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-Partner Cap.png|100px]]</div>
+</div>
+
+<div>
+<div>{{color2|000|Pokémon Journeys: The Series|World Cap}}</div>
+<div style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px">[[File:0025Pikachu-World Cap.png|100px]]</div>
+</div>
+</div>
+
+====Gigantamax Pikachu====
+As [[Gigantamax]] Pikachu, it becomes larger and chubbier, and its tail becomes longer with three red clouds floating around it.
+
+The Gigantamax phenomenon expands Pikachu's power and forms its massive body and tail. As a result, the might of Gigantamax Pikachu's electricity is equal to that of a power plant; despite this, it is difficult to use to power peoples' homes since it can only remain in this form for a short amount of time. All the electricity it produces in its cheek sacs goes to its tail, enabling it to attack foes in {{pkmn|battle}}s with electric jolts as powerful as lightning strikes.<ref>[https://swordshield.pokemon.com/en-us/pokemon-galar-region/gigantamax-pikachu/ Gigantamax Pikachu | Pokémon Sword and Pokémon Shield]</ref> 
+
+Gigantamax Pikachu is the only known Pokémon capable of using the [[G-Max Move]] {{m|G-Max Volt Crash}}.
+
+{| style="margin:auto; text-align:center; font-size:80%; background: #{{electric color}}; {{roundy|10px}} border: 3px solid #{{electric color dark}}"
+|-
+| {{color2|000|Gigantamax}} Pikachu
+|-
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:0025Pikachu-Gigantamax.png|100px]]
+|}
+
+====Pale Pikachu====
+A particular Pikachu, named [[Peakychu]], has a unique spin-off form called Pale.
+
+This unique Pikachu is named for its distinct grey-white color. Its heart-shaped tail is notably smaller than that of a regular Pikachu. The red electrical sacs are a light red, while the black tips of its tail are light grey. Its ears are constantly drooping, giving it a sad appearance. Additionally, Pale Pikachu's eyes are slightly larger than those of a typical Pikachu. Notably, Pale Pikachu's body can emit a peculiar glow.<ref name=":0">[https://pokopia.pokemon.com/en-us/discover/ Official English website for Pokopia]</ref> 
+
+This Pikachu's unusual coloration resulted from sharing its own electricity with sick friends. As a consequence, its physical structure changed, and Pale Pikachu became unable to generate its own electricity. However, it can still manipulate electricity if it receives enough charge from an external source. With sufficient electricity, Pale Pikachu can illuminate its surroundings.
+
+{| style="margin:auto; text-align:center; font-size:80%"
+|
+{| style="background: #{{electric color}}; {{roundy|10px}} border: 3px solid #{{electric color dark}}"
+|-
+| {{color2|000|Peakychu|Pale Pikachu}}
+|-
+| style="{{roundy|96px}} border: 2px solid #{{electric color dark}}; background: #{{electric color light}}; width:96px; height:96px"| [[File:Pokopia Peakychu.png|100px]]
+|}
+|}
+
+====Partner Pikachu====
+The {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Pikachu is the Pokémon the player starts with in {{LGPE|Pokémon: Let's Go, Pikachu!}}. It can be either gender and has higher [[base stat]]s than normal Pikachu. The partner Pikachu is not differentiated from standard Pikachu in {{LGPE}}'s [[Pokédex]], and it cannot be [[transfer]]red to other games.
+
+The partner Pikachu is the only known Pokémon capable of learning the moves {{m|Zippy Zap}}, {{m|Floaty Fall}}, and {{m|Splishy Splash}}, as well as the [[Partner Play#Partner powers|partner power]] {{m|Pika Papow}}.
+
+<gallery>
+File:0025Pikachu-Partner.png | Partner Pikachu
+</gallery>
+===Evolution===
+Pikachu [[Evolution|evolves]] from {{p|Pichu}} and evolves into {{p|Raichu}}.
+
+In [[Alola]], it evolves into {{rf|Alolan}} Raichu.
+
+[[Cosplay Pikachu]], [[Pikachu in a cap]], {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|Partner Pikachu}}, and Pikachu with the {{DL|Gigantamax|Gigantamax Factor}} cannot evolve.
+
+(For specifics on this Pokémon's Evolution in the games, refer to [[#Evolution data|Game data&rarr;Evolution data]].)
+<div style="float:center; display:flex; flex-flow:row wrap;">
+{{Evobox/2branch2
+|type1=Electric
+|no1=0172
+|name1=Pichu
+|type1-1=Electric
+|evo1=
+|no2=0025
+|name2=Pikachu
+|type1-2=Electric
+|evo2a=
+|no3a=0026
+|name3a=Raichu
+|type1-3a=Electric
+|evo2b=
+|no3b=0026
+|name3b=Raichu
+|art3b=026Raichu-Alola
+|type1-3b=Electric
+|type2-3b=Psychic
+|form3b=Alolan Form
+}}
+</div>

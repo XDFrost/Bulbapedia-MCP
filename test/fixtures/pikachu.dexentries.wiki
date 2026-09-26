@@ -1,0 +1,158 @@
+===Pokédex entries===
+{{Dex/Header|type=Electric}}
+{{Dex/Gen/1|gen=I|reg1=Kanto|num1=025}}
+{{Dex/RecycledRG}}
+{{Dex/Entry2|v=Red|v2=Blue|t2=FFF|entry=When several of these {{OBP|Pokémon|species|{{ScPkmn}}}} gather, their electricity could build and cause lightning storms.}}
+{{Dex/Entry1|v=Yellow|entry=It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you.}}
+{{Dex/Entry1|v=Stadium|t=FFF|color=000|entry=Lives in forests away from people. It stores electricity in its cheeks for zapping an enemy if it is attacked.}}
+|}
+|}
+{{Dex/Gen/1|gen=II|reg1=Johto|num1=022}}
+{{Dex/Entry1|v=Gold|entry=This intelligent {{ScPkmn}} roasts hard <sc>{{Berries}}</sc> with electricity to make them tender enough to eat.}}
+{{Dex/Entry1|v=Silver|entry=It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.}}
+{{Dex/Entry1|v=Crystal|entry=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.}}
+{{Dex/Entry1|v=Stadium 2|t=FFF|color=000|entry=This intelligent {{ScPkmn}} roasts hard <sc>Berries</sc> with electricity to make them tender enough to eat. <small>''(Pokémon Red, Silver, or Crystal inserted)''</small><br>It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose. <small>''(Pokémon Blue, Gold, or Yellow inserted)''</small>}}
+|}
+|}
+{{Dex/Gen/2|gen=III|reg1=Hoenn|num1=156|reg2=Kanto|num2=025}}
+{{Dex/Entry1|v=Ruby|t=FFF|entry=Whenever <sc>Pikachu</sc> comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this {{ScPkmn}} mistook the intensity of its charge.}}
+{{Dex/Entry1|v=Sapphire|t=FFF|entry=This {{ScPkmn}} has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while <sc>Pikachu</sc> sleeps. It occasionally discharges electricity when it is dozy after waking up.}}
+{{Dex/Entry1|v=Emerald|t=FFF|entry=It stores electricity in the electric sacs on its cheeks. When it releases pent-up energy in a burst, the electric power is equal to a lightning bolt.}}
+{{Dex/Entry1|v=FireRed|entry=It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.}}
+{{Dex/Entry1|v=LeafGreen|entry=When several of these {{ScPkmn}} gather, their electricity can build and cause lightning storms.}}
+|}
+|}
+{{Dex/Gen/2|gen=IV|reg1=Sinnoh|num1=104|reg2=Johto|num2=022}}
+{{Dex/Entry1|v=Diamond|entry=It lives in forests with others. It stores electricity in the pouches on its cheeks.}}
+{{Dex/Entry1|v=Pearl|entry=If it looses crackling power from the electric pouches on its cheeks, it is being wary.}}
+{{Dex/Entry1|v=Platinum|entry=It occasionally uses an electric shock to recharge a fellow <sc>Pikachu</sc> that is in a weakened state.}}
+{{Dex/Entry1|v=HeartGold|entry=This intelligent Pokémon roasts hard berries with electricity to make them tender enough to eat.}}
+{{Dex/Entry1|v=SoulSilver|entry=It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.}}
+|}
+|}
+{{Dex/Gen/1|gen=V|reg1=Unova}}
+{{Dex/Entry2|v=Black|v2=White|t=FFF|entry=It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.}}
+{{Dex/Entry2|v=Black 2|v2=White 2|t=FFF|entry=It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.}}
+|}
+|}
+{{Dex/Gen/4|gen=VI|reg1=Central Kalos|num1=036|reg2=Coastal Kalos|reg3=Mountain Kalos|reg4=Hoenn|num4=163}}
+{{Dex/Entry1|v=X|t=FFF|entry=It raises its tail to check its surroundings. The tail is sometimes struck by lightning in this pose.}}
+{{Dex/Entry1|v=Y|t=FFF|entry=It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.}}
+{{Dex/Entry1|v=Omega Ruby|t=FFF|entry=Whenever Pikachu comes across something new, it blasts it with a jolt of electricity. If you come across a blackened berry, it's evidence that this Pokémon mistook the intensity of its charge.}}
+{{Dex/Entry1|v=Alpha Sapphire|t=FFF|entry=This Pokémon has electricity-storing pouches on its cheeks. These appear to become electrically charged during the night while Pikachu sleeps. It occasionally discharges electricity when it is dozy after waking up.}}
+|}
+|}
+{{Dex/Gen/3|gen=VII|reg1=Alola|num1=025|label1={{gameIcon|Su}}{{gameIcon|M}}:|reg2=Alola|num2=032|label2={{gameIcon|US}}{{gameIcon|UM}}:|reg3=Kanto|num3=025}}
+{{Dex/Entry1|v=Sun|entry=A plan was recently announced to gather many Pikachu and make an electric power plant.}}
+{{Dex/Entry1|v=Moon|entry=It's in its nature to store electricity. It feels stressed now and then if it's unable to fully discharge the electricity.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=Its nature is to store up electricity. Forests where nests of Pikachu live are dangerous, since the trees are so often struck by lightning.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=While sleeping, it generates electricity in the sacs in its cheeks. If it's not getting enough sleep, it will be able to use only weak electricity.}}
+{{Dex/Entry2|v=Let's Go Pikachu|v2=Let's Go Eevee|entry=This forest-dwelling Pokémon stores electricity in its cheeks, so you'll feel a tingly shock if you touch it.}}
+{{Dex/Form|Original Cap, Hoenn Cap, Sinnoh Cap, Unova Cap, Kalos Cap, Alola Cap, and Partner Cap}}
+{{Dex/Entry1|v=Sun|entry=This form of Pikachu is somewhat rare. It wears the [[Ash's hat|hat]] of its {{pkmn|Trainer}}, who is also its partner.}}
+{{Dex/Entry1|v=Moon|entry=This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.}}
+{{Dex/Entry1|v=Ultra Sun|t=FFF|entry=This form of Pikachu is somewhat rare. It wears the hat of its Trainer, who is also its partner.}}
+{{Dex/Entry1|v=Ultra Moon|t=FFF|entry=This Pikachu is wearing its Trainer's cap. Since the cap's not the right size, the fit is a bit loose.}}
+|}
+|}
+{{Dex/Gen/5|gen=VIII|reg1=Galar|num1=194|reg2=Isle of Armor|num2=085|reg3=Crown Tundra|reg4=Sinnoh|num4=104|reg5=Hisui|num5=056}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=When Pikachu meet, they'll touch their tails together and exchange electricity through them as a form of greeting.}}
+{{Dex/Entry1|v=Brilliant Diamond|entry=It lives in forests with others. It stores electricity in the electric sacs on its cheeks.}}
+{{Dex/Entry1|v=Shining Pearl|entry=If it looses crackling power from the electric sacs on its cheeks, it is being wary.}}
+{{Dex/Entry1|v=Legends: Arceus|t=FFF|entry=Possesses cheek sacs in which it stores electricity. This clever forest-dweller roasts tough berries with an electric shock before consuming them.}}
+{{Dex/Form|Original Cap}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pikachu wears its partner's cap, which is brimming with memories of traveling through many different regions.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled across many regions together.}}
+{{Dex/Form|Hoenn Cap, Sinnoh Cap, Unova Cap, Kalos Cap, and Alola Cap}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pikachu wears its partner's cap, which is brimming with memories of traveling through the {{tt|Hoenn/Sinnoh/Unova/Kalos/Alola|depending on its cap}} [[region]].}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pikachu is wearing its Trainer's cap. The cap is proof that the two traveled throughout the {{tt|Hoenn/Sinnoh/Unova/Kalos/Alola|depending on its cap}} region together.}}
+{{Dex/Form|Partner Cap}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pikachu wears its partner's cap, which is brimming with memories of when they first met.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pikachu is wearing its Trainer's cap. The cap is a precious symbol of a fateful encounter.}}
+{{Dex/Form|World Cap}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=This Pikachu wears its partner's cap, which is brimming with memories of traveling through different regions.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=This Pikachu is wearing its Trainer's cap. The cap is a precious symbol that travels across different regions with Pikachu.}}
+{{Dex/Form|Gigantamax}}
+{{Dex/Entry1|v=Sword|t=FFF|entry=Its Gigantamax power expanded, forming its supersized body and towering tail.}}
+{{Dex/Entry1|v=Shield|t=FFF|entry=When it smashes its opponents with its bolt-shaped tail, it delivers a surge of electricity equivalent to a lightning strike.}}
+|}
+|}
+{{Dex/Gen/5|gen=IX|reg1=Paldea|num1=74|reg2=Kitakami|num2=21|reg3=Blueberry|reg4=Lumiose|num4=053|reg5=Hyperspace}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=When it is angered, it immediately discharges the energy stored in the pouches in its cheeks.}}
+{{Dex/Entry1|v=Violet|t=fff|entry=When several of these Pokémon gather, their electricity can build and cause lightning storms.}}
+{{Dex/Entry1|v=Legends: Z-A|t=FFF|entry=It has small electric sacs on both its cheeks. When in a tough spot, this Pokémon discharges electricity.}}
+{{Dex/Form|Original Cap}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across lots of different regions together.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across many different regions.}}
+{{Dex/Form|Hoenn Cap, Sinnoh Cap, Unova Cap, Kalos Cap, and Alola Cap}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the {{tt|Hoenn/Sinnoh/Unova/Kalos/Alola|depending on its cap}} region together.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the {{tt|Hoenn/Sinnoh/Unova/Kalos/Alola|depending on its cap}} region.}}
+{{Dex/Form|Partner Cap}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The cap this Pikachu wears is filled with memories of this Pokémon traveling together with its partner, whom it met in a fateful encounter.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed as the two overcame many hardships together.}}
+{{Dex/Form|World Cap}}
+{{Dex/Entry1|v=Scarlet|t=fff|entry=The cap this Pikachu wears is filled with memories of this Pokémon and its partner traveling across the world together.}}
+{{Dex/Entry1|v=Violet|t=FFF|entry=This Pikachu wears its partner's cap—proof of the strong bond Pikachu and its partner formed during adventures across the world.}}
+|}
+|}
+{{Dex/Gen/1|reg1=Pokopia|num1=079}}
+{{Dex/Entry1|v=Pokopia|t=FFF|entry=Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.}}
+{{Dex/Form|Pale}}
+{{Dex/Entry1|v=Pokopia|t=FFF|entry=When its friends were sick, this Pokémon repeatedly shared its own electricity with them. As a result, its physical structure changed, and it became unable to generate electricity.}}
+|}
+|}
+{{Dex/Footer}}
+{|style="margin:auto; text-align:center; border:3px solid #{{electric color dark}}; background:#{{electric color}}; font-size:80%; border-radius: 10px"
+|
+{| style="background: #{{electric color}}; {{roundy|10px}}; border: #{{electric color}};"
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Female SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Original SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Hoenn SM.png|x200px]]
+|-
+| Male Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Female Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Original Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Hoenn Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+|-
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Sinnoh SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Unova SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Kalos SM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Alola SM.png|x200px]]
+|-
+| Sinnoh Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Unova Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Kalos Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+| Alola Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|SM}}</span>
+|-
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Female USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Original USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Hoenn USUM.png|x200px]]
+|-
+| Male Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Female Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Original Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Hoenn Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|-
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Sinnoh USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Unova USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Kalos USUM.png|x200px]]
+|style="{{roundy|20px}} border:2px solid #{{electric color dark}}; background:#{{electric color light}}"| [[File:Pokédex Image Pikachu-Alola USUM.png|x200px]]
+|-
+| Sinnoh Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Unova Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Kalos Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+| Alola Cap Pikachu in the {{color2|000|List of Pokémon by Alola Pokédex number|Alola Pokédex}}<span class="whitelinks">{{sup/7|USUM}}</span>
+|}
+|-
+|
+{| style="background: #{{electric color}}; {{roundy|10px}}; border: #{{electric color}}; margin-left:auto; margin-right:auto;"
+|style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Pikachu SV.png|x200px]]
+|style="border:2px solid #{{electric color dark}}; background:#{{electric color light}}; {{roundy|5px}};" | [[File:Pokédex Image Pikachu SV Kitakami.png|x200px]]
+|-
+| Pikachu in the {{color2|000|List of Pokémon by Paldea Pokédex number|Paldea Pokédex}}
+| Pikachu in the {{color2|000|List of Pokémon by Kitakami Pokédex number|Kitakami Pokédex}}
+|}
+|}

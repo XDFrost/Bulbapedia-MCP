@@ -1,0 +1,236 @@
+{{PokémoncardInfobox
+|cardname=Pikachu
+|jname=ピカチュウ
+|jtrans=Pikachu
+|image=PikachuBaseSet58.jpg
+|caption={{TCG|Base Set}} print<br>Illus. [[Mitsuhiro Arita]]
+|reprints=4
+|reprint1=PikachuSnapBestPhotoContest.jpg
+|recaption1={{TCG|Unnumbered Promotional cards|Unnumbered Promotional}} print<br>Photo. [[Mina Akuhara]]
+|reprint2=Pikachu16POPSeries2.jpg
+|recaption2={{TCG|POP Series 2}} print<br>Illus. [[Yuka Morii]]
+|reprint3=PikachuRisingRivals112.jpg
+|recaption3={{TCG|Rising Rivals}} print<br>Illus. [[Mitsuhiro Arita]]
+|species=Pikachu
+|evostage=Basic
+|type=Lightning
+|level=12
+|hp=40
+|weakness=Fighting
+|retreatcost=1
+|retro=yes
+}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|Base Set}}|rarity={{rar|Common}}|cardno=58/102|jpexpansion={{TCG|Expansion Pack}}|jprarity={{rar|Common}}}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|Miscellaneous Promotional cards}}}}
+{{PokémoncardInfobox/Expansion|type=Lightning|jpexpansion={{TCG|Unnumbered Promotional cards}}}}
+{{PokémoncardInfobox/Expansion|type=Lightning|jpdeckkit={{TCG|Intro Pack}}|jpdeck=Bulbasaur Deck|jpcardno=13}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|Base Set 2}}|rarity={{rar|Common}}|cardno=87/130}}
+{{PokémoncardInfobox/Expansion|type=Lightning|gbset={{GB|1|Colosseum}}|gbid=A19|gb2set={{GB|2|Beginning Pokémon}}|gb2id=A28}}
+{{PokémoncardInfobox/Expansion|type=Lightning|jpdeckkit={{TCG|Intro Pack Neo}}|jphalfdeck=Totodile Half Deck|jpcardno=1}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|POP Series 2}}|rarity={{rar|Common}}|cardno=16/17|jpexpansion={{TCG|PCG-P Promotional cards}}|jpcardno=068/PCG-P}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|Rising Rivals}}|rarity={{rar|Rare Secret}}|cardno=112/111|jpexpansion={{TCG|Bonds to the End of Time}}|jprarity={{rar|Ultra-Rare Rare}}|jpcardno=088/090}}
+{{PokémoncardInfobox/Expansion|type=Lightning|expansion={{TCG|Pokémon Trading Card Game Classic}}|deck=Charizard & Ho-Oh ex Deck|cardno=008/034|jpexpansion={{TCG|Pokémon Card Game Classic}}|jpdeck=Charizard & Ho-Oh ex Deck|jpcardno=008/032}}
+{{PokémoncardInfobox/Expansion|type=Lightning|jpexpansion={{TCG|30th Celebration}}|jpcardno=136/103}}
+{{PokémoncardInfobox/Footer|type=Lightning|species=Pikachu}}
+
+'''Pikachu''' (Japanese: '''ピカチュウ''' ''Pikachu'') is a {{ct|Lightning}} Basic Pokémon card. It was first released as part of the {{TCG|Base Set}}.
+
+==Card text==
+===Initial prints===
+{{Cardtext/Header|type=Lightning}}
+{{Cardtext/Attack
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=10
+|effect=
+}}
+{{Cardtext/Attack
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Thunder Jolt
+|jname=でんげき
+|jtrans=Electric Attack
+|jgroup=Electric Shock or Thunder Jolt
+|damage=30
+|effect=Flip a coin. If tails, {{tt|Pikachu|this Pokémon}} does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data (Base Set and Base Set 2 prints)===
+{{Carddex
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=25
+|height=1'4"
+|jheight=0.4
+|weight=13
+|jweight=6
+|dex=When several of these Pokémon gather, their electricity can cause lightning storms.
+|jdex=ほっぺたの両側に小さい電気袋をもつ。ピンチのときに放電する。
+|transdex=It has small electric sacs on both cheeks. If threatened, it looses electric charges from the sacs.
+}}
+
+===Pokédex data (Rising Rivals print)===
+{{Carddex
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=025
+|height=1'04"
+|jheight=0.4
+|weight=13.2
+|jweight=6
+|dex=It has small electric sacs on both its cheeks. If threatened, it looses electric charges from the sacs.
+|jdex=ほっぺたの りょうがわに ちいさい でんきぶくろを もつ。 ピンチのときに ほうでんする。
+}}
+
+===Pokémon Trading Card Game Classic print===
+{{Cardtext/Header|type=Lightning}}
+{{Cardtext/Attack
+|type=Lightning
+|cost={{e|Colorless}}
+|name=Gnaw
+|jname=かじる
+|jtrans=Gnaw
+|damage=10
+|effect=
+}}
+{{Cardtext/Attack
+|type=Lightning
+|cost={{e|Lightning}}{{e|Colorless}}
+|name=Thunder Jolt
+|jname=でんげき
+|jtrans=Electric Attack
+|jgroup=Electric Shock or Thunder Jolt
+|damage=30
+|effect=Flip a coin. If tails, this Pokémon also does 10 damage to itself.
+}}
+{{Cardtext/Footer}}
+
+===Pokédex data (Pokémon Trading Card Game Classic print)===
+{{Carddex
+|type=Lightning
+|name=Pikachu
+|species=Mouse
+|ndex=25
+|height=1'4"
+|jheight=0.4
+|weight=13.2
+|jweight=6
+|dex=When several of these Pokémon gather, their electricity can cause lightning storms.
+|jdex=ほっぺたの両側に小さい電気袋をもつ。ピンチのときに放電する。
+|transdex=It has small electric sacs on both cheeks. If threatened, it looses electric charges from the sacs.
+}}
+
+==Release information==
+===Original Series===
+This card was included in the {{TCG|Base Set}} with artwork by [[Mitsuhiro Arita]], first released in the Japanese {{TCG|Expansion Pack}}. The English release has two versions: the original yellow-cheeked version from Expansion Pack and red-cheeked variant. The split between red cheeks and yellow cheeks is estimated to be 50% in {{TCG|1st Edition}} and {{DL|1st Edition (TCG)|Shadowless}} print runs; however, the {{DL|1st Edition (TCG)|Unlimited}} print runs only feature the yellow cheeks version. Because of this discrepancy, the red cheek version is generally considered more valuable by collectors.
+
+An English version of the yellow-cheeked Base Set print on Japanese card stock was included in the ''[[Pokémon Song Best Collection]]'' CD, released on January 1, 1999.
+
+Both cheek versions have promotional variants with a gold foil "E3" stamp where the expansion symbol would be present in subsequent sets. The red-cheeked variant was distributed to those who visited the [[Nintendo]] booth at the [[Electronic Entertainment Expo]] (E3) between May 13 and 15, 1999, while the yellow-cheeked version was available as an insert in the September 1999 issue of ''[[Nintendo Power]]''. Similarly to the non-promotional versions, the red-cheeked variant is considerably more valuable.
+
+The yellow-cheeked version of the Base Set print has another promotional variant with a gold foil "PokéTour 1999" stamp in the top right corner of the illustration. This card was included in "tour packs" distributed at locations visited by the PokéTour in Australia in 1999, which were advertised to be limited to 3,000 at each venue. The PokéTour consisted of two separate tours: Red, which ran on weekends from September 18 to October 9, 1999; and Blue, which ran on weekends from September 18 to October 7, 1999.
+
+A {{TCG|Jumbo card|Jumbo}} version of the yellow-cheeked Base Set print was included with the February 2000 issue of ''Top Deck Magazine''. This print has "Not for Play Use" in red text on the reverse of the card.
+
+A Korean version of yellow-cheeked Base Set print was included in the {{TCG|Pikachu World Collection 2000|Pikachu World Collection}}, available to purchase exclusively at Pokémon Park 2000 held at Sydney University, Sydney, Australia from September 12 to October 4, 2000. This print features a gold foil Pikachu tail stamp on the left edge under the illustration window.
+
+In Japan, it was reprinted as an {{TCG|Unnumbered Promotional cards|Unnumbered Promotional card}} with photographed artwork by [[Mina Akuhara]], one of five winning entries of the ''[[CoroCoro]]'' [[Pokémon Snap]] {{DL|Illustration contests|CoroCoro Best Photo Contest|Best Photo Contest}}, which was held between May 15 and June 14, 1999. This print has a camera graphic in place of an expansion symbol and text on the bottom of the card border that reads: "''"Best Photo Contest" winning card''". According to the article in the August 1999 issue of ''CoroCoro Comic'' that announced the winning entries, each entrant was to receive twenty copies of a card featuring their photograph.
+
+The yellow-cheeked version of the Base Set print was reprinted in the Bulbasaur Deck of the Japanese {{TCG|Intro Pack}} and in the English {{TCG|Base Set 2}} expansion.
+
+===Neo Series===
+This card was reprinted with its original yellow-cheeked {{TCG|Base Set}} artwork and an updated card template in the Totodile Half Deck of the Japanese {{TCG|Intro Pack Neo}}.
+
+===EX Series===
+This card was reprinted in {{TCG|POP Series 2}} with new artwork by [[Yuka Morii]], first released as one of the Japanese {{TCG|PCG-P Promotional cards}}. In Japan, it was available as part of a [[Meiji]] Chocolate campaign in June 2005.
+
+===Platinum Series===
+A {{TCG|retro card|special reprint}} was included in the {{TCG|Rising Rivals}} expansion with redrawn art by [[Mitsuhiro Arita]], first released in the Japanese {{TCG|Bonds to the End of Time}} expansion.
+
+===XY BREAK Series===
+In Japan, the original {{TCG|Expansion Pack}} print was rereleased as the {{TCGMerch|XY BREAK|Era|20th Anniversary Pikachu Solid Gold Card}} in a collaboration with {{wp|Tanaka Kikinzoku}} for the [[Pokémon 20th Anniversary]] in late 2016. Rather than card stock, this print is printed on a rounded rectangular piece of 24-karat gold weighing 11g. The bottom left corner of this print has an embossed authenticity star and text reading "11g".
+
+===Sword & Shield Series===
+A new Jumbo version of the yellow-cheeked {{TCG|Base Set}} print was included in copies of the {{TCGMerch|Sword & Shield|Series|First Partner Collector's Binder}}, released on February 26, 2021 in celebration of the [[Pokémon 25th Anniversary|25th Anniversary]] of the Pokémon franchise. This print lacks the [[Wizards of the Coast]] copyright and features a foil Pokémon 25th Anniversary logo in the bottom right corner of the illustration window.
+
+The yellow-cheeked Base Set print was also released as a {{TCG|metal cards|metal card}} in the {{TCGMerch|Sword & Shield|Series|Celebrations Ultra-Premium Collection}} on October 22, 2021. Like the Jumbo version released earlier in the year, this print lacks the Wizards of the Coast copyright information.
+
+===Scarlet & Violet Series===
+This card was reprinted in Holofoil with its original yellow-cheeked {{TCG|Base Set}} artwork for the Charizard & Ho-Oh ex deck of {{TCG|Pokémon Card Game Classic}}. This reprint lacks a regulation mark and is thus not legal for tournament play.
+
+===Mega Evolution Series===
+This card is one of the 30 cards reprinted in the 30th Celebration Classic Collection, a subset of the {{TCG|30th Celebration}} special expansion, released to celebrate the [[Pokémon 30th Anniversary]]. The English release is a direct reprint of the Base Set print, while the Asian releases feature the 30th Celebration set symbols and card numbering. The 30th Celebration reprint features a gold border, a glittery Holofoil finish, and the Pokémon 30th Anniversary logo.
+
+===Gallery===
+{{TCGGallery
+|type=Lightning
+|image1=PikachuBaseSet58.jpg
+|set1=Base Set
+|illus1=Mitsuhiro Arita
+|image2=Pikachu Red Cheek Variant.jpg
+|caption2=Altered {{TCG|Base Set}} print<br>Illus. [[Mitsuhiro Arita]]
+|image3=PikachuSnapBestPhotoContest.jpg
+|caption3={{TCG|Unnumbered Promotional cards|Unnumbered Promotional}} print<br>Photo. [[Mina Akuhara]]
+|image4=Pikachu World Collection 2000 Korean.jpg
+|set4=Pikachu World Collection 2000
+|illus4=Mitsuhiro Arita
+|image5=Pikachu16POPSeries2.jpg
+|set5=POP Series 2
+|illus5=Yuka Morii
+|image6=PikachuRisingRivals112.jpg
+|set6=Rising Rivals
+|illus6=Mitsuhiro Arita
+|image7=Pikachu-base-set-metal-card.jpg
+|caption7={{TCGMerch|Sword & Shield|Series|Celebrations Ultra-Premium Collection|Celebrations UPC}} print<br>Illus. [[Mitsuhiro Arita]]
+}}
+{{TCGGallery
+|type=Lightning
+|image1=TCG1 A19 Pikachu.png
+|size1=64px
+|caption1={{TCG GB1}} {{GB|1|Colosseum}} sprite
+|image2=TCG2 A28 Pikachu.png
+|size2=64px
+|caption2={{TCG GB2}} {{GB|2|Beginning Pokémon}} sprite
+}}
+
+==Trivia==
+*This card is popularly known as ''Yellow Cheeks Pikachu'' as a reference to the card's artwork and to differ it from {{OBP|Pikachu|Jungle 60}} card from the {{TCG|Jungle}} expansion. This name also appeared in some instruction manuals produced by [[Wizards of the Coast]].{{fact}}
+*The original Japanese version depicts Pikachu with yellow cheeks. However, Wizards of the Coast, when releasing this card for the first time in English, deliberately recolored Pikachu's cheeks red in an effort to make it more recognizable. Wizards would later reverse this decision in subsequent reprints of the card and return Pikachu's cheeks to their original yellow color; because of this reversal, the original red cheeks are commonly mistaken to be an error.{{fact}}
+*Although not part of a numbered promotional set, the Pikachu distributed at E3 in 1999 was the first English promotional card.
+===Origin===
+Thunder Jolt is a [[move]] in the [[Super Smash Bros.]] series that {{p|Pikachu}} can use. This card's English [[Pokédex]] entry comes from {{game|Red and Blue|s}}, though it is slightly reworded. The Japanese entry comes from {{game|Red and Green|s}}. The Rising Rivals Pokédex entry comes from {{game|FireRed}}.
+
+{{Project TCG notice}}
+
+[[Category:Base Set cards]]
+[[Category:Expansion Pack cards]]
+[[Category:Promotional cards]]
+[[Category:Intro Pack cards]]
+[[Category:Base Set 2 cards]]
+[[Category:Intro Pack Neo cards]]
+[[Category:POP Series 2 cards]]
+[[Category:PCG-P Promotional cards]]
+[[Category:Rising Rivals cards]]
+[[Category:Bonds to the End of Time cards]]
+[[Category:Pokémon Trading Card Game Classic cards]]
+[[Category:Pokémon Card Game Classic cards]]
+[[Category:Japanese 30th Celebration cards]]
+[[Category:Illus. by Mitsuhiro Arita]]
+[[Category:Photo. by Mina Akuhara]]
+[[Category:Illus. by Yuka Morii]]
+[[Category:Holographic cards]]
+[[Category:Jumbo cards]]
+[[Category:Secret cards]]
+
+[[de:Pikachu (Grundset 58)]]
+[[es:Pikachu (Base Set TCG)]]
+[[fr:Pikachu (Set de Base 58)]]
+[[it:Pikachu (Set Base 58)]]
+[[ja:ピカチュウ (第1弾)]]
+[[zh:皮卡丘（基本系列）]]

@@ -1,0 +1,52 @@
+==Effect==
+===Generation I===
+Thunderbolt does damage and has a 10% chance of {{status|Paralysis|paralyzing}} the target. Thunderbolt cannot paralyze {{type|Electric}} Pokémon.
+
+===Generation II to V===
+Thunderbolt can now paralyze Electric-type Pokémon.
+
+Thunderbolt can be used as the second move of a [[Contest combination|Pokémon Contest combination]], with the user gaining 4 bonus appeal points if {{m|Charge}} was used in the previous turn.
+
+===Generation VI onwards===
+Thunderbolt's power was decreased from 95 to 90. It can no longer paralyze {{type|Electric}} Pokémon once again, due to them now being immune to {{status|paralysis}}.
+
+Thunderbolt can be used as part of a [[Contest combination|Contest Spectacular combination]], with the user gaining an extra three appeal points if {{m|Charge}} was used in the prior turn.
+
+===Generation VIII===
+====Pokémon Legends: Arceus====
+{{LegendsMove
+|type=Electric
+|damagecategory=Special
+|basepp=10
+|power=80
+|power-agile=60
+|power-strong=100
+|accuracy=100
+|accuracy-strong=100
+|actionspeed-user=0
+|actionspeed-user-agile=0
+|actionspeed-user-strong=+5
+|actionspeed-target=0
+|actionspeed-target-agile=+3
+|effect=Inflicts the target with paralysis
+|param=Chance
+|param-val=20%
+|param-val-agile=20%
+|param-val-strong=40%
+|param2=Turns
+|param2-val=3
+|param2-val-agile=2
+|param2-val-strong=4}}
+
+===Generation IX===
+====Pokémon Legends: Z-A====
+{{LegendsZAMove
+|type=Electric
+|damagecategory=Special
+|power=90
+|cooldown=8
+|charge-time=25
+|effect=May paralyze the target.
+|param=Chance
+|param-val=10%
+}}

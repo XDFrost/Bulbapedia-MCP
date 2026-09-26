@@ -1,0 +1,506 @@
+{{ItemInfobox/head
+|name=Thunder Stone
+|jname=かみなりのいし
+|jtrans=Lightning Stone
+|gen=I
+|size=100px
+|colorscheme=items
+|fling=yes
+}}
+{{ItemInfobox/BagRow|I|Items}}
+{{ItemInfobox/BagRow|II|Items}}
+{{ItemInfobox/BagRow|III|Items}}
+{{ItemInfobox/BagRow|IV|Items}}
+{{ItemInfobox/BagRow|V|Items}}
+{{ItemInfobox/BagRow|VI|Items}}
+{{ItemInfobox/BagRow|VII|Items}}
+{{ItemInfobox/BagRow|VIII|Other Items}}
+{{ItemInfobox/BagRowBottom|IX|Other Items}}
+{{ItemInfobox/Fling|30|colorscheme=items}}
+|}
+
+The '''Thunder Stone''' (Japanese: '''かみなりのいし''' ''Lightning Stone''), formatted '''Thunderstone''' prior to [[Generation VI]], is a type of [[Evolution stone]] introduced in [[Generation I]].
+
+==In the core series games==
+===Price===
+{{ItemPrice/head|items}}
+{{ItemPrice|{{gameabbrev1|RGBY}}/{{gameabbrev1|RBY}}<br>{{gameabbrev3|FRLG}}|{{PDollar}}2100|{{PDollar}}1050}}
+{{ItemPrice|{{gameabbrev2|GSC}}<br>{{gameabbrev3|RSE}}<br>{{gameabbrev4|DPPtHGSS}}<br>{{gameabbrev5|W}}<br>{{gameabbrev6|XYORAS}}<br>{{gameabbrev8|BDSP}}|N/A|{{PDollar}}1,050}}
+{{ItemPrice|{{gameabbrev5|B}}{{gameabbrev5|B2W2}}|{{PDollar}}10000|{{PDollar}}1050}}
+{{ItemPrice|{{gameabbrev7|SMUSUM}}|{{PDollar}}3,000|{{PDollar}}1,500}}
+{{ItemPrice|{{gameabbrev7|PE}}|{{PDollar}}5,000|{{PDollar}}2,500}}
+{{ItemPrice|{{gameabbrev8|SwSh}}|N/A|{{PDollar}}1,500}}
+{{ItemPrice|{{gameabbrev8|LA}}|N/A|{{PDollar}}750}}
+{{ItemPrice|{{gameabbrev9|SVZA}}|{{PDollar}}3,000|{{PDollar}}750}}
+|}
+|}
+In the [[Generation V]] games, the Thunderstone can be sold to an [[item maniac]] inside the [[Icirrus City]] [[Pokémon Center]] for {{Pdollar}}3000.
+
+===Effect===
+Can be used to [[Evolution|evolve]] one of several Pokémon. This consumes the Thunder Stone.
+*Causes {{p|Pikachu}} to evolve into {{p|Raichu}} (outside of [[Alola]]) or {{rf|Alolan}} {{p|Raichu}} (in Alola)
+**The Thunder Stone cannot be used to evolve [[Cosplay Pikachu]], [[Pikachu in a cap]], the [[Partner Pokémon (Let's Go, Pikachu! and Let's Go, Eevee!)|Partner Pikachu]], or Pikachu with the [[Gigantamax Factor]] into Raichu.
+*Causes {{p|Magneton}} to evolve into {{p|Magnezone}} ([[Generation VIII]] onward)
+*Causes {{p|Eevee}} to evolve into {{p|Jolteon}}
+**The Thunder Stone cannot be used to evolve the [[Partner Pokémon (Let's Go, Pikachu! and Let's Go, Eevee!)|Partner Eevee]] or Eevee with the Gigantamax Factor into Jolteon.
+*Causes {{p|Nosepass}} to evolve into {{p|Probopass}} ([[Generation VIII]] onward)
+**The Thunder Stone cannot be used to evolve Nosepass into Probopass in {{g|Brilliant Diamond and Shining Pearl}}.
+*Causes {{p|Eelektrik}} to evolve into {{p|Eelektross}}
+*Causes {{p|Charjabug}} to evolve into {{p|Vikavolt}} ([[Generation VIII]] onward)
+*Causes {{p|Tadbulb}} to evolve into {{p|Bellibolt}}
+
+When fed into the [[Cram-o-matic]], it is an {{type|Electric}} ingredient that gives 6 points towards the output value.
+
+===Description===
+{{movedesc|items}}
+{{movedescentry|{{gameabbrevss|Stad}}|A <sc>Stone</sc> used for making certain kinds of {{ScPkmn}} evolve.}}
+{{movedescentry|{{gameabbrev2|GSC}}|Evolves certain kinds of {{ScPkmn}}.}}
+{{movedescentry|{{gameabbrev3|RSE}}{{gameabbrevss|ColoXD}}|Makes certain species of {{ScPkmn}} evolve.}}
+{{movedescentry|{{gameabbrev3|FRLG}}|A peculiar stone that makes certain species of {{ScPkmn}} evolve. It has a thunderbolt pattern.}}
+{{movedescentry|{{gameabbrev4|DPPt}}|A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.{{tt|*|Overworld}}|An odd stone needed for evolution. It has a thunderbolt pattern.{{tt|*|Underground}}}}
+{{movedescentry|{{gameabbrev4|HGSS}}<br>{{gameabbrev5|BWB2W2}}|A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern.}}
+{{movedescentry|{{gameabbrev6|XYORAS}}<br>{{gameabbrev7|SMUSUMPE}}<br>{{gameabbrev8|SwShBDSPLA}}<br>{{gameabbrev9|SVZA}}|A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.}}
+|}
+|}
+
+===Acquisition===
+{{ItemAvailability/head|items}}
+|-
+| {{gameabbrev1|RGBY}}<br>{{gameabbrev1|RBY}}
+| 
+| [[Celadon Department Store]]
+|-
+| {{gameabbrev2|GSC}}
+| [[Sea Cottage]] (from [[Bill's grandfather]])
+| {{rt|38|Johto}} (gift from {{tc|Lass}} Dana){{sup/2|C}}, [[Mystery Gift]]
+|-
+| {{gameabbrev3|RSE}}
+| [[New Mauville]]
+| {{rt|124|Hoenn}} (trade for [[Yellow Shard]] with [[Treasure Hunter]])
+|-
+| {{gameabbrev3|FRLG}}
+| [[Kanto Power Plant|Power Plant]] (×2)
+| [[Celadon Department Store]]
+|-
+| {{gameabbrevss|Colo}}
+|
+| ''[[Trade]]''
+|-
+| {{gameabbrevss|XD}}
+| [[Gateon Port]]
+| ''[[Trade]]''
+|-
+| {{gameabbrev4|DPPt}}
+| [[Solaceon Ruins]]{{sup/4|Pt}}, [[Sunyshore City]], {{rt|229|Sinnoh}}{{sup/4|Pt}}
+| [[Underground]]
+|-
+| {{gameabbrev4|HGSS}}
+| [[Sea Cottage]] (from [[Bill's grandfather]])
+| {{rt|38|Johto}} (gift from {{tc|Lass}} Dana), [[Bug-Catching Contest]] first prize (post-[[National Pokédex]]), [[Pokéathlon Dome]] (2500 Pts.){{dotw|We}}{{dotw|Th}}{{dotw|Sa}}
+|-
+| {{gameabbrevss|PW}}
+|
+| {{pw|Yellow Forest}} (6000+ steps)
+|-
+| {{gameabbrev5|BW}}
+| [[Chargestone Cave]], [[Shopping Mall Nine]]
+| {{DL|Phenomenon|Dust cloud}}s, [[Black City]]{{sup/5|Bl}}/[[White Forest]]{{sup/5|W}} (Ken)
+|-
+| {{gameabbrev5|B2W2}}
+| [[Nimbasa City]], [[Chargestone Cave]]
+| [[Battle Subway]]/[[Pokémon World Tournament]] (3 [[Battle Point|BP]]), [[Join Avenue]] ({{DL|Join Avenue|Antique Shop}}), [[Black City]] (Store 1), [[Funfest Mission]]s<br>{{DL|Phenomenon|Dust cloud}}s ([[Chargestone Cave]], [[Mistralton Cave]], [[Clay Tunnel]], [[Twist Mountain]], [[Underground Ruins]], {{OBP|Victory Road|Black 2 and White 2}}, [[Wellspring Cave]], [[Seaside Cave]], [[Giant Chasm]])<br>[[Hidden Grotto]]es ([[Route]]s {{rtn|2|Unova}}, {{rtn|3|Unova}}, {{rtn|5|Unova}}, {{rtn|6|Unova}}, {{rtn|7|Unova}}, {{rtn|9|Unova}}, {{rtn|13|Unova}}, {{rtn|18|Unova}}, {{rtn|22|Unova}}, and {{rtn|23|Unova}}; [[Floccesy Ranch]]; [[Giant Chasm]]; [[Abundant Shrine]]; [[Lostlorn Forest]]; [[Pinwheel Forest]])<br>Transfer from {{pkmn|Dream Radar}}
+|-
+| {{gameabbrevss|DW}}{{tt|*|No longer in service}}
+| 
+| {{dwa|Rugged Mountain}}, {{dwa|Pokémon Café Forest}}
+|-
+| {{gameabbrevss|PDR}}
+| 
+| [[Dream Cloud]]s (after catching {{p|Thundurus}})
+|-
+| {{gameabbrev6|XY}}
+| [[Route]]s {{rtn|10|Kalos}} and {{rtn|11|Kalos}}
+| {{DL|Super Training|Secret Super Training}} (Follow Those Fleeing Goals!, The Battle for the Best: Version X!{{sup/6|X}}, and The Battle for the Best: Version Y!{{sup/6|Y}}), {{rt|18|Kalos}} (from Psychic [[Inver]])<br>[[Natural object|Spiky rocks]]
+|-
+| {{gameabbrev6|ORAS}}
+| [[New Mauville]]
+| {{rt|124|Hoenn}} (trade for [[Yellow Shard]] with [[Treasure Hunter]]), [[Mauville City]] ({{DL|Mauville City|Inverse Battle Stop}}), {{DL|Super Training|Secret Super Training}} (Follow Those Fleeing Goals!, The Battle for the Best!), {{rt|117|Hoenn}} (rematch with {{tc|Triathlete}} Dylan), {{rt|118|Hoenn}} (rematch with {{tc|Guitarist}} Dalton), [[Secret Base]] ("Pick up stones" with {{DL|Secret Base|Secret Pal}})
+|-
+| {{gameabbrevss|PMC}}{{tt|*|No longer in service}}
+| 
+| {{DL|PokéMileage Club|Balloon Popping}} (Lv. 2)
+|-
+| {{gameabbrev7|SM}}
+| {{rt|8|Alola}}
+| [[Konikoni City]], [[Poké Pelago]] (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting)
+|-
+| {{gameabbrev7|USUM}}
+| {{rt|9|Alola}}, [[Paniola Ranch]]{{Sup/7|USUM}}, [[Ultra Plant]] (×6)
+| [[Konikoni City]], [[Poké Pelago]] (Isle Aphun - Brilliant-Stone Hunting, Interesting-Item Hunting)
+|-
+| {{gameabbrev7|PE}}
+| {{rt|10|Kanto}}, {{FB|Kanto|Power Plant}}
+| [[Celadon Department Store]]<br>Found by {{type|Rock}} [[walking Pokémon]] ([[Rock Tunnel]])
+|-
+| {{gameabbrev8|SwSh}}
+| [[North Lake Miloch]]
+| Hidden [[recurring item]] ([[Lake of Outrage]])<br>[[Bridge Field]] ([[Digging Duo]])<br>[[Poké Job]] reward (Tiers V, VI, and IX)
+|-
+| {{gameabbrev8|SwSh}}{{gameabbrev8|CT}}
+|
+| Hidden [[recurring item]] ([[Three-Point Pass]])<br>[[Max Raid Battle]]s ([[Ballimere Lake/Dens|Ballimere Lake]])
+|-
+| {{gameabbrev8|BDSP}}
+| [[Sunyshore City]]
+| [[Grand Underground]]
+|-
+| {{gameabbrev8|LA}}
+|
+| Black ore deposits ([[Obsidian Fieldlands]], [[Crimson Mirelands]], [[Cobalt Coastlands]])<br>Blue ore deposits ([[Crimson Mirelands]], [[Cobalt Coastlands]])<br>{{DL|Jubilife Village|Trading post}} (1,000 [[Merit Point|MP]])<br>{{DL|Jubilife Village|Ginkgo Guild cart}} (randomly sold by [[Ginter]], as "Lightning-Bolt Rock")<br>[[Space-time distortion]]s
+|-
+| {{gameabbrev9|SV}}
+| [[Levincia]], [[Casseroya Lake]], [[West Province (Area One)]]<br>Reward for registering 30 Pokémon in the [[List of Pokémon by Paldea Pokédex number|Paldea Pokédex]]
+| [[Delibird Presents]] (after earning 3 [[Badge|Gym Badges]])<br>[[Tera Raid Battle]]s (1★, 2★, 3★, 4★, 5★)<br>Sparkling overworld item ([[East Province (Area Three)]])
+|-
+| {{gameabbrev9|SV}}{{gameabbrev9|TM}}
+| [[Wistful Fields]]
+| 
+|-
+| {{gameabbrev9|SV}}{{gameabbrev9|ID}}
+| 
+| [[Item Printer]]
+|-
+| {{gameabbrev9|ZA}}
+| [[Bleu Sector 5]] (reward for completing [[Side Mission]] 053: "The Most Electrifying Eelektrik")
+| [[Stone Emporium]]
+|}
+|}
+
+====Distribution====
+{| class="roundy" style="background: #{{items color light}}; border: 5px solid #{{items color}}"
+|-
+|
+{| border=1 style="background:#FFF; border:1px solid #{{items color light}}; border-collapse:collapse"
+|-
+! style="background:#FFF; {{roundytl|5px}}" | Games
+! style="background:#FFF" | Event
+! style="background:#FFF" | Language/Region
+! style="background:#FFF; {{roundytr|5px}}" | Distribution period
+|- style="background:#FFF;"
+| {{gameabbrevss|PW}}
+| {{DL|List of other event distributions in Generation IV|Pokéwalker Spot items}}
+| Korean
+| January 7 to 31, 2011
+|- style="background:#FFF;"
+| rowspan=2 | {{gameabbrev9|SV}}
+| {{DL|List of other event distributions in Generation IX|PokéDoko Eevee Evolution items}}
+| All
+| July 14 to September 30, 2024
+|- style="background:#FFF;"
+| {{DL|List of other event distributions in Generation IX|November 2024 Nintendo newsletter items}}
+| All
+| November 18, 2024 to December 31, 2025
+|}
+|}
+
+=====As a [[held item]]=====
+{| class="roundy" style="background: #{{items color light}}; border: 5px solid #{{items color}}"
+|-
+|
+{| border=1 style="background:#FFF; border:1px solid #{{items color light}}; border-collapse:collapse"
+|-
+! style="background:#FFF; {{roundytl|5px}}" | Games
+! style="background:#FFF" | Event
+! style="background:#FFF" | Language/Region
+! style="background:#FFF; {{roundytr|5px}}" | Distribution period
+|- style="background:#FFF;"
+| {{gameabbrev3|RS}}
+| {{DL|List of PCNY event Pokémon distributions in Generation III|Pikachu|Evolution Stone Promotion Pikachu}}
+| United States
+| August 30 to September 4, 2003
+|}
+|}
+
+==Gallery==
+===Artwork===
+{| style="margin:auto; text-align:center; {{roundy|20px}} border: 2px solid #{{items color dark}}; background: #{{items color}}; font-size: 80%"
+|-
+|style="{{roundy|80px}} border: 2px solid #{{items color dark}}; background: #{{items color light}}"| [[File:Bag Thunder Stone SV Sprite.png|100px]]
+|style="{{roundy|80px}} border: 2px solid #{{items color dark}}; background: #{{items color light}}"| [[File:Bag Thunder Stone ZA Sprite.png|100px]]
+|-
+| Artwork from<br>{{color2|000|Pokémon Scarlet and Violet|Scarlet and Violet}}
+| Artwork from<br>{{color2|000|Pokémon Legends: Z-A|Legends: Z-A}}
+|}
+
+===Sprites===
+{| style="margin:auto; text-align:center; {{roundy|20px}} border: 2px solid #{{items color dark}}; background: #{{items color}}; font-size: 80%"
+|-
+|style="{{roundy|80px}} border: 2px solid #{{items color dark}}; background: #{{items color light}}"| [[File:Mine Thunder Stone.png]]
+|style="{{roundy|80px}} border: 2px solid #{{items color dark}}; background: #{{items color light}}"| [[File:Mine Thunder Stone BDSP.png|100px]]
+|style="{{roundy|80px}} border: 2px solid #{{items color dark}}; background: #{{items color light}}"| [[File:Bag Thunder Stone LA Sprite.png]]
+|-
+| {{color2|000|Underground}} sprite from<br>{{color2|000|Pokémon Diamond and Pearl Versions|Diamond, Pearl}}, and {{color2|000|Pokémon Platinum Version|Platinum}}
+| {{color2|000|Grand Underground}} sprite from<br>{{color2|000|Pokémon Brilliant Diamond and Shining Pearl|Brilliant Diamond and Shining Pearl}}
+| Bag sprite from<br>{{color2|000|Pokémon Legends: Arceus|Legends: Arceus}}
+|}
+
+==In the spin-off games==
+===Pokémon Mystery Dungeon series===
+The Thunderstone appears in [[Pokémon Mystery Dungeon]]: [[Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Red Rescue Team and Blue Rescue Team]], [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Explorers of Time, Darkness]], and [[Pokémon Mystery Dungeon: Explorers of Sky|Sky]], and [[Pokémon Mystery Dungeon: Gates to Infinity|Gates to Infinity]].
+
+====Price====
+{{ItemPrice/head|items}}
+{{ItemPrice|{{gameabbrevmd|RB}}|3000[[File:Poké currency.png|link=Poké]]|1[[File:Poké currency.png|link=Poké]]}}
+{{ItemPrice|{{gameabbrevmd|TDS}}|1000[[File:Poké currency.png|link=Poké]]|1[[File:Poké currency.png|link=Poké]]}}
+{{ItemPrice|{{gameabbrevmd|GTI}}|?|100[[File:Poké currency V.png|link=Poké]]}}
+|}
+|}
+
+====Effect====
+Can be used to evolve one of several Pokémon by offering it at the [[Luminous Cave]]{{sup/md|RB}} or [[Luminous Spring]]{{sup/md|TDS}} or by using it in a dungeon{{sup/md|GTI}}. This consumes the Thunderstone.
+*Causes {{p|Pikachu}} to evolve into {{p|Raichu}}
+*Causes {{p|Eevee}} to evolve into {{p|Jolteon}}
+*Causes {{p|Eelektrik}} to evolve into {{p|Eelektross}}
+
+If thrown, it will deal 1{{sup/md|RB}}{{sup/md|TDS}}/2{{sup/md|GTI}} damage (2 if [[sticky]]<!--confirm for GTI-->). In Red Rescue Team, Blue Rescue Team, Explorers of Time, Explorers of Darkness, and Explorers of Sky, using this item in a dungeon will consume it, with no effect.
+
+====Description====
+{{movedesc|items}}
+{{movedescentry|{{gameabbrevmd|RB}}|It enables certain kinds of Pokémon to evolve. Give it to the Pokémon when it's ready to evolve.}}
+{{movedescentry|{{gameabbrevmd|TDS}}|A peculiar stone inscribed with a thunderbolt pattern. It allows certain kinds of Pokémon to evolve.}}
+{{movedescentry|{{gameabbrevmd|GTI}}|A peculiar stone with a thunderbolt pattern. It helps certain kinds of Pokémon to evolve.}}
+|}
+|}
+
+====Acquisition====
+{{ItemAvailability/head|items}}
+|-
+| {{gameabbrevmd|RB}}
+| 
+| [[Lightning Field]] (29F) [[Unknown Dungeon (Mystery Dungeon)]]
+|-
+| {{gameabbrevmd|TDS}}
+| 
+| [[Treasure Box]]es, Job requests (★3-★9)<br/>[[Mystifying Forest]] (Kecleon Shop: 5F, 7F, 9F, 11F, 13F), [[Lake Afar]] (Kecleon Shop: B3F, B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F), [[Midnight Forest]] (Kecleon Shop: B5F, B7F, B9F, B11F, B13F, B15F, B17F, B19F, B21F, B23F)
+|- 
+| {{gameabbrevmd|GTI}}
+| 
+| [[Treasure Box]]es<br/>[[Pokémon Paradise]] (Sunken Treasure, Beartic Slide, Prize Palace)<br/>[[Skill Treasury]], [[Treasure Trove]]
+|}
+|}
+
+====Appearance====
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{items color dark}}; background:#{{items color}}; font-size:80%"
+|- 
+| style="{{roundy|80px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:25%" | [[File:MDBag Thunderstone RTRB Sprite.png]]
+| style="{{roundy|80px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:25%" | [[File:MDBag Thunderstone TDS Sprite.png]]
+| style="{{roundy|80px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:25%" | [[File:MDBag Thunderstone V Sprite.png]]
+| style="{{roundy|80px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:25%" | [[File:Thunderstone PMD GTI.png|80px]]
+|- 
+| Sprite from<br>{{color2|000|Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|Red Rescue Team and<br>Blue Rescue Team}}
+| Sprite from<br>{{color2|000|Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|Explorers of Time,<br>Darkness}}, and {{color2|000|Pokémon Mystery Dungeon: Explorers of Sky|Sky}}
+| Sprite from<br>{{color2|000|Pokémon Mystery Dungeon: Gates to Infinity|Gates to Infinity}}
+| Model from<br>{{color2|000|Pokémon Mystery Dungeon: Gates to Infinity|Gates to Infinity}}{{tt|*|Also exists in left over in-game data in Super Mystery Dungeon}}
+|}
+
+===Pokémon Conquest===
+In [[Pokémon Conquest]], {{p|Pikachu}} and {{p|Eevee}} evolve into {{p|Raichu}} and {{p|Jolteon}}, respectively, if their [[link]] is improved while their [[Warrior]] is equipped with a Thunderstone.
+
+A Thunderstone can be purchased from the {{DL|kingdom event|traveling merchant}} for 5000 gold, and sold for 2500-3250 gold.
+
+====Description====
+{{movedesc|items}}
+{{movedescentry|{{gameabbrevss|Conq}}|Enables certain Pokémon to evolve.}}
+|}
+|}
+
+===Pokémon Pinball series===
+In [[Pokémon Pinball]] and [[Pokémon Pinball: Ruby & Sapphire]], the player gets three Thunder Stone symbols in order to evolve any of the Pokémon below.
+
+{| class="roundtable" style="background:#{{items color light}}; border:5px solid #{{items color}}"
+! Evolves from !! Evolves into !! {{color2|000|Pokémon Pinball}} !! {{color2|000|Pokémon Pinball: Ruby & Sapphire|Pokémon Pinball:<br/>Ruby & Sapphire}}
+|-
+| {{p|Pikachu}}
+| {{p|Raichu}}
+| {{yes}}
+| {{yes}}
+|-
+| {{p|Eevee}}
+| {{p|Jolteon}}
+| {{yes}}
+| {{no}}
+|}
+
+====Gallery====
+{| style="margin:auto; text-align:center; {{roundy|10px}} border:2px solid #{{items color dark}}; background:#{{items color}}"
+|-
+| style="{{roundy|10px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:80px; height:20px" | [[File:Pinball Thunder.png]]
+| style="{{roundy|10px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:80px; height:20px" | [[File:Pinball Counter Thunder.png]]
+| style="{{roundy|10px}} border:2px solid #{{items color dark}}; background:#{{items color light}}; width:80px; height:20px" | [[File:Pinball RS Thunder.png]]
+|- style="font-size:80%"
+| Sprite from<br/>{{color2|000|Pokémon Pinball|Pinball}}
+| Counter from<br/>{{color2|000|Pokémon Pinball|Pinball}}
+| Sprite from<br/>{{color2|000|Pokémon Pinball: Ruby & Sapphire|Pinball: Ruby & Sapphire}}
+|}
+
+===Pokémon Sleep===
+[[File:Sleep Thunder Stone.png|thumb|120px|Thunder Stone in Pokémon Sleep]]
+The Thunder Stone is available in [[Pokémon Sleep]].
+
+====Price====
+{{ItemPrice/head|items}}
+{{ItemPrice|{{gameabbrevss|Sleep}}|{{SleepPoint|1,400}}}}
+|}
+|}
+
+====Effect====
+The Thunder Stone is required to evolve certain Pokémon in Pokémon Sleep. It is consumed upon use.
+* {{p|Pikachu}} requires {{SleepCandy|Pikachu}}80 Pikachu {{Sleep|Candy}} and a Thunder Stone to evolve into {{p|Raichu}}.
+* {{p|Magneton}} requires {{SleepCandy|Magnemite}}80 Magnemite {{Sleep|Candy}} and a Thunder Stone to evolve into {{p|Magnezone}}.
+* {{p|Eevee}} requires {{SleepCandy|Eevee}}80 Eevee {{Sleep|Candy}} and a Thunder Stone to evolve into {{p|Jolteon}}.
+* {{p|Charjabug}} requires {{SleepCandy|Grubbin}}80 Grubbin {{Sleep|Candy}} and a Thunder Stone to evolve into {{p|Vikavolt}}.
+
+====Description====
+{{movedesc|items}}
+{{movedescentry|{{gameabbrevss|Sleep}}|A peculiar stone that can make certain species of Pokémon evolve. It has a distinct thunderbolt pattern.}}
+|}
+|}
+
+====Acquisition====
+{{ItemAvailability/head|items}}
+|-
+| {{gameabbrevss|Sleep}}
+| {{Sleep|Achievement}} reward
+| {{Sleep|Shop|Sleep Point Exchange (Regular)}}
+|}
+|}
+{{-}}
+
+==In animation==
+[[File:Thunder Stone BW135.png|thumb|250px|A Thunder Stone in {{aniseries|BW}}]]
+===''Pokémon the Series''===
+===={{aniseries|OS}}====
+The Thunder Stone debuted in ''[[EP014|Electric Shock Showdown]]'', when [[Nurse Joy]] gave {{Ash}} a Thunder Stone so that he could [[Evolution|evolve]] his {{AP|Pikachu}} in order to defeat [[Lt. Surge]]'s {{TP|Lt. Surge|Raichu}}. Pikachu, however, refused the offer.
+
+In ''[[EP040|The Battling Eevee Brothers]]'', the Thunder Stone appeared as part of a collection held by the [[Eevee brothers]]. Two of the Eevee brothers offered a [[Fire Stone]] and Thunder Stone to {{an|Brock}} and Ash to evolve their respective {{TP|Brock|Vulpix}} and Pikachu, though both refused.
+
+===={{aniseries|RS}}====
+An image of a Thunder Stone appeared in ''[[AG011|A Bite to Remember]]'' during Brock's explanation on how [[Evolution]] works.
+
+===={{aniseries|DP}}====
+In ''[[DP074|Pika and Goliath!]]'', Ash was revealed to have kept his Thunder Stone in case Pikachu ever wanted to evolve. When a similar scenario to the one in [[Vermilion City]] occurred again, Pikachu still refused to use the stone. Seeing his determination to not evolve, {{TRT}} stole the stone, planning to sell it.
+
+===={{aniseries|BW}}====
+Ash had to find a Thunder Stone in a scavenger hunt as part of the [[Wishing Bell Festival]] contest in ''[[BW069|Climbing the Tower of Success!]]''. He came across a young man in possession of one who tried to toss it to him from a long distance. The Thunder Stone nearly came in contact with Pikachu but he jumped out of the way just in time, leaving Ash to catch it.
+
+''[[BW135|Mystery on a Deserted Island!]]'' featured the Thunder Stone along with all of the other Evolution stones available as of [[Generation V]].
+
+===={{aniseries|XY}}====
+A Thunder Stone appeared in ''[[XY012|To Catch a Pokémon Smuggler!]]'' as a part of {{an|Clemont}}'s explanation of how [[Evolution]] works, {{p|Pikachu}}'s Evolution into {{p|Raichu}} working as an example of Evolution using an [[Evolution stone]].
+
+A full set of Evolution stones was seen on display in a stone shop in [[Geosenge Town]] in ''[[XY031|The Cave of Trials!]]''.
+
+===={{aniseries|JN}}====
+Multiple Thunder Stones appeared in [[JN035|''Gotta Catch a'' What?!]], where multiple {{pkmn2|wild}} Pikachu were digging them up in a valley in order to evolve. One was found by [[Goh]]'s newly {{pkmn2|caught}} Pikachu, who gave it to her {{pkmn|Trainer}}. Later, Goh used the Stone to evolve his Pikachu into {{TP|Goh|Raichu}} in order to help defeat Team Rocket.
+
+A Thunder Stone was seen in ''[[JN049|To Train, or Not to Train!]]'', when members of the [[Eevee Evolution Lab]] tried to get an {{TP|Chloe|Eevee}} to evolve, only for it to not work.
+
+In ''[[JN098|Out of Their Elements!]]'', {{OBP|Harmony|JN098}} and {{OBP|Billy|JN098}} attempted to use a Fire Stone and a Thunder Stone, respectively, to evolve their Eevee partners. However, they accidentally dropped the stones onto the wrong Eevee, causing them to evolve into opposite forms than what they had intended. They attempted to correct the mistake with the spare stones they had, but the stones had no effect on the already-evolved Pokémon. At the end of the episode, they gave their spare stones to [[Chloe]].
+
+====Gallery====
+<gallery>
+Thunder Stone EP040.png|The Thunder Stone in ''[[EP040|The Battling Eevee Brothers!]]''
+Thunder Stone DP074.png|Ash's Thunder Stone in ''[[DP074|Pika and Goliath!]]''
+Thunder Stone JN035.png|Goh's Thunder Stone in [[JN035|''Gotta Catch a'' What?!]]
+</gallery>
+
+==In the manga==
+[[File:Evolutionary stones EToP.png|thumb|250px|Evolution stones in [[The Electric Tale of Pikachu]]]]
+===The Electric Tale of Pikachu===
+The focus of the chapter ''[[ET06|To Evolve or Not to Evolve, That Is the Question!]]'' was Evolution stones, including the Thunder Stone.
+{{-}}
+
+===Pokémon Adventures===
+[[File:Evolution stones Adventures.png|thumb|250px|Evolution stones in [[Pokémon Adventures]]]]
+===={{MangaArc|Yellow}}====
+In ''[[PS058|The Kindest Tentacruel]]'', the [[Pokémon Fan Club Chairman]] told {{adv|Yellow}} about a legend of an underwater dome at the bottom of {{ci|Vermilion}} Harbor, housing a set of [[Evolution stone]]s which, unlike normal stones, did not disappear after making a Pokémon [[Evolution|evolve]], allowing them to be used repeatedly. The cause of [[Poli]]'s Evolution had been one of these said stones, proving the legend to be true. Yellow was later led to the dome by a wild {{p|Tentacruel}}, finding a Leaf Stone in it, but the Fire, Thunder, and Water Stones were missing. Later, it was revealed that {{adv|Giovanni}} had given them to {{adv|Red}} so he could freely evolve and [[Devolution|devolve]] his {{p|Eevee}}, [[Vee]].
+{{-}}
+
+===Pokémon Zensho===
+[[File:Thunder Stone Zensho.png|thumb|150px|A Thunder Stone in [[Pokémon Zensho]]]]
+In ''[[PZ10|Indigo Plateau]]'', {{Zensho|Satoshi}}'s {{p|Pikachu}} used a Thunder Stone to evolve itself into a {{p|Raichu}} before Satoshi left to challenge the [[Elite Four]].
+{{-}}
+
+==In the TCG==
+The following gallery is of cards mentioning or featuring a Thunder Stone in the [[Pokémon Trading Card Game]].<gallery>
+File:RaichuHeartGoldSoulSilver10.jpg|[[Raichu (HeartGold & SoulSilver 10)|Raichu]] ([[HeartGold & SoulSilver (TCG)|HeartGold & SoulSilver]] 10/123)
+File:JolteonUndaunted28.jpg|[[Jolteon (Undaunted 28)|Jolteon]] ([[Undaunted (TCG)|Undaunted]] 28/90)
+File:JolteonCallLegends45.jpg|[[Jolteon (Undaunted 28)|Jolteon]] ([[Call of Legends (TCG)|Call of Legends]] 45/95)
+</gallery>
+
+==Merchandise==
+The Thunder Stone has been featured in several officially licensed figures and goods.
+<gallery>
+File:Pokémon Focus Eevee Thunder Stone.jpg|[[Pokémon Focus]] {{p|Eevee}}
+File:Pokémon Focus Jolteon.jpg|Pokémon Focus {{p|Jolteon}}
+File:Pokémon Focus Pikachu Thunder Stone.jpg|Pokémon Focus {{p|Pikachu}}
+File:Pokémon Focus Raichu.jpg|Pokémon Focus {{p|Raichu}}
+File:Pokémon Evolution Stones candy box set.jpg|Pokémon Evolution Stones candy box set
+File:Evolution Stone replicas.jpg|[[Evolution Stones collection|Evolution Stone]] replicas
+File:Goods for Adventure Pikachu strap.jpg|[[Goods for Adventure]] Pikachu strap
+File:Twinkle Dolly Pokémon Jolteon.jpg|[[Twinkle Dolly Pokémon]] Jolteon
+File:Jolteon Thunder Stone bracelet.jpg|Jolteon bracelet
+File:Evolution Stone Pikachu plush keychain.jpg|Evolution Stone Pikachu plush keychain
+File:Evolution Stone Thunder Stone pouch.jpg|Evolution Stone Thunder Stone pouch
+File:Evolution Stone message cards.jpg|Evolution Stone message cards
+File:Evolution Stone embroidery.jpg|Evolution Stone embroidery
+File:Evolution Stone Sleeves.jpg|Evolution Stone Sleeves
+File:Eevee and Evolution Sleeves.jpg|Eevee and Evolution Sleeves
+File:Pokémon Pop clear file.jpg|[[Pokémon Pop]] clear file
+File:Mofu Mofu Eevee notebook.jpg|[[Mofu Mofu Eevee]] notebook
+File:Trainer Collection XY Heroine Artwork.png|[[Trainers Collection]] [[Serena (game)|Serena]] key artwork
+File:Trainers Collection Battle Chatelaines ring notebook.jpg|Trainers Collection [[Battle Chatelaine (Trainer class)|Battle Chatelaines]] ring notebook
+</gallery>
+
+==Trivia==
+* Through {{DL|List of glitches in Generation I|Evolution stone bypassing|a glitch}} in the [[Generation I]] games, Pokémon that would normally require an [[Evolution stone]] to evolve can be evolved without it, provided that the Pokémon levels up in the battle and the player has sent out a specific Pokémon in the same battle. In the case of the Thunderstone, this Pokémon is {{p|Growlithe}}.
+* In {{g|Yellow}}, if the player attempts to use a Thunder Stone on their Pikachu, it'll refuse. Talking to Pikachu afterwards will cause it to shake its head. Traded Pikachu are unaffected by this.
+* In {{LGPE}}, if the player tries to give their {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!}} a Thunder Stone, they will not accept it, and therefore, will not evolve. In {{p|Eevee}}'s case, the same thing will happen if the player attempts to give them a [[Fire Stone]] or a [[Water Stone]].
+
+==In other languages==
+{{langtable|color={{items color light}}|bordercolor={{items color}}
+|zh_yue=雷之石 ''{{tt|Lèuih jī Sehk|Thunder Stone}}''
+|zh_cmn=雷之石 ''{{tt|Léi zhī Shí|Thunder Stone}}'' {{tt|*|Games, Animation, Emerald Guidebook}}<br>雷石 ''{{tt|Léi Shí|Thunder Stone}}'' {{tt|*|Early Adventures}}
+|cs=Hromový kámen
+|da=Tordensten
+|fi=Ukkoskivi<br>Myrskykivi{{tt|*|One quote in EP040}}
+|fr=Pierre Foudre<sup>{{gen|VI}}+</sup><br>Pierrefoudre<sup>{{gen|I}}–{{gen|V}}</sup>
+|de=Donnerstein
+|it=Pietratuono
+|ko=천둥의돌 ''{{tt|Cheondung-ui Dol|Thunder Stone}}''
+|no=Tordenstein
+|pl=Kamień Pioruna{{tt|*|Animated series (Advanced, Black and White series onwards)}}<br>Kamień Gromu{{tt|*|Animated series (Battle Dimension)}}<br>Piorunujący Kamień{{tt|*|Animated series (EP040)}}<br>Kamienny Pioruń{{tt|*|Animated series (EP014)}}
+|pt_br=Pedra do Trovão{{tt|*|Animated series, manga, The Official Pokémon Handbook, Pokémon Club}}<br>Pedra Trovão{{tt|*|The Official Pokémon Handbook}}
+|pt_eu=Pedra Trovoada
+|es_la=Piedra Trueno{{tt|*|Games, Animated series (BW139-present)}}<br>Trueno Piedra{{tt|*|Animated series (DP074)}}<br>Roca Trueno{{tt|*|Animated series (EP014-AG011)}}
+|es_eu=Piedra Trueno<sup>{{gen|VI}}+</sup><br>Piedratrueno<sup>{{gen|I}}–{{gen|V}}</sup>
+|sv=Åsksten
+|tr=Fırtına Taşı<br>Gök Gürültüsü Taşı
+|vi=Đá sấm sét
+|ca=Pedra Tro
+}}
+
+==Related articles==
+{{Evolution items}}
+{{Project ItemDex notice}}
+
+[[Category:Evolution stones]]
+[[Category:Pokémon Mystery Dungeon items]]
+[[Category:Pokémon Conquest items]]
+
+[[de:Donnerstein]]
+[[es:Piedra Trueno]]
+[[fr:Pierre Foudre]]
+[[it:Pietratuono]]
+[[ja:かみなりのいし]]
+[[zh:雷之石（道具）]]

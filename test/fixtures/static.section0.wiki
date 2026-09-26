@@ -1,0 +1,18 @@
+{{AbilityInfobox/header
+|name=Static
+|jpname=せいでんき
+|jptrans=Static Electricity
+|jptranslit=Seidenki
+|colorscheme=electric
+|gen=III
+}}
+{{AbilityInfobox/desc|III|Paralyzes on contact.}}
+{{AbilityInfobox/desc|IV|Contact with the Pokémon may cause paralysis.}}
+{{AbilityInfobox/desc|V|Contact with the Pokémon may cause paralysis.}}
+{{AbilityInfobox/desc|VI|Contact with the Pokémon may cause paralysis.}}
+{{AbilityInfobox/desc|VII|The Pokémon is charged with static electricity, so contact with it may cause paralysis.}}
+{{AbilityInfobox/desc|VIII|The Pokémon is charged with static electricity, so contact with it may cause paralysis.}}
+{{AbilityInfobox/desc|IX|The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.}}
+{{AbilityInfobox/desc/Champions|When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed.}}
+|}
+'''Static''' (Japanese: '''せいでんき''' ''Static Electricity'') is an [[Ability]] introduced in [[Generation III]].

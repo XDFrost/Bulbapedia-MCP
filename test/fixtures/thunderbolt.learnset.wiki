@@ -1,0 +1,406 @@
+==Learnset==
+===By [[Level|leveling up]]===
+{{Movehead/Games|Electric|g7=2|g8=3|g9=2}}
+{{Moveentry/13|0025|Pikachu|type=Electric|2|Field|Fairy|26{{sup/1|Y}}|26|26|26|29|29{{sup/6|XY}}<br>42{{sup/6|ORAS}}|42|21|36|36|29|36|25|STAB='''}}
+{{Moveentry/13|0026|Raichu|type=Electric|2|Field|Fairy|−|1|1|1|1|1|1|−|1|1|29|5|25|STAB='''}}
+{{Moveentry/13|0026|formsig=A|Raichu|type=Electric|type2=Psychic|2|Field|Fairy|form=Alolan Form|||||||1|−|1|||5|25|STAB='''}}
+{{Moveentry/13|0081|Magnemite|type=Electric|type2=Steel|1|Mineral|Mineral|−|−|−|−|−|−|−|26|−|−|34|−|STAB='''}}
+{{Moveentry/13|0082|Magneton|type=Electric|type2=Steel|1|Mineral|Mineral|−|−|−|−|−|−|−|26|−|−|34|−|STAB='''}}
+{{Moveentry/13|0100|Voltorb|type=Electric|1|Mineral|Mineral|−|−|−|−|−|−|−|31||−||−|STAB='''}}
+{{Moveentry/13|0100|formsig=H|Voltorb|type=Electric|type2=Grass|1|Mineral|Mineral|form=Hisuian Form|||||||||||29|−|STAB='''}}
+{{Moveentry/13|0101|Electrode|type=Electric|1|Mineral|Mineral|−|−|−|−|−|−|−|36||−||−|STAB='''}}
+{{Moveentry/13|0101|formsig=H|Electrode|type=Electric|type2=Grass|1|Mineral|Mineral|form=Hisuian Form|||||||||||29|−|STAB='''}}
+{{Moveentry/13|0125|Electabuzz|type=Electric|1|Human-Like|Human-Like|−|47|47|43|50{{sup/5|BW}}<br>49{{sup/5|B2W2}}|49|49|44|46|46|34|46|STAB='''}}
+{{Moveentry/13|0135|Jolteon|type=Electric|1|Field|Field|−|−|−|−|−|−|−|−|−|−|25|−|40|STAB='''}}
+{{Moveentry/13|0137|Porygon|type=Normal|1|Mineral|Mineral|−|−|−|−|−|−|−|−|−|−|29|−|−}}
+{{Moveentry/13|0145|Zapdos|type=Electric|type2=Flying|1|No Eggs Discovered|No Eggs Discovered|−|−|−|−|−|−|−|32|−|−||−|STAB='''}}
+{{Moveentry/13|0172|Pichu|type=Electric|1|No Eggs Discovered|No Eggs Discovered||−|−|−|−|−|−||−|−|−|−|25|STAB='''}}
+{{Moveentry/13|0179|Mareep|type=Electric|2|Monster|Field||−|−|−|−|−|−|||−||−|36|STAB='''}}
+{{Moveentry/13|0180|Flaaffy|type=Electric|2|Monster|Field||−|−|−|−|−|−|||−||−|36|STAB='''}}
+{{Moveentry/13|0181|Ampharos|type=Electric|2|Monster|Field||−|−|−|−|−|−|||−||−|36|STAB='''}}
+{{Moveentry/13|0233|Porygon2|type=Normal|1|Mineral|Mineral||−|−|−|−|−|−||−|−|29|−|−}}
+{{Moveentry/13|0239|Elekid|type=Electric|1|No Eggs Discovered|No Eggs Discovered||41|41|37|46{{sup/5|BW}}<br>40{{sup/5|B2W2}}|40|40||40|40|34|40|STAB='''}}
+{{Moveentry/13|0309|Electrike|type=Electric|1|Field|Field|||−|−|−|−|−||−|−|||40|STAB='''}}
+{{Moveentry/13|0310|Manectric|type=Electric|1|Field|Field|||−|−|−|−|−||−|−|||40|STAB='''}}
+{{Moveentry/13|0462|Magnezone|type=Electric|type2=Steel|1|Mineral|Mineral||||−|−|−|−||−|−|34|−|STAB='''}}
+{{Moveentry/13|0466|Electivire|type=Electric|1|Human-Like|Human-Like||||43|50{{sup/5|BW}}<br>49{{sup/5|B2W2}}|49|49||46|46|34|46|STAB='''}}
+{{Moveentry/13|0474|Porygon-Z|type=Normal|1|Mineral|Mineral||||−|−|−|−||−|−|29|−|−}}
+{{Moveentry/13|0479|Rotom|type=Electric|type2=Ghost|1|Amorphous|Amorphous|form=All forms||||−|−|−|−||−|−|34|−|−|STAB='''}}
+{{Moveentry/13|0603|Eelektrik|type=Electric|1|Amorphous|Amorphous|||||44|44|44|||||44|44|STAB='''}}
+{{Moveentry/13|0604|Eelektross|type=Electric|1|Amorphous|Amorphous|||||−|−|−|||||−|44|STAB='''}}
+{{Moveentry/13|0618|Stunfisk|type=Ground|type2=Electric|2|Water 1|Amorphous|||||45|45|45||−||||−|STAB='''}}
+{{Moveentry/13|0644|Zekrom|type=Dragon|type2=Electric|1|No Eggs Discovered|No Eggs Discovered|||||22|22|22||40|||40|STAB='''}}
+{{Moveentry/13|0694|Helioptile|type=Electric|type2=Normal|2|Monster|Dragon||||||49|49||−||||36|STAB='''}}
+{{Moveentry/13|0695|Heliolisk|type=Electric|type2=Normal|2|Monster|Dragon||||||−|−||1||||36|STAB='''}}
+{{Moveentry/13|0702|Dedenne|type=Electric|type2=Fairy|2|Field|Fairy||||||−|−||−|||−|35|STAB='''}}
+{{Moveentry/13|0738|Vikavolt|type=Bug|type2=Electric|1|Bug|Bug|||||||1,&nbsp;{{tt|Evo.|Learned upon evolving}}||1,&nbsp;{{tt|Evo.|Learned upon evolving}}|||{{tt|Evo.|Learned upon evolving}}|STAB='''}}
+{{Moveentry/13|0796|Xurkitree|type=Electric|1|No Eggs Discovered|No Eggs Discovered|||||||37||55||||STAB='''}}
+{{Moveentry/13|0894|Regieleki|type=Electric|1|No Eggs Discovered|No Eggs Discovered|||||||||42|||42|STAB='''}}
+{{Movefoot|Electric|13}}
+
+===By [[TM]]/[[TR]]/[[Move Tutor]]===
+{{Movehead/TMGames|Electric|g1tm=24
+|g2tm=tutor|g2g={{gameabbrev2|C}}
+|g3tm=24
+|g4tm=24
+|g5tm=24
+|g6tm=24
+|g7=2|g7tm-1=24|g7tm-2=36
+|g8=3|g8tm-1=08|tmhm8-1=TR|g8tm-2=24|g8tm-3=tutor
+|g9=2|g9tm-1=126|g9tm-2=067}}
+{{Moveentry/13|0019|Rattata|type=Normal|1|Field|Field|✔|−|✔|✔|✔|✔|✔|✔||✔||}}
+{{Moveentry/13|0020|Raticate|type=Normal|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔||✔||}}
+{{Moveentry/13|0025|Pikachu|type=Electric|2|Field|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0026|Raichu|type=Electric|2|Field|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0026|formsig=A|Raichu|type=Electric|type2=Psychic|2|Field|Fairy|form=Alolan Form|||||||✔|✔|✔|||✔|✔|STAB='''}}
+{{Moveentry/13|0029|Nidoran♀|type=Poison|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0030|Nidorina|type=Poison|1|No Eggs Discovered|No Eggs Discovered|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0031|Nidoqueen|type=Poison|type2=Ground|1|No Eggs Discovered|No Eggs Discovered|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0032|Nidoran♂|type=Poison|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0033|Nidorino|type=Poison|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0034|Nidoking|type=Poison|type2=Ground|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||}}
+{{Moveentry/13|0035|Clefairy|type=Fairy|1|Fairy|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0036|Clefable|type=Fairy|1|Fairy|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0039|Jigglypuff|type=Normal|type2=Fairy|1|Fairy|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0040|Wigglytuff|type=Normal|type2=Fairy|1|Fairy|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0052|Meowth|type=Normal|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0052|formsig=A|Meowth|type=Dark|1|Field|Field|form=Alolan Form|||||||✔|✔|✔|||✔|✔}}
+{{Moveentry/13|0052|formsig=G|Meowth|type=Steel|1|Field|Field|form=Galarian Form|||||||||✔|||✔|✔}}
+{{Moveentry/13|0053|Persian|type=Normal|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0053|formsig=A|Persian|type=Dark|1|Field|Field|form=Alolan Form|||||||✔|✔|✔|||✔|✔}}
+{{Moveentry/13|0056|Mankey|type=Fighting|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔|✔}}
+{{Moveentry/13|0057|Primeape|type=Fighting|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔|✔}}
+{{Moveentry/13|0074|formsig=A|Geodude|type=Rock|type2=Electric|1|Mineral|Mineral|form=Alolan Form|||||||✔|✔||||✔|STAB='''}}
+{{Moveentry/13|0075|formsig=A|Graveler|type=Rock|type2=Electric|1|Mineral|Mineral|form=Alolan Form|||||||✔|✔||||✔|STAB='''}}
+{{Moveentry/13|0076|formsig=A|Golem|type=Rock|type2=Electric|1|Mineral|Mineral|form=Alolan Form|||||||✔|✔||||✔|STAB='''}}
+{{Moveentry/13|0081|Magnemite|type=Electric|type2=Steel|1|Mineral|Mineral|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0082|Magneton|type=Electric|type2=Steel|1|Mineral|Mineral|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0088|Grimer|type=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔}}
+{{Moveentry/13|0088|formsig=A|Grimer|type=Poison|type2=Dark|1|Amorphous|Amorphous|form=Alolan Form|||||||−|−||||✔}}
+{{Moveentry/13|0089|Muk|type=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔}}
+{{Moveentry/13|0089|formsig=A|Muk|type=Poison|type2=Dark|1|Amorphous|Amorphous|form=Alolan Form|||||||−|−||||✔}}
+{{Moveentry/13|0092|Gastly|type=Ghost|type2=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0093|Haunter|type=Ghost|type2=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0094|Gengar|type=Ghost|type2=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0100|Voltorb|type=Electric|1|Mineral|Mineral|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔|STAB='''}}
+{{Moveentry/13|0100|formsig=H|Voltorb|type=Electric|type2=Grass|1|Mineral|Mineral|form=Hisuian Form|||||||||||✔|✔|STAB='''}}
+{{Moveentry/13|0101|Electrode|type=Electric|1|Mineral|Mineral|✔|✔|✔|✔|✔|✔|✔|✔||✔||✔|STAB='''}}
+{{Moveentry/13|0101|formsig=H|Electrode|type=Electric|type2=Grass|1|Mineral|Mineral|form=Hisuian Form|||||||||||✔|✔|STAB='''}}
+{{Moveentry/13|0105|formsig=A|Marowak|type=Fire|type2=Ghost|1|Monster|Monster|form=Alolan Form|||||||✔|✔|✔||||✔}}
+{{Moveentry/13|0108|Lickitung|type=Normal|1|Monster|Monster|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|−|}}
+{{Moveentry/13|0109|Koffing|type=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0110|Weezing|type=Poison|1|Amorphous|Amorphous|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0110|formsig=G|Weezing|type=Poison|type2=Fairy|1|Amorphous|Amorphous|form=Galarian Form|||||||||✔|||✔}}
+{{Moveentry/13|0111|Rhyhorn|type=Ground|type2=Rock|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|−|✔}}
+{{Moveentry/13|0112|Rhydon|type=Ground|type2=Rock|2|Monster|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|−|✔}}
+{{Moveentry/13|0113|Chansey|type=Normal|1|Fairy|Fairy|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0115|Kangaskhan|type=Normal|1|Monster|Monster|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|||✔}}
+{{Moveentry/13|0120|Staryu|type=Water|1|Water 3|Water 3|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|||✔}}
+{{Moveentry/13|0121|Starmie|type=Water|type2=Psychic|1|Water 3|Water 3|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|||✔}}
+{{Moveentry/13|0122|Mr. Mime|type=Psychic|type2=Fairy|1|Human-Like|Human-Like|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0122|formsig=G|Mr. Mime|type=Ice|type2=Psychic|1|Human-Like|Human-Like|form=Galarian Form|||||||||✔||||✔}}
+{{Moveentry/13|0125|Electabuzz|type=Electric|1|Human-Like|Human-Like|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0128|Tauros|type=Normal|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0130|Gyarados|type=Water|type2=Flying|2|Water 2|Dragon|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0131|Lapras|type=Water|type2=Ice|2|Monster|Water 1|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0135|Jolteon|type=Electric|1|Field|Field|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0137|Porygon|type=Normal|1|Mineral|Mineral|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0143|Snorlax|type=Normal|1|Monster|Monster|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔}}
+{{Moveentry/13|0145|Zapdos|type=Electric|type2=Flying|1|No Eggs Discovered|No Eggs Discovered|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|STAB='''}}
+{{Moveentry/13|0147|Dratini|type=Dragon|2|Water 1|Dragon|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0148|Dragonair|type=Dragon|2|Water 1|Dragon|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0149|Dragonite|type=Dragon|type2=Flying|2|Water 1|Dragon|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0150|Mewtwo|type=Psychic|1|No Eggs Discovered|No Eggs Discovered|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔|✔}}
+{{Moveentry/13|0151|Mew|type=Psychic|1|No Eggs Discovered|No Eggs Discovered|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔||✔}}
+{{Moveentry/13|0161|Sentret|type=Normal|1|Field|Field||−|✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0162|Furret|type=Normal|1|Field|Field||−|✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0170|Chinchou|type=Water|type2=Electric|1|Water 2|Water 2||✔|✔|✔|✔|✔|✔||✔|✔||✔|STAB='''}}
+{{Moveentry/13|0171|Lanturn|type=Water|type2=Electric|1|Water 2|Water 2||✔|✔|✔|✔|✔|✔||✔|✔||✔|STAB='''}}
+{{Moveentry/13|0172|Pichu|type=Electric|1|No Eggs Discovered|No Eggs Discovered||✔|✔|✔|✔|✔|✔||✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0173|Cleffa|type=Fairy|1|No Eggs Discovered|No Eggs Discovered||–|–|–|–|–|–||–|–|–|–|✔}}
+{{Moveentry/13|0179|Mareep|type=Electric|2|Monster|Field||✔|✔|✔|✔|✔|✔|||✔||✔|✔|STAB='''}}
+{{Moveentry/13|0180|Flaaffy|type=Electric|2|Monster|Field||✔|✔|✔|✔|✔|✔|||✔||✔|✔|STAB='''}}
+{{Moveentry/13|0181|Ampharos|type=Electric|2|Monster|Field||✔|✔|✔|✔|✔|✔|||✔||✔|✔|STAB='''}}
+{{Moveentry/13|0190|Aipom|type=Normal|1|Field|Field||✔|✔|✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0200|Misdreavus|type=Ghost|1|Amorphous|Amorphous||✔|✔|✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0203|Girafarig|type=Normal|type2=Psychic|1|Field|Field||✔|✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0206|Dunsparce|type=Normal|1|Field|Field||✔|✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0209|Snubbull|type=Fairy|2|Field|Fairy||✔|✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0210|Granbull|type=Fairy|2|Field|Fairy||✔|✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0233|Porygon2|type=Normal|1|Mineral|Mineral||✔|✔|✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0234|Stantler|type=Normal|1|Field|Field||−|✔|✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0239|Elekid|type=Electric|1|No Eggs Discovered|No Eggs Discovered||✔|✔|✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0241|Miltank|type=Normal|1|Field|Field||✔|✔|✔|✔|✔|✔||✔|✔||}}
+{{Moveentry/13|0242|Blissey|type=Normal|1|Fairy|Fairy||✔|✔|✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0243|Raikou|type=Electric|1|No Eggs Discovered|No Eggs Discovered||✔|✔|✔|✔|✔|✔||✔|✔||✔|STAB='''}}
+{{Moveentry/13|0248|Tyranitar|type=Rock|type2=Dark|1|Monster|Monster||✔|✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0249|Lugia|type=Psychic|type2=Flying|1|No Eggs Discovered|No Eggs Discovered||✔|✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0250|Ho-Oh|type=Fire|type2=Flying|1|No Eggs Discovered|No Eggs Discovered||✔|✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0263|Zigzagoon|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔||✔|✔||}}
+{{Moveentry/13|0263|formsig=G|Zigzagoon|type=Dark|type2=Normal|1|Field|Field|form=Galarian Form|||||||||✔|||}}
+{{Moveentry/13|0264|Linoone|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔||✔|✔||}}
+{{Moveentry/13|0264|formsig=G|Linoone|type=Dark|type2=Normal|1|Field|Field|form=Galarian Form|||||||||✔|||}}
+{{Moveentry/13|0280|Ralts|type=Psychic|type2=Fairy|2|Human-Like|Amorphous|||✔|✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0281|Kirlia|type=Psychic|type2=Fairy|2|Human-Like|Amorphous|||✔|✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0282|Gardevoir|type=Psychic|type2=Fairy|2|Human-Like|Amorphous|||✔|✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0287|Slakoth|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0288|Vigoroth|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0289|Slaking|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0299|Nosepass|type=Rock|1|Mineral|Mineral|||✔|✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0300|Skitty|type=Normal|2|Field|Fairy|||✔|✔|✔|✔|✔|||✔||}}
+{{Moveentry/13|0301|Delcatty|type=Normal|2|Field|Fairy|||✔|✔|✔|✔|✔|||✔||}}
+{{Moveentry/13|0306|Aggron|type=Steel|type2=Rock|1|Monster|Monster|||✔|✔|✔|✔|✔||✔|✔|||✔}}
+{{Moveentry/13|0309|Electrike|type=Electric|1|Field|Field|||✔|✔|✔|✔|✔||✔|✔|||✔|STAB='''}}
+{{Moveentry/13|0310|Manectric|type=Electric|1|Field|Field|||✔|✔|✔|✔|✔||✔|✔|||✔|STAB='''}}
+{{Moveentry/13|0311|Plusle|type=Electric|1|Fairy|Fairy|||✔|✔|✔|✔|✔|||✔||✔|STAB='''}}
+{{Moveentry/13|0312|Minun|type=Electric|1|Fairy|Fairy|||✔|✔|✔|✔|✔|||✔||✔|STAB='''}}
+{{Moveentry/13|0313|Volbeat|type=Bug|2|Bug|Human-Like|||✔|✔|✔|✔|✔|||✔||−}}
+{{Moveentry/13|0314|Illumise|type=Bug|2|Bug|Human-Like|||✔|✔|✔|✔|✔|||✔||✔}}
+{{Moveentry/13|0335|Zangoose|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔|||✔||✔|✔}}
+{{Moveentry/13|0351|Castform|type=Normal|2|Fairy|Amorphous|||✔|✔|✔|✔|✔|||✔||}}
+{{Moveentry/13|0352|Kecleon|type=Normal|1|Field|Field|||✔|✔|✔|✔|✔|||✔|||✔}}
+{{Moveentry/13|0353|Shuppet|type=Ghost|1|Amorphous|Amorphous|||✔|✔|✔|✔|✔|||✔||✔|✔}}
+{{Moveentry/13|0354|Banette|type=Ghost|1|Amorphous|Amorphous|||✔|✔|✔|✔|✔|||✔||✔|✔}}
+{{Moveentry/13|0359|Absol|type=Dark|1|Field|Field|||✔|✔|✔|✔|✔||✔|✔|||✔}}
+{{Moveentry/13|0377|Regirock|type=Rock|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0378|Regice|type=Ice|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0379|Registeel|type=Steel|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0380|Latias|type=Dragon|type2=Psychic|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0381|Latios|type=Dragon|type2=Psychic|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0382|Kyogre|type=Water|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0383|Groudon|type=Ground|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0384|Rayquaza|type=Dragon|type2=Flying|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔|✔}}
+{{Moveentry/13|0385|Jirachi|type=Steel|type2=Psychic|1|No Eggs Discovered|No Eggs Discovered|||✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0386|Deoxys|type=Psychic|1|No Eggs Discovered|No Eggs Discovered|form=All forms|||✔|✔|✔|✔|✔||✔|✔||✔}}
+{{Moveentry/13|0399|Bidoof|type=Normal|2|Water 1|Field||||✔|✔|✔|✔|||✔|✔|}}
+{{Moveentry/13|0400|Bibarel|type=Normal|type2=Water|2|Water 1|Field||||✔|✔|✔|✔|||✔|✔|}}
+{{Moveentry/13|0403|Shinx|type=Electric|1|Field|Field||||✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0404|Luxio|type=Electric|1|Field|Field||||✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0405|Luxray|type=Electric|1|Field|Field||||✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0408|Cranidos|type=Rock|1|Monster|Monster||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0409|Rampardos|type=Rock|1|Monster|Monster||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0410|Shieldon|type=Rock|type2=Steel|1|Monster|Monster||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0411|Bastiodon|type=Rock|type2=Steel|1|Monster|Monster||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0417|Pachirisu|type=Electric|2|Field|Fairy||||✔|✔|✔|✔|||✔|✔|✔|STAB='''}}
+{{Moveentry/13|0424|Ambipom|type=Normal|1|Field|Field||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0425|Drifloon|type=Ghost|type2=Flying|1|Amorphous|Amorphous||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0426|Drifblim|type=Ghost|type2=Flying|1|Amorphous|Amorphous||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0427|Buneary|type=Normal|2|Field|Human-Like||||✔|✔|✔|✔||✔|✔|✔||✔}}
+{{Moveentry/13|0428|Lopunny|type=Normal|2|Field|Human-Like||||✔|✔|✔|✔||✔|✔|✔||✔}}
+{{Moveentry/13|0429|Mismagius|type=Ghost|1|Amorphous|Amorphous||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0431|Glameow|type=Normal|1|Field|Field||||✔|✔|✔|✔|||✔|✔|}}
+{{Moveentry/13|0432|Purugly|type=Normal|1|Field|Field||||✔|✔|✔|✔|||✔|✔|}}
+{{Moveentry/13|0439|Mime Jr.|type=Psychic|type2=Fairy|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔||✔}}
+{{Moveentry/13|0446|Munchlax|type=Normal|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0462|Magnezone|type=Electric|type2=Steel|1|Mineral|Mineral||||✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0463|Lickilicky|type=Normal|1|Monster|Monster||||✔|✔|✔|✔||✔|✔|✔|}}
+{{Moveentry/13|0464|Rhyperior|type=Ground|type2=Rock|2|Monster|Field||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0466|Electivire|type=Electric|1|Human-Like|Human-Like||||✔|✔|✔|✔||✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0467|Magmortar|type=Fire|1|Human-Like|Human-Like||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0474|Porygon-Z|type=Normal|1|Mineral|Mineral||||✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0475|Gallade|type=Psychic|type2=Fighting|2|Human-Like|Amorphous||||✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0476|Probopass|type=Rock|type2=Steel|1|Mineral|Mineral||||✔|✔|✔|✔|||✔|✔|✔}}
+{{Moveentry/13|0478|Froslass|type=Ice|type2=Ghost|2|Fairy|Mineral||||✔|✔|✔|✔||✔|✔|✔|✔|✔}}
+{{Moveentry/13|0479|Rotom|type=Electric|type2=Ghost|1|Amorphous|Amorphous|form=All forms||||✔|✔|✔|✔||✔|✔|✔|✔|✔|STAB='''}}
+{{Moveentry/13|0480|Uxie|type=Psychic|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0481|Mesprit|type=Psychic|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0482|Azelf|type=Psychic|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0483|Dialga|type=Steel|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered|form=All available forms||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0484|Palkia|type=Water|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered|form=All available forms||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0486|Regigigas|type=Normal|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0487|Giratina|type=Ghost|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered|form=All available forms||||✔|✔|✔|✔||✔|✔|✔|✔}}
+{{Moveentry/13|0488|Cresselia|type=Psychic|1|No Eggs Discovered|No Eggs Discovered||||−|−|−|−||−|−|−|✔}}
+{{Moveentry/13|0491|Darkrai|type=Dark|1|No Eggs Discovered|No Eggs Discovered||||✔|✔|✔|✔|||✔|✔|−|✔}}
+{{Moveentry/13|0493|Arceus|type=Normal|1|No Eggs Discovered|No Eggs Discovered|form=All available forms||||✔|✔|✔|✔|||✔|✔|✔|STAB=''}}
+{{Moveentry/13|0494|Victini|type=Psychic|type2=Fire|1|No Eggs Discovered|No Eggs Discovered|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0504|Patrat|type=Normal|1|Field|Field|||||✔|✔|✔||||||✔}}
+{{Moveentry/13|0505|Watchog|type=Normal|1|Field|Field|||||✔|✔|✔||||||✔}}
+{{Moveentry/13|0506|Lillipup|type=Normal|1|Field|Field|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0507|Herdier|type=Normal|1|Field|Field|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0508|Stoutland|type=Normal|1|Field|Field|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0522|Blitzle|type=Electric|1|Field|Field|||||✔|✔|✔|||||✔|STAB='''}}
+{{Moveentry/13|0523|Zebstrika|type=Electric|1|Field|Field|||||✔|✔|✔|||||✔|STAB='''}}
+{{Moveentry/13|0531|Audino|type=Normal|1|Fairy|Fairy|||||✔|✔|✔||✔||||✔}}
+{{Moveentry/13|0569|Garbodor|type=Poison|1|Mineral|Mineral|||||✔|✔|✔||✔||||✔}}
+{{Moveentry/13|0572|Minccino|type=Normal|1|Field|Field|||||✔|✔|✔||✔|||✔}}
+{{Moveentry/13|0573|Cinccino|type=Normal|1|Field|Field|||||✔|✔|✔||✔|||✔}}
+{{Moveentry/13|0574|Gothita|type=Psychic|1|Human-Like|Human-Like|||||✔|✔|✔||✔|||✔}}
+{{Moveentry/13|0575|Gothorita|type=Psychic|1|Human-Like|Human-Like|||||✔|✔|✔||✔|||✔}}
+{{Moveentry/13|0576|Gothitelle|type=Psychic|1|Human-Like|Human-Like|||||✔|✔|✔||✔|||✔}}
+{{Moveentry/13|0587|Emolga|type=Electric|type2=Flying|1|Field|Field|||||✔|✔|✔||✔||||✔|STAB='''}}
+{{Moveentry/13|0595|Joltik|type=Bug|type2=Electric|1|Bug|Bug|||||✔|✔|✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0596|Galvantula|type=Bug|type2=Electric|1|Bug|Bug|||||✔|✔|✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0597|Ferroseed|type=Grass|type2=Steel|2|Grass|Mineral|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0598|Ferrothorn|type=Grass|type2=Steel|2|Grass|Mineral|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0599|Klink|type=Steel|1|Mineral|Mineral|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0600|Klang|type=Steel|1|Mineral|Mineral|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0601|Klinklang|type=Steel|1|Mineral|Mineral|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0603|Eelektrik|type=Electric|1|Amorphous|Amorphous|||||✔|✔|✔|||||✔|✔|STAB='''}}
+{{Moveentry/13|0604|Eelektross|type=Electric|1|Amorphous|Amorphous|||||✔|✔|✔|||||✔|✔|STAB='''}}
+{{Moveentry/13|0605|Elgyem|type=Psychic|1|Human-Like|Human-Like|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0606|Beheeyem|type=Psychic|1|Human-Like|Human-Like|||||✔|✔|✔||✔|||}}
+{{Moveentry/13|0618|Stunfisk|type=Ground|type2=Electric|2|Water 1|Amorphous|||||✔|✔|✔||✔||||✔|STAB='''}}
+{{Moveentry/13|0623|Golurk|type=Ground|type2=Ghost|1|Mineral|Mineral|||||✔|✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0642|Thundurus|type=Electric|type2=Flying|1|No Eggs Discovered|No Eggs Discovered|form=All available forms|||||✔|✔|✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0644|Zekrom|type=Dragon|type2=Electric|1|No Eggs Discovered|No Eggs Discovered|||||✔|✔|✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0648|Meloetta|type=Normal|type2=Psychic|1|No Eggs Discovered|No Eggs Discovered|||||✔|✔|✔|||||✔|✔}}
+{{Moveentry/13|0649|Genesect|type=Bug|type2=Steel|1|No Eggs Discovered|No Eggs Discovered|form=All forms|||||✔|✔|✔||✔||||✔}}
+{{Moveentry/13|0677|Espurr|type=Psychic|1|Field|Field||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0678|Meowstic|type=Psychic|1|Field|Field|form=All forms||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0682|Spritzee|type=Fairy|1|Fairy|Fairy||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0683|Aromatisse|type=Fairy|1|Fairy|Fairy||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0684|Swirlix|type=Fairy|1|Fairy|Fairy||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0685|Slurpuff|type=Fairy|1|Fairy|Fairy||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0686|Inkay|type=Dark|type2=Psychic|2|Water 1|Water 2||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0687|Malamar|type=Dark|type2=Psychic|2|Water 1|Water 2||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0690|Skrelp|type=Poison|type2=Water|2|Water 1|Dragon||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0691|Dragalge|type=Poison|type2=Dragon|2|Water 1|Dragon||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0694|Helioptile|type=Electric|type2=Normal|2|Monster|Dragon||||||✔|✔||✔||||✔|STAB='''}}
+{{Moveentry/13|0695|Heliolisk|type=Electric|type2=Normal|2|Monster|Dragon||||||✔|✔||✔||||✔|STAB='''}}
+{{Moveentry/13|0698|Amaura|type=Rock|type2=Ice|1|Monster|Monster||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0699|Aurorus|type=Rock|type2=Ice|1|Monster|Monster||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0702|Dedenne|type=Electric|type2=Fairy|2|Field|Fairy||||||✔|✔||✔|||✔|✔|STAB='''}}
+{{Moveentry/13|0704|Goomy|type=Dragon|1|Dragon|Dragon||||||✔|✔||✔||✔|✔|✔}}
+{{Moveentry/13|0705|Sliggoo|type=Dragon|1|Dragon|Dragon||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0705|formsig=H|Sliggoo|type=Steel|type2=Dragon|1|Dragon|Dragon|form=Hisuian Form|||||||||||✔|✔|✔}}
+{{Moveentry/13|0706|Goodra|type=Dragon|1|Dragon|Dragon||||||✔|✔||✔|||✔|✔}}
+{{Moveentry/13|0706|formsig=H|Goodra|type=Steel|type2=Dragon|1|Dragon|Dragon|form=Hisuian Form|||||||||||✔|✔|✔}}
+{{Moveentry/13|0716|Xerneas|type=Fairy|1|No Eggs Discovered|No Eggs Discovered||||||✔|✔||✔||||✔}}
+{{Moveentry/13|0720|Hoopa|type=Psychic|type2=Ghost|1|No Eggs Discovered|No Eggs Discovered|form=All available forms||||||✔|✔|||||✔|✔}}
+{{Moveentry/13|0736|Grubbin|type=Bug|1|Bug|Bug|||||||✔||✔|||✔|STAB=''}}
+{{Moveentry/13|0737|Charjabug|type=Bug|type2=Electric|1|Bug|Bug|||||||✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0738|Vikavolt|type=Bug|type2=Electric|1|Bug|Bug|||||||✔||✔|||✔|STAB='''}}
+{{Moveentry/13|0765|Oranguru|type=Normal|type2=Psychic|1|Field|Field|||||||✔||✔|||✔}}
+{{Moveentry/13|0773|Silvally|type=Normal|1|No Eggs Discovered|No Eggs Discovered|form=All forms|||||||✔||✔||||STAB=''}}
+{{Moveentry/13|0777|Togedemaru|type=Electric|type2=Steel|2|Field|Fairy|||||||✔||✔||||STAB='''}}
+{{Moveentry/13|0778|Mimikyu|type=Ghost|type2=Fairy|1|Amorphous|Amorphous|||||||✔||✔|||✔|✔}}
+{{Moveentry/13|0780|Drampa|type=Normal|type2=Dragon|2|Monster|Dragon|||||||✔||✔||||✔}}
+{{Moveentry/13|0785|Tapu Koko|type=Electric|type2=Fairy|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔||||STAB='''}}
+{{Moveentry/13|0786|Tapu Lele|type=Psychic|type2=Fairy|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔|||}}
+{{Moveentry/13|0791|Solgaleo|type=Psychic|type2=Steel|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔|||✔}}
+{{Moveentry/13|0792|Lunala|type=Psychic|type2=Ghost|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔|||✔}}
+{{Moveentry/13|0793|Nihilego|type=Rock|type2=Poison|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔|||}}
+{{Moveentry/13|0796|Xurkitree|type=Electric|1|No Eggs Discovered|No Eggs Discovered|||||||✔||✔||||STAB='''}}
+{{Moveentry/13|0801|Magearna|type=Steel|type2=Fairy|1|No Eggs Discovered|No Eggs Discovered|form=All forms|||||||✔||✔|||✔|✔}}
+{{Moveentry/13|0804|Naganadel|type=Poison|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered|||||||✔{{sup/7|USUM}}||✔|||}}
+{{Moveentry/13|0807|Zeraora|type=Electric|1|No Eggs Discovered|No Eggs Discovered|||||||✔{{sup/7|USUM}}||✔||||✔|STAB='''}}
+{{Moveentry/13|0808|Meltan|type=Steel|1|No Eggs Discovered|No Eggs Discovered||||||||✔|✔||||✔}}
+{{Moveentry/13|0809|Melmetal|type=Steel|1|No Eggs Discovered|No Eggs Discovered||||||||✔|✔||||✔}}
+{{Moveentry/13|0835|Yamper|type=Electric|1|Field|Field|||||||||✔||||STAB='''}}
+{{Moveentry/13|0836|Boltund|type=Electric|1|Field|Field|||||||||✔||||STAB='''}}
+{{Moveentry/13|0849|Toxtricity|type=Electric|type2=Poison|1|Human-Like|Human-Like|form=All forms|||||||||✔|||✔|✔|STAB='''}}
+{{Moveentry/13|0862|Obstagoon|type=Dark|type2=Normal|1|Field|Field|||||||||✔|||}}
+{{Moveentry/13|0863|Perrserker|type=Steel|1|Field|Field|||||||||✔|||✔|✔}}
+{{Moveentry/13|0866|Mr. Rime|type=Ice|type2=Psychic|1|Human-Like|Human-Like|||||||||✔||||✔}}
+{{Moveentry/13|0871|Pincurchin|type=Electric|2|Water 1|Amorphous|||||||||✔|||✔|STAB='''}}
+{{Moveentry/13|0877|Morpeko|type=Electric|type2=Dark|2|Field|Fairy|||||||||✔|||✔|✔|STAB='''}}
+{{Moveentry/13|0880|Dracozolt|type=Electric|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered|||||||||✔||||STAB='''}}
+{{Moveentry/13|0881|Arctozolt|type=Electric|type2=Ice|1|No Eggs Discovered|No Eggs Discovered|||||||||✔||||STAB='''}}
+{{Moveentry/13|0884|Duraludon|type=Steel|type2=Dragon|2|Mineral|Dragon|||||||||✔|||✔}}
+{{Moveentry/13|0886|Drakloak|type=Dragon|type2=Ghost|2|Amorphous|Dragon|||||||||✔|||✔}}
+{{Moveentry/13|0887|Dragapult|type=Dragon|type2=Ghost|2|Amorphous|Dragon|||||||||✔|||✔}}
+{{Moveentry/13|0894|Regieleki|type=Electric|1|No Eggs Discovered|No Eggs Discovered|||||||||✔|||✔|STAB='''}}
+{{Moveentry/13|0899|Wyrdeer|type=Normal|type2=Psychic|1|Field|Field|||||||||||✔|✔}}
+{{Moveentry/13|0921|Pawmi|type=Electric|1|Field|Field||||||||||||✔|STAB='''}}
+{{Moveentry/13|0922|Pawmo|type=Electric|type2=Fighting|1|Field|Field||||||||||||✔|STAB='''}}
+{{Moveentry/13|0923|Pawmot|type=Electric|type2=Fighting|1|Field|Field||||||||||||✔|STAB='''}}
+{{Moveentry/13|0938|Tadbulb|type=Electric|1|Water 1|Water 1||||||||||||✔|STAB='''}}
+{{Moveentry/13|0939|Bellibolt|type=Electric|1|Water 1|Water 1||||||||||||✔|STAB='''}}
+{{Moveentry/13|0940|Wattrel|type=Electric|type2=Flying|2|Water 1|Flying||||||||||||✔|STAB='''}}
+{{Moveentry/13|0941|Kilowattrel|type=Electric|type2=Flying|2|Water 1|Flying||||||||||||✔|STAB='''}}
+{{Moveentry/13|0967|Cyclizar|type=Dragon|type2=Normal|1|Field|Field||||||||||||✔|✔}}
+{{Moveentry/13|0979|Annihilape|type=Fighting|type2=Ghost|1|Field|Field||||||||||||✔|✔}}
+{{Moveentry/13|0981|Farigiraf|type=Normal|type2=Psychic|1|Field|Field||||||||||||✔}}
+{{Moveentry/13|0982|Dudunsparce|type=Normal|1|Field|Field|form=All forms||||||||||||✔}}
+{{Moveentry/13|0985|Scream Tail|type=Fairy|type2=Psychic|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔}}
+{{Moveentry/13|0987|Flutter Mane|type=Ghost|type2=Fairy|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔}}
+{{Moveentry/13|0989|Sandy Shocks|type=Electric|type2=Ground|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|STAB='''}}
+{{Moveentry/13|0992|Iron Hands|type=Fighting|type2=Electric|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|STAB='''}}
+{{Moveentry/13|0995|Iron Thorns|type=Rock|type2=Electric|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|STAB='''}}
+{{Moveentry/13|1000|Gholdengo|type=Steel|type2=Ghost|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|✔}}
+{{Moveentry/13|1006|Iron Valiant|type=Fairy|type2=Fighting|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔}}
+{{Moveentry/13|1008|Miraidon|type=Electric|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|STAB='''}}
+{{Moveentry/13|1018|Archaludon|type=Steel|type2=Dragon|2|Mineral|Dragon||||||||||||✔}}
+{{Moveentry/13|1021|Raging Bolt|type=Electric|type2=Dragon|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔|STAB='''}}
+{{Moveentry/13|1024|Terapagos|type=Normal|1|No Eggs Discovered|No Eggs Discovered||||||||||||✔}}
+{{Movefoot|Electric|13}}
+
+===By {{pkmn|breeding}}===
+{{Movehead/Games|Electric|Egg Move|g1=none|g3=none|g4=none|g5=none|g6=none|g7=none|g8=none|g9=none}}
+{{Moveentry/1|0179|Mareep|type=Electric|2|Monster|Field|✔|STAB='''}}
+{{Movefoot|Electric|1}}
+
+===Special move===
+====[[Generation IX]]====
+{{Movehead/Special|Electric}}
+{{Moveentry/1|0135|Jolteon|type=Electric|1|Field|Field|[[Terastal phenomenon|Wild Tera Pokémon]] - [[West Province (Area One)]]{{sup/9|SV}}|STAB='''}}
+{{Movefoot|Electric|1}}
+
+===In {{g|Champions}}===
+{{Movehead/Champions|Electric}}
+{{Moveentry/Champions|0025|Pikachu|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0026|Raichu|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0026|formsig=A|Raichu|type=Electric|type2=Psychic|form=Alolan Form|✔|STAB='''}}
+{{Moveentry/Champions|0036|Clefable|type=Fairy|✔}}
+{{Moveentry/Champions|0040|Wigglytuff|type=Normal|type2=Fairy|✔}}
+{{Moveentry/Champions|0053|Persian|type=Normal|✔}}
+{{Moveentry/Champions|0053|formsig=A|Persian|form=Alolan Form|type=Dark|✔}}
+{{Moveentry/Champions|0094|Gengar|type=Ghost|type2=Poison|✔}}
+{{Moveentry/Champions|0115|Kangaskhan|type=Normal|✔}}
+{{Moveentry/Champions|0121|Starmie|type=Water|type2=Psychic|✔}}
+{{Moveentry/Champions|0122|Mr. Mime|type=Psychic|type2=Fairy|✔}}
+{{Moveentry/Champions|0128|Tauros|type=Normal|✔}}
+{{Moveentry/Champions|0130|Gyarados|type=Water|type2=Flying|✔}}
+{{Moveentry/Champions|0135|Jolteon|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0143|Snorlax|type=Normal|✔}}
+{{Moveentry/Champions|0149|Dragonite|type=Dragon|type2=Flying|✔}}
+{{Moveentry/Champions|0181|Ampharos|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0248|Tyranitar|type=Rock|type2=Dark|✔}}
+{{Moveentry/Champions|0282|Gardevoir|type=Psychic|type2=Fairy|✔}}
+{{Moveentry/Champions|0306|Aggron|type=Steel|type2=Rock|✔}}
+{{Moveentry/Champions|0310|Manectric|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0351|Castform|type=Normal|✔}}
+{{Moveentry/Champions|0354|Banette|type=Ghost|✔}}
+{{Moveentry/Champions|0359|Absol|type=Dark|✔}}
+{{Moveentry/Champions|0405|Luxray|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0409|Rampardos|type=Rock|✔}}
+{{Moveentry/Champions|0411|Bastiodon|type=Rock|type2=Steel|✔}}
+{{Moveentry/Champions|0428|Lopunny|type=Normal|✔}}
+{{Moveentry/Champions|0464|Rhyperior|type=Ground|type2=Rock|✔}}
+{{Moveentry/Champions|0475|Gallade|type=Psychic|type2=Fighting|✔}}
+{{Moveentry/Champions|0478|Froslass|type=Ice|type2=Ghost|✔}}
+{{Moveentry/Champions|0479|Rotom|type=Electric|type2=Ghost|form=All available forms|✔|STAB='''}}
+{{Moveentry/Champions|0505|Watchog|type=Normal|✔}}
+{{Moveentry/Champions|0531|Audino|type=Normal|✔}}
+{{Moveentry/Champions|0569|Garbodor|type=Poison|✔}}
+{{Moveentry/Champions|0587|Emolga|type=Electric|type2=Flying|✔|STAB='''}}
+{{Moveentry/Champions|0604|Eelektross|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0618|Stunfisk|type=Ground|type2=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0623|Golurk|type=Ground|type2=Ghost|✔}}
+{{Moveentry/Champions|0678|Meowstic|type=Psychic|form=All forms|✔}}
+{{Moveentry/Champions|0683|Aromatisse|type=Fairy|✔}}
+{{Moveentry/Champions|0685|Slurpuff|type=Fairy|✔}}
+{{Moveentry/Champions|0687|Malamar|type=Dark|type2=Psychic|✔}}
+{{Moveentry/Champions|0691|Dragalge|type=Poison|type2=Dragon|✔}}
+{{Moveentry/Champions|0695|Heliolisk|type=Electric|type2=Normal|✔|STAB='''}}
+{{Moveentry/Champions|0699|Aurorus|type=Rock|type2=Ice|✔}}
+{{Moveentry/Champions|0702|Dedenne|type=Electric|type2=Fairy|✔|STAB='''}}
+{{Moveentry/Champions|0706|Goodra|type=Dragon|✔}}
+{{Moveentry/Champions|0706|formsig=H|Goodra|type=Steel|type2=Dragon|form=Hisuian Form|✔}}
+{{Moveentry/Champions|0765|Oranguru|type=Normal|type2=Psychic|✔}}
+{{Moveentry/Champions|0778|Mimikyu|type=Ghost|type2=Fairy|✔}}
+{{Moveentry/Champions|0780|Drampa|type=Normal|type2=Dragon|✔}}
+{{Moveentry/Champions|0849|Toxtricity|form=All forms|type=Electric|type2=Poison|✔|STAB='''}}
+{{Moveentry/Champions|0863|Perrserker|type=Steel|✔}}
+{{Moveentry/Champions|0866|Mr. Rime|type=Ice|type2=Psychic|✔}}
+{{Moveentry/Champions|0871|Pincurchin|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0877|Morpeko|type=Electric|type2=Dark|✔|STAB='''}}
+{{Moveentry/Champions|0887|Dragapult|type=Dragon|type2=Ghost|✔}}
+{{Moveentry/Champions|0899|Wyrdeer|type=Normal|type2=Psychic|✔}}
+{{Moveentry/Champions|0923|Pawmot|type=Electric|type2=Fighting|✔|STAB='''}}
+{{Moveentry/Champions|0939|Bellibolt|type=Electric|✔|STAB='''}}
+{{Moveentry/Champions|0979|Annihilape|type=Fighting|type2=Ghost|✔}}
+{{Moveentry/Champions|0981|Farigiraf|type=Normal|type2=Psychic|✔}}
+{{Moveentry/Champions|1000|Gholdengo|type=Steel|type2=Ghost|✔}}
+{{Moveentry/Champions|1018|Archaludon|type=Steel|type2=Dragon|✔}}
+{{Movefoot/Champions|Electric}}

@@ -1,0 +1,51 @@
+{
+  "name": "bulbapedia-mcp",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "tsc -b && vite build",
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && wrangler deploy",
+    "type-check": "tsc -b",
+    "test": "vitest run",
+    "lint": "oxlint",
+    "cf-typegen": "wrangler types",
+    "fixtures": "node scripts/capture-fixtures.mjs",
+    "db:start": "node scripts/local-db.mjs start",
+    "db:stop": "node scripts/local-db.mjs stop",
+    "db:migrate": "node scripts/local-db.mjs migrate",
+    "verify:live": "node scripts/verify-live.mjs",
+    "verify:accounts": "node scripts/verify-accounts.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/geist": "^5.3.0",
+    "@fontsource-variable/geist-mono": "^5.3.0",
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "@modelcontextprotocol/server": "^2.0.0",
+    "@phosphor-icons/react": "^2.1.10",
+    "agents": "^0.20.1",
+    "hono": "^4.13.9",
+    "jose": "^6.2.12",
+    "postgres": "^3.4.9",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.4",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.60.2",
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "oxlint": "^1.81.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.3.0",
+    "vitest": "^3.2.7",
+    "wrangler": "^4.141.0"
+  }
+}

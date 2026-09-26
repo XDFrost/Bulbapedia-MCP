@@ -1,0 +1,24 @@
+===Evolution data===
+[[Cosplay Pikachu]], [[Pikachu in a cap]], the {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner}} Pikachu, and Pikachu with the {{color2|000|Gigantamax#Gigantamax Factor|Gigantamax Factor}} cannot [[Evolution|evolve]]. The {{OBP|Pikachu|Yellow}} received at the beginning of {{game|Yellow}} will refuse to evolve into {{p|Raichu}} unless it is [[trade]]d and evolved on another save file.
+{{Evobox/2branch2
+|type1=Electric
+|no1=0172
+|name1=Pichu
+|type1-1=Electric
+|evo1={{Bag/s|Rare Candy|SV}} + {{Bag/s|Soothe Bell|SV}}<br>{{color2|000|Level|Level up}} with<br>high {{color2|000|friendship}}
+|breed=[[File:Menu HOME Egg.png|link=Pokémon Egg|40px]]<br>{{color2|000|Pokémon breeding|Breed}}
+|no2=0025
+|name2=Pikachu
+|type1-2=Electric
+|evo2a={{Bag/s|Thunder Stone|SV}}<br>{{color2|000|Thunder Stone}}<br>outside of {{color2|000|Alola}}
+|no3a=0026
+|name3a=Raichu
+|type1-3a=Electric
+|evo2b={{Bag/s|Thunder Stone|SV}} + [[File:Alola Champion Ribbon VIII.png|40px|link=Alola]]<br>{{color2|000|Thunder Stone}}<br>in {{color2|000|Alola}}
+|no3b=0026
+|name3b=Raichu
+|art3b=026Raichu-Alola
+|type1-3b=Electric
+|type2-3b=Psychic
+|form3b=Alolan Form
+}}

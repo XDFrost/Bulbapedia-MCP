@@ -1,0 +1,178 @@
+===Learnset===
+Pikachu is available in {{pkmn|Scarlet and Violet}} and {{pkmn|Legends: Z-A}}.
+====By [[Level|leveling up]]====
+{{gameabbrev9|SV}}
+{{learnlist/levelh/9|Pikachu|Electric|Electric|1}}
+{{learnlist/level9|1|Play Nice|Normal|Status|—|—|20}}
+{{learnlist/level9|1|Sweet Kiss|Fairy|Status|—|75|10}}
+{{learnlist/level9|1|Nuzzle|Electric|Physical|20|100|20||'''}}
+{{learnlist/level9|1|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/level9|1|Charm|Fairy|Status|—|100|20}}
+{{learnlist/level9|1|Thunder Shock|Electric|Special|40|100|30||'''}}
+{{learnlist/level9|1|Tail Whip|Normal|Status|—|100|30}}
+{{learnlist/level9|1|Growl|Normal|Status|—|100|40}}
+{{learnlist/level9|1|Quick Attack|Normal|Physical|40|100|30}}
+{{learnlist/level9|4|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/level9|8|Double Team|Normal|Status|—|—|15}}
+{{learnlist/level9|12|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/level9|16|Feint|Normal|Physical|30|100|10}}
+{{learnlist/level9|20|Spark|Electric|Physical|65|100|20||'''}}
+{{learnlist/level9|24|Agility|Psychic|Status|—|—|30}}
+{{learnlist/level9|28|Iron Tail|Steel|Physical|100|75|15}}
+{{learnlist/level9|32|Discharge|Electric|Special|80|100|15||'''}}
+{{learnlist/level9|36|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/level9|40|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/level9|44|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/levelf/9|Pikachu|Electric|Electric|1}}
+
+{{gameabbrev9|ZA}}
+{{learnlist/levelh/ZA|Pikachu|Electric|Electric|1}}
+{{learnlist/levelZA|{{tt|Rem.|Can only be learned via Move Reminder}}{{tt|*|Version 2.0.0 onwards}}|10|Draining Kiss|Fairy|Special|50|7}}
+{{learnlist/levelZA|1|10|Tail Whip|Normal|Status|—|7}}
+{{learnlist/levelZA|1|10|Growl|Normal|Status|—|6}}
+{{learnlist/levelZA|1|10|Thunder Shock|Electric|Special|40|6||'''}}
+{{learnlist/levelZA|1|10|Quick Attack|Normal|Physical|30|3}}
+{{learnlist/levelZA|7|10|Thunder Wave|Electric|Status|—|10}}
+{{learnlist/levelZA|12|15|Nuzzle|Electric|Physical|20|6||'''}}
+{{learnlist/levelZA|16|19|Spark|Electric|Physical|65|6||'''}}
+{{learnlist/levelZA|20|23|Charm|Fairy|Status|—|10}}
+{{learnlist/levelZA|25|28|Thunderbolt|Electric|Special|90|8||'''}}
+{{learnlist/levelZA|30|33|Charge|Electric|Status|—|10}}
+{{learnlist/levelZA|35|38|Light Screen|Psychic|Status|—|12}}
+{{learnlist/levelZA|40|43|Thunder|Electric|Special|110|10||'''}}
+{{learnlist/levelZA|99|100|Volt Tackle|Electric|Physical|120|9||'''}}
+{{learnlist/levelf/9|Pikachu|Electric|Electric|1}}
+
+====By [[TM]]====
+{{gameabbrev9|SV}}
+{{learnlist/tmh/9|Pikachu|Electric|Electric|1}}
+{{learnlist/tm9|TM001|Take Down|Normal|Physical|90|85|20}}
+{{learnlist/tm9|TM002|Charm|Fairy|Status|—|100|20}}
+{{learnlist/tm9|TM003|Fake Tears|Dark|Status|—|100|20}}
+{{learnlist/tm9|TM004|Agility|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM007|Protect|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM018|Thief|Dark|Physical|60|100|25}}
+{{learnlist/tm9|TM019|Disarming Voice|Fairy|Special|40|—|15}}
+{{learnlist/tm9|TM020|Trailblaze|Grass|Physical|50|100|20}}
+{{learnlist/tm9|TM023|Charge Beam|Electric|Special|50|90|10||'''}}
+{{learnlist/tm9|TM025|Facade|Normal|Physical|70|100|20}}
+{{learnlist/tm9|TM032|Swift|Normal|Special|60|—|20}}
+{{learnlist/tm9|TM037|Draining Kiss|Fairy|Special|50|100|10}}
+{{learnlist/tm9|TM043|Fling|Dark|Physical|—|100|10}}
+{{learnlist/tm9|TM047|Endure|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM048|Volt Switch|Electric|Special|70|100|20||'''}}
+{{learnlist/tm9|TM050|Rain Dance|Water|Status|—|—|5}}
+{{learnlist/tm9|TM055|Dig|Ground|Physical|80|100|10}}
+{{learnlist/tm9|TM058|Brick Break|Fighting|Physical|75|100|15}}
+{{learnlist/tm9|TM066|Body Slam|Normal|Physical|85|100|15}}
+{{learnlist/tm9|TM068|Thunder Punch|Electric|Physical|75|100|15||'''}}
+{{learnlist/tm9|TM070|Sleep Talk|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM072|Electro Ball|Electric|Special|—|100|10||'''}}
+{{learnlist/tm9|TM074|Reflect|Psychic|Status|—|—|20}}
+{{learnlist/tm9|TM075|Light Screen|Psychic|Status|—|—|30}}
+{{learnlist/tm9|TM081|Grass Knot|Grass|Special|—|100|20}}
+{{learnlist/tm9|TM082|Thunder Wave|Electric|Status|—|90|20}}
+{{learnlist/tm9|TM085|Rest|Psychic|Status|—|—|5}}
+{{learnlist/tm9|TM096|Eerie Impulse|Electric|Status|—|100|15}}
+{{learnlist/tm9|TM103|Substitute|Normal|Status|—|—|10}}
+{{learnlist/tm9|TM122|Encore|Normal|Status|—|100|5}}
+{{learnlist/tm9|TM123|Surf|Water|Special|90|100|15}}
+{{learnlist/tm9|TM126|Thunderbolt|Electric|Special|90|100|15||'''}}
+{{learnlist/tm9|TM127|Play Rough|Fairy|Physical|90|90|10}}
+{{learnlist/tm9|TM130|Helping Hand|Normal|Status|—|—|20}}
+{{learnlist/tm9|TM134|Reversal|Fighting|Physical|—|100|15}}
+{{learnlist/tm9|TM136|Electric Terrain|Electric|Status|—|—|10}}
+{{learnlist/tm9|TM140|Nasty Plot|Dark|Status|—|—|20}}
+{{learnlist/tm9|TM147|Wild Charge|Electric|Physical|90|100|15||'''}}
+{{learnlist/tm9|TM166|Thunder|Electric|Special|110|70|10||'''}}
+{{learnlist/tm9|TM171|Tera Blast|Normal|Special|80|100|10}}
+{{learnlist/tm9|TM173|Charge|Electric|Status|—|—|20}}
+{{learnlist/tm9|TM181|Knock Off|Dark|Physical|65|100|20}}
+{{learnlist/tm9|TM192|Focus Punch|Fighting|Physical|150|100|20}}
+{{learnlist/tm9|TM205|Endeavor|Normal|Physical|—|100|5}}
+{{learnlist/tm9|TM211|Electroweb|Electric|Special|55|95|15||'''}}
+{{learnlist/tm9|TM227|Alluring Voice|Fairy|Special|80|100|10}}
+{{learnlist/tm9|TM229|Upper Hand|Fighting|Physical|65|100|15}}
+{{learnlist/tmf/9|Pikachu|Electric|Electric|2}}
+
+{{gameabbrev9|ZA}}
+{{learnlist/tmh/ZA|Pikachu|Electric|Electric|1}}
+{{learnlist/tmZA|TM008|Thunder Wave|Electric|Status|—|10}}
+{{learnlist/tmZA|TM010|Brick Break|Fighting|Physical|75|7}}
+{{learnlist/tmZA|TM016|Light Screen|Psychic|Status|—|12}}
+{{learnlist/tmZA|TM017|Protect|Normal|Status|—|15}}
+{{learnlist/tmZA|TM020|Play Rough|Fairy|Physical|90|8}}
+{{learnlist/tmZA|TM023|Thunder Punch|Electric|Physical|75|7||'''}}
+{{learnlist/tmZA|TM027|Swift|Normal|Special|60|5}}
+{{learnlist/tmZA|TM028|Dig|Ground|Physical|80|12}}
+{{learnlist/tmZA|TM031|Reflect|Psychic|Status|—|12}}
+{{learnlist/tmZA|TM032|Double Team|Normal|Status|—|15}}
+{{learnlist/tmZA|TM033|Body Slam|Normal|Physical|85|8}}
+{{learnlist/tmZA|TM035|Endure|Normal|Status|—|12}}
+{{learnlist/tmZA|TM039|Discharge|Electric|Special|80|8||'''}}
+{{learnlist/tmZA|TM047|Agility|Psychic|Status|—|12}}
+{{learnlist/tmZA|TM066|Volt Switch|Electric|Special|70|12||'''}}
+{{learnlist/tmZA|TM067|Thunderbolt|Electric|Special|90|8||'''}}
+{{learnlist/tmZA|TM073|Surf|Water|Special|90|8}}
+{{learnlist/tmZA|TM083|Nasty Plot|Dark|Status|—|15}}
+{{learnlist/tmZA|TM085|Substitute|Normal|Status|—|10}}
+{{learnlist/tmZA|TM086|Wild Charge|Electric|Physical|90|8||'''}}
+{{learnlist/tmZA|TM087|Iron Tail|Steel|Physical|100|10}}
+{{learnlist/tmZA|TM101|Electroweb|Electric|Special|55|7||'''}}
+{{learnlist/tmZA|TM106|Thunder|Electric|Special|110|10||'''}}
+{{learnlist/tmZA|TM109|Facade|Normal|Physical|70|7}}
+{{learnlist/tmZA|TM115|Trailblaze|Grass|Physical|40|6}}
+{{learnlist/tmZA|TM130|Charge Beam|Electric|Special|50|6||'''}}
+{{learnlist/tmZA|TM141|Fake Out|Normal|Physical|40|3}}
+{{learnlist/tmZA|TM146|Skull Bash|Normal|Physical|150|12}}
+{{learnlist/tmf/9|Pikachu|Electric|Electric|1}}
+
+====By {{pkmn|breeding}}====
+{{learnlist/breedh/9|Pikachu|Electric|Electric|2}}
+{{learnlist/breed9|{{MSP/H|0179|Mareep}}{{MSP/H|0180|Flaaffy}}{{MSP/H|0181|Ampharos}}{{MSP/H|0311|Plusle}}{{MSP/H|0312|Minun}}{{MSP/H|0403|Shinx}}{{MSP/H|0404|Luxio}}{{MSP/H|0405|Luxray}}{{MSP/H|0522|Blitzle}}{{MSP/H|0523|Zebstrika}}{{MSP/H|0702|Dedenne}}{{MSP/H|0921|Pawmi}}{{MSP/H|0922|Pawmo}}{{MSP/H|0923|Pawmot}}|Charge|Electric|Status|—|—|20|grid=8}}
+{{learnlist/breed9|{{MSP/H|0035|Clefairy}}{{MSP/H|0036|Clefable}}{{MSP/H|0039|Jigglypuff}}{{MSP/H|0040|Wigglytuff}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}{{MSP/H|0700|Sylveon}}{{MSP/H|0728|Popplio}}{{MSP/H|0729|Brionne}}{{MSP/H|0730|Primarina}}{{MSP/H|0876|Indeedee}}{{MSP/H|0915|Lechonk}}{{MSP/H|0916|Oinkologne}}|Disarming Voice|Fairy|Special|40|—|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0052|Meowth}}{{MSP/H|0052|Meowth|form=-Alola}}{{MSP/H|0052|Meowth|form=-Galar}}{{MSP/H|0053|Persian}}{{MSP/H|0053|Persian|form=-Alola}}{{MSP/H|0863|Perrserker}}{{MSP/H|0274|Nuzleaf}}{{MSP/H|0275|Shiftry}}{{MSP/H|0619|Mienfoo}}{{MSP/H|0620|Mienshao}}{{MSP/H|0677|Espurr}}{{MSP/H|0678|Meowstic}}{{MSP/H|0859|Impidimp}}{{MSP/H|0860|Morgrem}}{{MSP/H|0861|Grimmsnarl}}|Fake Out|Normal|Physical|40|100|10|grid=8}}
+{{learnlist/breed9|{{MSP/H|0206|Dunsparce}}{{MSP/H|0982|Dudunsparce}}{{MSP/H|0220|Swinub}}{{MSP/H|0221|Piloswine}}{{MSP/H|0473|Mamoswine}}{{MSP/H|0231|Phanpy}}{{MSP/H|0287|Slakoth}}{{MSP/H|0289|Slaking}}{{MSP/H|0335|Zangoose}}{{MSP/H|0613|Cubchoo}}{{MSP/H|0614|Beartic}}{{MSP/H|0775|Komala}}{{MSP/H|0974|Cetoddle}}{{MSP/H|0975|Cetitan}}|Flail|Normal|Physical|—|100|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0225|Delibird}}|Present|Normal|Physical|—|90|15|grid=8}}
+{{learnlist/breed9|{{MSP/H|0190|Aipom}}{{MSP/H|0424|Ambipom}}{{MSP/H|0572|Minccino}}{{MSP/H|0573|Cinccino}}|Tickle|Normal|Status|—|100|20|grid=8}}
+{{learnlist/breed9|{{bag/s|Light Ball|SV}}{{tt|*|If either parent holds a Light Ball, Pichu will know Volt Tackle. Volt Tackle cannot be inherited as an Egg move.}}|Volt Tackle|Electric|Physical|120|100|15||'''|grid=8}}
+{{learnlist/breed9|{{MSP/H|0134|Vaporeon}}{{MSP/H|0470|Leafeon}}{{tt|*|A wild Terastallized Vaporeon in Casseroya Lake and a wild Terastallized Leafeon in South Province (Area Four) know this move.}}|Wish|Normal|Status|—|—|10|grid=8}}
+{{learnlist/breedf/9|Pikachu|Electric|Electric|2}}
+
+====By a prior [[Evolution]]====
+{{learnlist/prevoh/9|Pikachu|Electric|Electric|1}}
+{{learnlist/prevo9null}}
+{{learnlist/prevof/9|Pikachu|Electric|Electric|1}}
+
+====By {{pkmn2|event}}s====
+{{learnlist/eventh/9|Pikachu|Electric|Electric|1}}
+{{learnlist/event9|{{DL|List of event Pokémon distributions in Pokémon Scarlet and Violet|Flying Terastal Pikachu}}|Fly|Flying|Physical|90|95|15}}
+{{learnlist/eventf/9|Pikachu|Electric|Electric|1}}
+
+===={{Trading Card Game}}-only [[move]]s====
+{| class="roundy" style="margin:auto; background: #{{tcg lightning color}}; border: 3px solid #{{tcg lightning color dark}}"
+|-
+! style="background: #{{tcg lightning color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{tcg lightning color light}}; {{roundytr|5px}}" | Card
+|- style="background:#fff"
+| {{m|Scratch}}
+| [[Pikachu (EX Sandstorm 72)]]<br>[[Pikachu (Wizards Promo 26)]]<br>[[Pikachu (Sample Set 1)]]
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Tackle}}
+| style="background:#fff; {{roundybr|5px}}" | [[Pikachu (Expedition 124)]]
+|}
+
+====[[Animated series move errors|Animated series-only moves]]====
+{| class="roundy" style="margin:auto; background: #{{electric color}}; border: 3px solid #{{electric color dark}}"
+! style="background: #{{electric color light}}; {{roundytl|5px}}" | Move
+! style="background: #{{electric color light}}" | Type
+! style="background: #{{electric color light}}; {{roundytr|5px}}" | Episode
+|- style="background:#fff"
+| {{m|Tackle}}
+| style="background:#{{Normal color}}" | {{typecolor|Normal}}
+| ''[[EP118|The Double Trouble Header]]''
+|-
+| style="background:#fff; {{roundybl|5px}}" | {{m|Leer}}
+| style="background:#{{Normal color}}" | {{typecolor|Normal}}
+| style="background:#fff; {{roundybr|5px}}"| ''[[EP150|Hour of the Houndour]]''
+|}

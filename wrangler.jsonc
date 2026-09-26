@@ -1,0 +1,48 @@
+/**
+ * Cloudflare Worker config: MCP server + accounts API + React SPA (static assets built by Vite).
+ * https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "bulbapedia-mcp",
+	"main": "./worker/index.ts",
+	"compatibility_date": "2026-07-02",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"observability": {
+		"enabled": true
+	},
+	// Every 6 hours: delete expired tokens; also keeps a free Supabase project from pausing for inactivity.
+	"triggers": {
+		"crons": [
+			"0 */6 * * *"
+		]
+	},
+	"upload_source_maps": true,
+	"assets": {
+		"directory": "./dist/client",
+		"not_found_handling": "single-page-application",
+		"run_worker_first": [
+			"/api/*",
+			"/auth/*",
+			"/mcp",
+			"/health"
+		]
+	},
+	"vars": {
+		// Public OAuth client id from Google Cloud Console (the secret goes in `wrangler secret put GOOGLE_CLIENT_SECRET`).
+		"GOOGLE_CLIENT_ID": "",
+		// Optional: this Google account becomes admin automatically on first login.
+		"BOOTSTRAP_ADMIN_EMAIL": ""
+	},
+	"hyperdrive": [
+		{
+			"binding": "DB",
+			// Replace with the id printed by: npx wrangler hyperdrive create bulbapedia-db --connection-string="<supabase session pooler url>"
+			"id": "00000000000000000000000000000000",
+			// Used only by local dev (vite dev). Points at the embedded Postgres started by `npm run db:start`.
+			"localConnectionString": "postgres://postgres:postgres@127.0.0.1:54329/bulbapedia"
+		}
+	]
+}

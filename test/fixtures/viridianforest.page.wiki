@@ -1,0 +1,428 @@
+{{samename|location in [[Pokémon Channel]]|Viridian Forest (Channel)}}
+----
+{{Infobox location
+|image=Viridian Forest PE.png
+|type=forest
+|mapdesc=A deep and sprawling forest that extends around Viridian City. A natural maze, many people become lost inside.{{sup/3|FRLG}}<br/>A forest filled with nature and Bug-type Pokémon.{{sup/4|HGSS}}<br>A deep, shady forest filled with nature and Bug-type Pokémon.{{sup/7|PE}}
+|location_name=Viridian Forest
+|japanese_name={{tt|トキワの森|Tokiwa no Mori}}
+|translated_name=Tokiwa Forest
+|location={{rt|2|Kanto}}
+|region=Kanto
+|generation={{gen|I}}, {{gen|III}}, {{gen|IV}}, {{gen|VII}}
+}}
+'''Viridian Forest''' (Japanese: '''トキワの{{tt|森|もり}}''' ''Tokiwa Forest'') is a [[forest]] which lies between [[Viridian City]] and [[Pewter City]] in the middle of {{rt|2|Kanto}} with both the north and south entrances of Viridian Forest open to the route. The deep and sprawling forest is said to be a natural maze as many people get lost inside. The trees in the forest are so thick that little light gets in, and because of this the forest is full of {{t|Bug}}- and {{type|Flying}} {{OBP|Pokémon|species}} that attract {{tc|Bug Catcher}}s and other Trainers.
+
+In [[Generation II]], Viridian Forest no longer exists as a standalone area and has been replaced with a maze of standard trees, containing items and [[Berry]] trees, which is now a part of Route 2. The maze forms roughly the same design as before and the items are placed similarly to those located in Generations I, III, and VII. However, in the [[Generation IV]] remakes, the forest is re-expanded into the state of an actual dungeon, with five Trainers added, and with Pokémon similar to those of Pokémon Yellow.
+
+==Geography==
+[[File:FL Viridian Forest.png|thumb|200px|[[Location preview|Preview]] of Viridian Forest in FireRed and LeafGreen]]
+Viridian Forest is a deep and sprawling woodland expanding across {{rt|2|Kanto}} reaching to [[Pewter City]] in the north and to [[Viridian City]] in the south, giving the forest its name. The trees in this area have grown so dense that light has trouble getting through, and because of this the forest seems dark and gloomy. The path across to each terminus winds its way around the dense layers of trees, creating a giant labyrinth many liken to a natural maze, as many people get lost inside. The entrance to the forest seems to be light and airy: the trees are not as thick and sunlight is able to get in fine. The trees stand tall and the grass appears to be long and unmaintained, while trees in the distance appear to be shadowed.
+
+Because of its dark and shady environment, Viridian Forest hosts a large array of different {{type|Bug}} Pokémon. They are not particularly powerful, but they will cause [[status condition]]s such as paralysis and poison. It is advised from sign posts and even from other Trainers that Trainers should buy status condition healing items such as [[Antidote]] and [[Paralyze Heal]] before entering the forest. Pokémon such as {{p|Caterpie}}, {{p|Weedle}}, {{p|Metapod}}, and {{p|Kakuna}} inhabit trees and [[tall grass]], allowing themselves to stay hidden from predators. Viridian Forest is also one of the locations where Trainers can seek wild {{p|Pikachu}} as well as under-leveled {{p|Pidgeotto}}, making the forest a very exclusive place to find Pokémon. {{tc|Bug Catcher}}s, who own common {{type|Bug}} Pokémon such as Caterpie and Weedle, come here in groups from Viridian and Pewter to battle and train.
+
+==Items==
+{{Itlisth|forest}}
+{{Itemlist|Antidote|On the southwesternmost square of the lone tree north of the southern entrance ''(hidden)''|R=yes|B=yes|Y=yes|FR=yes|LG=yes}}
+{{Itemlist|Poké Ball|At the end of a [[Tall grass|grassy]] dead-end path northwest of the southern entrance|R=yes|B=yes|Y=yes|FR=yes|LG=yes|display={{i|Poké Ball}}}}
+{{Itemlist|Potion|
+* In the patch of [[Tall grass|grass]] to the very east of the southern entrance
+* In a small area southeast of the [[Trainer Tips]] sign southeast of the northern entrance
+* Four squares west of {{tc|Bug Catcher}} Sammy, south of the northern entrance ''(hidden)''|FR=yes|LG=yes|display=[[Potion]] ×3}}
+{{Itemlist|Antidote|In the northeast area of the forest, northwest of a [[Trainer Tips]] sign|R=yes|B=yes|FR=yes|LG=yes}}
+{{Itemlist|Potion|In the northeast area of the forest, northwest of a [[Trainer Tips]] sign|Y=yes}}
+{{Itemlist|Potion|
+* At the end of a grassless dead-end path southeast of the northern entrance
+* One square west of the {{tc|Bug Catcher}} south of the northern entrance ''(hidden)''|R=yes|B=yes|Y=yes|display=[[Potion]] ×2}}
+{{Itemlist|Antidote|North of the southern entrance, to the east of the Trainer Tips sign|LP=yes|LE=yes}}
+{{Itemlist|Razz Berry|Southeast corner of the forest, in the tall grass at the base of a tree|LP=yes|LE=yes|display=[[Razz Berry]] ×3}}
+{{itemlist|Tiny Mushroom|Northwest of the Antidote, at a dead end past the grass|LP=yes|LE=yes}}
+{{itemlist|Poké Ball|Southwest corner of the forest, in the tall grass at the base of a tree|LP=yes|LE=yes|display={{i|Poké Ball}} ×5}}
+{{Itemlist|Potion|Northeast corner of the forest, behind a tree|LP=yes|LE=yes}}
+{{Itemlist|Potion|South of northern entrance, in front of Bug Catcher Sammy ''(hidden)''|LP=yes|LE=yes}}
+{{itemlist|Lure|At the end of a grassless dead-end path, southeast of the northern entrance|LP=yes|LE=yes}}
+{{Itemlist|Big Mushroom|
+* South of {{tc|Bug Catcher}} Stacey ''(hidden)''
+* Northwest of the Leaf Stone ''(hidden)''|HG=yes|SS=yes|display=[[Big Mushroom]] ×2}}
+{{Itemlist|Blue Flute|Northwest of {{tc|Bug Catcher}} Stacey|HG=yes|SS=yes}}
+{{Itemlist|Dire Hit|Northeast of {{tc|Bug Catcher}} Abner inside the north curve|HG=yes|SS=yes}}
+{{Itemlist|Full Restore|At a dead end after going up some steps south-east of {{tc|Bug Catcher}} Abner ''(hidden)''|HG=yes|SS=yes}}
+{{Itemlist|Leaf Stone|After following some steps in the southwest area of the forest|HG=yes|SS=yes}}
+{{Itemlist|Max Ether|In patch of grass west of southern entrance ''(hidden)''|HG=yes|SS=yes}}
+{{Itemlist|Tiny Mushroom|
+* East of {{tc|Bug Catcher}} Ellis ''(hidden)''
+* North of TM77 ''(hidden)''
+* On a ledge north of the southern entrance ''(hidden)''|HG=yes|SS=yes|display=[[Tiny Mushroom|TinyMushroom]] ×3}}
+{{Itemlist|TM Normal|At a dead end just past some grass in the furthest southeast area of the forest|HG=yes|SS=yes|display={{TM|77|Psych Up}}}}
+{{Itlistfoot|forest}}
+
+==Pokémon==
+===Generation I===
+<!--Wild Pokémon Encounter Data<ref>[https://github.com/pret/pokered/tree/master/data/wild Pokémon Red and Blue Disassembly Wild Encounter Data - Pret]</ref><ref>[https://github.com/pret/pokeyellow/tree/master/data/wild Pokémon Yellow Disassembly Wild Encounter Data - Pret]</ref><ref>[https://shinyfinder.github.io/encounter-slots/blue-japanese/Land%20&%20Surf.html Pokémon Blue (Japanese) Wild Encounter Data - Shinyfinder]</ref>-->
+{{catch/header|forest|no}}
+{{catch/entry1|010|Caterpie|yes|no|no|Grass|3|5%|type1=bug}}
+{{catch/entry1|010|Caterpie|no|yes|no|Grass|3-5|45%|type1=bug}}
+{{catch/entry1|010|Caterpie|no|no|yes|Grass|3-6|50%|type1=bug}}
+{{catch/entry1|011|Metapod|yes|no|no|Grass|4|5%|type1=bug}}
+{{catch/entry1|011|Metapod|no|yes|no|Grass|4-6|40%|type1=bug}}
+{{catch/entry1|011|Metapod|no|no|yes|Grass|4, 6|25%|type1=bug}}
+{{catch/entry1|013|Weedle|yes|no|no|Grass|3-5|45%|type1=bug|type2=poison}}
+{{catch/entry1|013|Weedle|no|yes|no|Grass|3|5%|type1=bug|type2=poison}}
+{{catch/entry1|014|Kakuna|yes|no|no|Grass|4-6|40%|type1=bug|type2=poison}}
+{{catch/entry1|014|Kakuna|no|yes|no|Grass|4|5%|type1=bug|type2=poison}}
+{{catch/entry1|016|Pidgey|no|no|yes|Grass|4, 6, 8|24%|type1=normal|type2=flying}}
+{{catch/entry1|017|Pidgeotto|no|no|yes|Grass|9|1%|type1=normal|type2=flying}}
+{{catch/entry1|025|Pikachu|yes|yes|no|Grass|3, 5|5%|type1=electric}}
+{{catch/footer|forest}}
+
+===Generation III===
+{{Catch/header|forest|no}}
+{{Catch/entryfl|010|Caterpie|yes|yes|Grass|3-5|40%|type1=bug}}
+{{catch/entryfl|011|Metapod|yes|no|Grass|5|5%|type1=bug}}
+{{catch/entryfl|011|Metapod|no|yes|Grass|4-6|10%|type1=bug}}
+{{catch/entryfl|013|Weedle|yes|yes|Grass|3-5|40%|type1=bug|type2=poison}}
+{{catch/entryfl|014|Kakuna|yes|no|Grass|4-6|10%|type1=bug|type2=poison}}
+{{catch/entryfl|014|Kakuna|no|yes|Grass|5|5%|type1=bug|type2=poison}}
+{{Catch/entryfl|025|Pikachu|yes|yes|Grass|3, 5|5%|type1=electric}}
+{{Catch/footer|forest}}
+
+===Generation IV===
+{{Catch/header|forest|yes}}
+{{catch/entryhs|010|Caterpie|yes|no|Grass|3|40%|40%|0%|type1=bug}}
+{{catch/entryhs|013|Weedle|no|yes|Grass|3|40%|40%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|011|Metapod|yes|no|Grass|3, 5|30%|30%|0%|type1=bug}}
+{{catch/entryhs|014|Kakuna|no|yes|Grass|3, 5|30%|30%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|016|Pidgey|yes|yes|Grass|3|10%|0%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|016|Pidgey|yes|yes|Grass|3, 7|0%|15%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|012|Butterfree|yes|no|Grass|7|10%|0%|0%|type1=bug|type2=flying}}
+{{catch/entryhs|015|Beedrill|no|yes|Grass|7|10%|0%|0%|type1=bug|type2=poison}}
+{{catch/entryhs|025|Pikachu|yes|yes|Grass|4, 7|6%|6%|0%|type1=electric}}
+{{catch/entryhs|025|Pikachu|yes|yes|Grass|4|0%|0%|5%|type1=electric}}
+{{catch/entryhs|017|Pidgeotto|yes|yes|Grass|7|4%|9%|0%|type1=normal|type2=flying}}
+{{catch/entryhs|163|Hoothoot|yes|yes|Grass|3, 5|0%|0%|80%|type1=normal|type2=flying}}
+{{catch/entryhs|164|Noctowl|yes|yes|Grass|7|0%|0%|15%|type1=normal|type2=flying}}
+{{catch/div|forest|Headbutt<br><small>Group A</small>}}
+{{catch/entryhs|163|Hoothoot|yes|yes|Headbutt|3-4|all=50%|type1=Normal|type2=Flying|10=k}}
+{{catch/entryhs|165|Ledyba|no|yes|Headbutt|3-4|all=10%|type1=Bug|type2=Flying|10=k}}
+{{catch/entryhs|167|Spinarak|yes|no|Headbutt|3-4|all=10%|type1=Bug|type2=Poison|10=k}}
+{{catch/entryhs|273|Seedot|yes|no|Headbutt|3-4|all=30%|type1=Grass|10=k}}
+{{catch/entryhs|273|Seedot|no|yes|Headbutt|3-4|all=10%|type1=Grass|10=k}}
+{{catch/entryhs|285|Shroomish|yes|no|Headbutt|3-4|all=10%|type1=Grass|10=k}}
+{{catch/entryhs|285|Shroomish|no|yes|Headbutt|3-4|all=30%|type1=Grass|10=k}}
+{{Catch/div|forest|Headbutt<br><small>Group B</small>}}
+{{catch/entryhs|163|Hoothoot|yes|yes|Headbutt|5-7|all=50%|type1=Normal|type2=Flying|10=k}}
+{{catch/entryhs|166|Ledian|no|yes|Headbutt|5-7|all=10%|type1=Bug|type2=Flying|10=k}}
+{{catch/entryhs|168|Ariados|yes|no|Headbutt|5-7|all=10%|type1=Bug|type2=Poison|10=k}}
+{{catch/entryhs|273|Seedot|yes|no|Headbutt|5-7|all=30%|type1=Grass|10=k}}
+{{catch/entryhs|273|Seedot|no|yes|Headbutt|5-7|all=10%|type1=Grass|10=k}}
+{{catch/entryhs|285|Shroomish|yes|no|Headbutt|5-7|all=10%|type1=Grass|10=k}}
+{{catch/entryhs|285|Shroomish|no|yes|Headbutt|5-7|all=30%|type1=Grass|10=k}}
+{{catch/div|forest|Swarm}}
+{{catch/entryhs|401|Kricketot|yes|yes|Swarm|3|all=40%|type1=bug}}
+{{catch/div|forest|Special}}
+{{catch/entryhs|322|Numel|yes|yes|Hoenn|5|all=20%|type1=fire|type2=ground}}
+{{catch/entryhs|325|Spoink|yes|yes|Hoenn|3|all=20%|type1=psychic}}
+{{catch/entryhs|406|Budew|yes|yes|Sinnoh|3|all=20%|type1=grass|type2=poison}}
+{{catch/entryhs|455|Carnivine|yes|yes|Sinnoh|5|all=20%|type1=grass}}
+{{Catch/footer|forest}}
+
+===Generation VII===
+{{Catch/header|forest|no}}
+{{Catch/entrype|010|Caterpie|yes|no|Grass|3-6|25%|type1=Bug}}
+{{Catch/entrype|010|Caterpie|no|yes|Grass|3-6|24%|type1=Bug}}
+{{Catch/entrype|011|Metapod|yes|yes|Grass|3-6|10%|type1=Bug}}
+{{Catch/entrype|012|Butterfree|yes|no|Grass|3-6|1%|type1=Bug|type2=Flying}}
+{{Catch/entrype|013|Weedle|yes|no|Grass|3-6|24%|type1=Bug|type2=Poison}}
+{{Catch/entrype|013|Weedle|no|yes|Grass|3-6|25%|type1=Bug|type2=Poison}}
+{{Catch/entrype|014|Kakuna|yes|yes|Grass|3-6|10%|type1=Bug|type2=Poison}}
+{{Catch/entrype|015|Beedrill|no|yes|Grass|3-6|1%|type1=Bug|type2=Poison}}
+{{Catch/entrype|016|Pidgey|yes|yes|Grass|3-6|15%|type1=Normal|type2=Flying}}
+{{Catch/entrype|025|Pikachu|yes|yes|Grass|3-6|5%|type1=Electric}}
+{{Catch/entrype|043|Oddish|yes|no|Grass|3-6|10%|type1=Grass|type2=Poison}}
+{{Catch/entrype|069|Bellsprout|no|yes|Grass|3-6|10%|type1=Grass|type2=Poison}}
+{{Catch/div|forest|Rare Spawns}}
+{{Catch/entrype|001|Bulbasaur|yes|yes|Grass|3-6|-|type1=Grass|type2=Poison}}
+{{Catch/footer|forest|2}}
+
+==Trainers==
+===Generation I===
+====Pokémon Red and Blue====
+{{Trainerheader|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|game=1|Bug Catcher||60|2|013|Weedle||6||010|Caterpie||6|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|game=1|Bug Catcher||70|3|013|Weedle||7||014|Kakuna||7||013|Weedle||7|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr RG Bug Catcher.png|game=1|Bug Catcher||90|1|013|Weedle||9|||}}
+{{Trainerfooter|forest|I}}
+
+====Pokémon Yellow====
+{{Trainerheader|forest}}
+{{Trainerentry|Spr Y Lass.png|game=1|Lass||90|2|029|Nidoran♀||6||032|Nidoran♂||6|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr Y Bug Catcher.png|game=1|Bug Catcher||70|2|010|Caterpie||7||010|Caterpie||7|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr Y Bug Catcher.png|game=1|Bug Catcher||60|3|011|Metapod||6||010|Caterpie||6||011|Metapod||6|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr Y Bug Catcher.png|game=1|Bug Catcher||80|2|010|Caterpie||8||011|Metapod||8|||}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr Y Bug Catcher.png|game=1|Bug Catcher||100|1|010|Caterpie||10|||}}
+{{Trainerfooter|forest|I}}
+
+===Generation III===
+{{Trainerheader|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Rick|72|2|013|Weedle|♂|6|None|010|Caterpie|♂|6|None|36=シンイチ|37=Shinichi}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Doug|84|3|013|Weedle|♂|7|None|014|Kakuna|♂|7|None|013|Weedle|♂|7|None|36=オサム|37=Osamu}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Anthony|96|2|010|Caterpie|♂|7|None|010|Caterpie|♂|8|None|36=シュンスケ|37=Shunsuke}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Charlie|84|3|011|Metapod|♂|7|None|010|Caterpie|♂|7|None|011|Metapod|♂|7|None|36=マナブ|37=Manabu}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr FRLG Bug Catcher.png|Bug Catcher|Sammy|108|1|013|Weedle|♂|9|None|36=タツヒロ|37=Tatsuhiro}}
+{{Trainerfooter|forest}}
+
+===Generation IV===
+{{trainerheader|forest}}
+{{Trainerentry|Spr HGSS Bug Catcher.png|Bug Catcher|Abner|704|3|012|Butterfree|♂|44|None|015|Beedrill|♂|44|None|025|Pikachu|♂|44|None|36=シオ|37=Shio}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr HGSS Bug Catcher.png|Bug Catcher|Ellis|736|3|013|Weedle|♂|28|None|014|Kakuna|♂|38|None|015|Beedrill|♂|46|None|36=メグル|37=Meguru}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr HGSS Bug Catcher.png|Bug Catcher|Stacey|960|3|011|Metapod|♂|52|None|011|Metapod|♂|56|None|011|Metapod|♂|60|None|36=リキマル|37=Rikimaru}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr HGSS Bug Catcher.png|Bug Catcher|Dion|800|01|168|Ariados|♂|50|None|36=ソラチ|37=Sorachi}}
+{{Trainerdiv|forest}}
+{{Trainerentry|Spr HGSS Bug Catcher.png|Bug Catcher|Dane|768|02|015|Beedrill|♂|44|None|012|Butterfree|♂|48|None|36=モンタ|37=Monta}}
+{{trainerfooter|forest|2}}
+
+===Generation VII===
+{{trainerheader|forest}}
+{{trainerentry|VSLass PE.png{{!}}90px|game=PE|Lass|Joana|40<br>3 {{i|Poké Ball}}s|1|019|Rattata|♂|4|None|36=マコ|37=Mako}}
+{{trainerdiv|forest}}
+{{trainerentry|VSBug Catcher PE.png{{!}}90px|game=PE|Bug Catcher|Brian|36<br>3 {{i|Poké Ball}}s|1|013|Weedle|♂|3|None|36=マサフミ|37=Masafumi}}
+{{trainerdiv|forest}}
+{{trainerentry|VSBug Catcher PE.png{{!}}90px|game=PE|Bug Catcher|Rick|36<br>3 {{i|Poké Ball}}s|1|010|Caterpie|♂|3|None|36=シンイチ|37=Shinichi}}
+{{trainerdiv|forest}}
+{{trainerentry|VSLass PE.png{{!}}90px|game=PE|Lass|Brittany|40<br>3 {{i|Poké Ball}}s|1|029|Nidoran♀||4|None|36=ミク|37=Miku}}
+{{trainerdiv|forest}}
+{{trainerentry|VSBug Catcher PE.png{{!}}90px|game=PE|Bug Catcher|Doug|36<br>3 {{i|Poké Ball}}s|1|014|Kakuna|♂|3|None|36=オサム|37=Osamu}}
+{{trainerdiv|forest}}
+{{trainerentry|VSLass PE.png{{!}}90px|game=PE|Lass|Jocelyn|40<br>3 {{i|Poké Ball}}s|1|016|Pidgey|♀|4|None|36=シノブ|37=Shinobu}}
+{{trainerdiv|forest}}
+{{trainerentry|VSBug Catcher PE.png{{!}}90px|game=PE|Bug Catcher|Sammy|36<br>3 {{i|Poké Ball}}s|1|011|Metapod|♀|3|None|36=タツヒロ|37=Tatsuhiro}}
+{{trainerdiv|forest|After becoming Champion}}
+{{trainerentry/master|VSBug Catcher Master PE.png{{!}}90px|Bug Catcher|Scott|013|Weedle|♂|65|Poison|Poison Sting|Bug|String Shot|36=ヒロシ|37=Hiroshi}}
+{{trainerdiv|forest}}
+{{trainerentry/master|VSLass Master PE.png{{!}}90px|Lass|[[Ikue Otani|Ikue]]|025|Pikachu|♀|75|Normal|Slam|Poison|Toxic|Normal|Substitute|Psychic|Reflect|36=イクエ|37=Ikue}}
+{{trainerfooter|forest|PE}}
+
+==Layout==
+{{Mapgen
+|hv=v
+|colordark={{locationcolor/dark|forest}}
+|colorlight={{locationcolor/light|forest}}
+|genI=Viridian Forest RBY.png
+|sizeI=180px
+|genIII=Viridian Forest FRLG.png
+|sizeIII=180px
+|genIV=Viridian Forest HGSS.png
+|sizeIV=180px}}
+
+==[[Location preview|Preview]]==
+<gallery>
+File:FL Viridian Forest.png|FRLG
+File:HGSS Viridian Forest-Morning.png|Morning (Pikachu)
+File:HGSS Viridian Forest-Day.png|Day (Pikachu)
+File:HGSS Viridian Forest-Evening.png|Evening (Pikachu)
+File:HGSS Viridian Forest-Night.png|Night (Pikachu)
+</gallery>
+
+==Trainer Tips==
+===Generation III===
+{{sign|FRLG|header}}
+{{sign|FRLG|title|TRAINER TIPS}}
+{{sign|FRLG|Weaken POKéMON before attempting capture!}}
+{{sign|FRLG|When healthy, they may escape!}}
+{{sign|FRLG|footer}}
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|TRAINER TIPS}}
+{{sign|FRLG|You can't catch a POKéMON that belongs to someone else.}}
+{{sign|FRLG|Throw POKé BALLS only at wild POKéMON to catch them!}}
+{{sign|FRLG|footer}}
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|TRAINER TIPS}}
+{{sign|FRLG|Contact PROF. OAK via a PC to get your POKéDEX evaluated!}}
+{{sign|FRLG|footer}}
+
+{{sign|FRLG|header}}
+{{sign|FRLG|title|TRAINER TIPS}}
+{{sign|FRLG|If your POKéMON are weak and you want to avoid battles, stay away from grassy areas!}}
+{{sign|FRLG|footer}}
+==Music==
+{| class="roundtable" style="margin:auto; text-align: center; background: #{{locationcolor/med|road}}; border: 3px solid #{{locationcolor/dark|road}}"
+|- style="background:#{{locationcolor/light|road}}"
+! Games
+! Song name
+! Composition
+! Arrangement
+|- style="background:#FFF"
+! {{GameIcon|R}}{{GameIcon|Gr}}{{GameIcon|B}}{{GameIcon|Y}}
+| [[Pokémon Red & Pokémon Green: Super Music Collection|Viridian Forest]]
+| [[Junichi Masuda]]
+| [[Junichi Masuda]]
+|- style="background:#FFF"
+! {{GameIcon|FR}}{{GameIcon|LG}}
+| [[Pokémon FireRed & Pokémon LeafGreen: Super Music Collection|Viridian Forest]] || [[Junichi Masuda]] || [[Go Ichinose]]
+|- style="background:#FFF"
+! {{GameIcon|HG}}{{GameIcon|SS}}
+| [[Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection|Viridian Forest]] || [[Junichi Masuda]] and [[Go Ichinose]] || [[Takuto Kitsuta]]<br><small>[[GB Sounds]]:</small> [[Go Ichinose]]
+|- style="background:#FFF"
+! {{GameIcon|LGP}}{{GameIcon|LGE}}
+| [[Pokémon: Let's Go, Pikachu! & Pokémon: Let's Go, Eevee! Super Music Collection|Viridian Forest]] || [[Junichi Masuda]] || [[Shota Kageyama]]
+|}
+
+==In the spin-off games==
+===Pokémon Pinball===
+[[File:Pinball Viridian Forest.png|thumb]]
+In {{g|Pinball}}, Viridian Forest appears on the Red and Blue tables. Catchable {{OBP|Pokémon|species}} include {{p|Caterpie}}, {{p|Weedle}}, {{p|Pidgey}}, {{p|Rattata}} and {{p|Pikachu}}.
+
+===Pokémon Channel===
+{{main|Viridian Forest (Channel)}}
+Viridian Forest appears in [[Pokémon Channel]]. It can be visited by traveling on the bus once the Viridian Pass has been obtained from [[Shop 'N Squirtle]]. A campfire is held every non-rainy night. After {{p|Jirachi}} arrives with the projector, the [[Pichu Brothers]] episode ''[[Pichu Bros. in Party Panic]]'' can be watched in the stars on clear nights. It is also possible to [[Pokémon constellation|stargaze]] on clear nights.
+
+===Hey You, Pikachu!===
+In [[Hey You, Pikachu!]], the {{OBP|player|Hey You, Pikachu!}} is able to go to the Viridian Forest, as well as the Entrance to Viridian Forest, and the Viridian Forest Edge. These are among various other places where the player may interact with Pikachu and other Pokémon.
+
+==In animation==
+[[File:Viridian Forest anime.png|thumb|250px|Viridian Forest in {{aniseries|OS}}]]
+===''Pokémon the Series''===
+===={{aniseries|OS}}====
+Viridian Forest was first shown at the end of ''[[EP002|Pokémon Emergency!]]''. While traveling through the forest, {{Ash}} and {{an|Misty}} encountered a {{p|Caterpie}}, and Ash decided to throw a {{i|Poké Ball}} at it to try and {{pkmn2|caught|catch}} it.
+
+In ''[[EP003|Ash Catches a Pokémon]]'', Ash was revealed to have caught Caterpie as his first {{OBP|Pokémon|species}}. He then caught his second Pokémon, {{AP|Pidgeotto}}, the following day after a brief {{pkmn|battle}} with {{AP|Pikachu}}. At the end of the episode, after defeating {{TRT}} in a battle, Caterpie evolved into {{p|Metapod}}.
+
+The forest was also the setting of the [[EP004|following episode]]. While traveling through the forest, Ash spotted a {{p|Weedle}} and decided to catch it. He used Pidgeotto against it, but another {{pkmn|Trainer}} named [[Samurai]] arrived on scene and challenged Ash to a battle. Meanwhile, the Weedle escaped and Samurai rebuked Ash for it. The two then engaged themselves in a Pokémon battle, which got stuck for hours as their Metapod were unable to do anything but use {{m|Harden}}. All of a sudden, a swarm of {{p|Beedrill}} arrived and carried Ash's Metapod away. Samurai took Ash, Misty and their other Pokémon to a safe place, but not before running into group of {{p|Kakuna}} which promptly evolved and attacked them. The next day, Ash went and saved his Metapod from under the very same tree, having noticed him there the day before. Due Team Rocket's loud entrance, the Beedrill woke up and started chasing Ash. He apologized to Metapod for leaving him in trouble like that, after which he saved his Trainer from a Beedrill's {{m|Twineedle}} attack. Afterwards, he quickly evolved into a {{AP|Butterfree}} and saved Ash, Misty, and the samurai by putting the Beedrill asleep with {{m|Sleep Powder}}. At the end of the episode, Ash and Misty left Viridian Forest.
+
+Ash and {{ashfr}} revisited Viridian Forest in ''[[EP081|Pallet Party Panic]]''. As the group went through the forest, they were attacked by a flock of {{p|Spearow}}. The flock's leader was a {{AP|Fearow}}, which apparently [[Evolution|evolved]] from the Spearow that Ash hit with a rock on [[EP001|the first day of his journey]]. Ash climbed a tree to escape and found Team Rocket with a flock of {{p|Pidgey}} and {{p|Pidgeotto}} who were in a turf war with the flock of Spearow. After sending Team Rocket falling from tree as a bait for the Spearow, Ash sent out his own Pidgeotto to tell the other bird Pokémon that it was safe to leave. The Fearow then came back, however, and started attacking bird Pokémon. Ash's Pidgeotto tried to fight the Fearow, but was badly hurt. Instead of giving up, however, it then evolved into a {{AP|Pidgeot}}. Pidgeot and Pikachu then teamed up to defeat the Fearow and its minions. Ash also tried to catch the Fearow but failed, forcing them just to chase it away. Ash decided to {{pkmn2|released|leave}} Pidgeot in the forest to look after the Pidgey and Pidgeotto.
+
+===={{aniseries|JN}}====
+Ash revisited Viridian Forest alone in ''[[JN147|The Rainbow and the Pokémon Master!]]''. Soon after entering the forest, he was attacked by Team Rocket, who snatched his Pikachu. As Ash had left all of his other Pokémon at [[Professor Oak's Laboratory]], he was unable to fight back. However, he suddenly received unexpected help from his Pidgeot, who freed Pikachu and allowed him to send Team Rocket blasting off. Ash then invited Pidgeot to come with him again, which it agreed to.
+
+====Pokémon====
+{| style="float:left; width:100%"
+|-
+| {{ActivePoké|Viridian Forest|Beedrill|Viridian Forest Beedrill.png|Bug|Poison|link=no|nick=Beedrill (multiple)}}
+| {{ActivePoké|Viridian Forest|Weedle|Viridian Forest Weedle.png|Bug|Poison|link=no|nick=Weedle (multiple)}}
+| {{ActivePoké|Viridian Forest|Kakuna|Viridian Forest Kakuna.png|Bug|Poison|link=no|nick=Kakuna (multiple)}}
+|-
+| {{ActivePoké|Viridian Forest|Spearow|Kanto Route 1 Spearow.png|Normal|Flying|link=no|nick=Spearow (multiple)}}
+| {{ActivePoké|Viridian Forest|Fearow|Recurring Fearow anime.png|Normal|Flying|link=Ash's Fearow}}
+| {{ActivePoké|Viridian Forest|Pidgey|Viridian Forest Pidgey Pidgeotto.png|Normal|Flying|link=no|nick=Pidgey (multiple)}}
+|-
+| {{ActivePoké|Viridian Forest|Pidgeotto|Viridian Forest Pidgey Pidgeotto.png|Normal|Flying|link=no|nick=Pidgeotto (multiple)}}
+|}
+{{-}}
+
+=====Caught Pokémon=====
+{| style="float:center; width:100%"
+|-
+| {{InactivePoké|Ash|Caterpie|Ash Caterpie.png|Bug}}
+| {{InactivePoké|Ash|Pidgeot|Ash Pidgeot.png|Normal|Flying|fir=Pidgeotto}}
+|
+|
+|}
+
+===Pokémon Generations===
+[[File:Viridian Forest PG.png|thumb|250px|Viridian Forest in [[Pokémon Generations]]]]
+Viridian Forest appeared in ''[[PG01|The Adventure]]'', where {{ga|Red}} was seen encountering a {{p|Pikachu}}. After sending out his {{p|Bulbasaur}}, he caught it with a {{i|Poké Ball}}. Afterwards, Red used [[Red's Pikachu|his Pikachu]] to battle a {{pkmn2|wild}} {{p|Caterpie}} as {{p|Zapdos}} flew by.
+{{-}}
+
+==In the manga==
+===Pokémon Adventures===
+[[File:Viridian Forest Adventures.png|thumb|300px|Viridian Forest in [[Pokémon Adventures]]]]
+It is said that once every ten years, a child is born in Viridian Forest, possessing mysterious powers. [[Lance]] and {{adv|Yellow}} both share these powers, being able to heal {{OBP|Pokémon|species}} using physical touch, as well as having the ability to read the minds of Pokémon. In addition, Yellow can also move inanimate objects, namely [[Poké Ball]]s, by thought, as well as raise her Pokémon's [[level]]s using the power of Viridian Forest, although this power seems involuntary and temporary.
+
+Years before the events of the {{pkmn|manga}}, {{adv|Giovanni}} {{pkmn2|caught}} his [[List of characters' first Pokémon|first Pokémon]], a {{p|Weedle}}, in Viridian Forest. It later evolved into a {{TP|Giovanni|Beedrill}}, which is one of his few non-{{type|Ground}} Pokémon, and the one of those that he uses the most often.
+
+===={{MangaArc|Red, Green & Blue}}====
+Viridian Forest debuted in ''[[PS003|The Secret of Kangaskhan]]'', where it was visited by {{adv|Red}} and {{adv|Blue}}. Blue attempted to catch a {{pkmn2|wild}} {{p|Kangaskhan}}, but Red stopped him upon realizing that Kangaskhan's baby had been {{status|poisoned}}. After healing the baby with an [[Antidote]], Red let the now-calmed Kangaskhan go, much to Blue's irritation.
+
+In ''[[PS036|Drat That Dratini!]]'', Red returned to the forest, saving young Yellow from a {{p|Dratini}} and helping her catch her first Pokémon, a [[Ratty|Rattata]].
+
+In ''[[PS038|Long Live the Nidoqueen?!]]'', Giovanni revealed that [[Team Rocket]] had been transporting the Pokémon they had captured, bio-engineered, and trained to Viridian Forest, where they would awaken their primal instincts and form an unstoppable Pokémon army.
+
+===={{MangaArc|Yellow}}====
+Viridian Forest appeared again in ''[[PS043|Sea Sea Seadra]]'', where Yellow met {{adv|Bill}} there after taking [[Pika|Red's Pikachu]] under her care following Red's disappearance. In ''[[PS044|Do Wrong, Dewgong!]]'', they were attacked by [[Lorelei]], who had come to capture Pikachu to make the [[Elite Four]]'s victory over Red complete. However, despite being faced with overwhelming odds, Yellow, Bill, and Pika eventually managed to escape with their lives.
+
+===={{MangaArc|Gold, Silver & Crystal}}====
+In ''[[PS111|Tyranitar War]]'', Yellow was revealed to have caught her own {{p|Pikachu}}, [[nickname]]d [[Chuchu]], after finding her injured in Viridian Forest.
+
+===Pokémon Pocket Monsters===
+[[File:Viridian Forest PM.png|thumb|230px|Viridian Forest in [[Pokémon Pocket Monsters]]]]
+Viridian Forest appeared in ''[[PM002|Big Battle in the Viridian Forest!!]]''. In an effort to catch some Pokémon, {{PPM|Red}} ventured into the forest, although his {{TP|Red|Clefairy}} was not into battling and resorted to digging a pitfall trap instead. This caused many wild Pokémon to start mocking them, including a {{p|Mewtwo}}. Red tried to have Clefairy attack Mewtwo, but he instead chose to attack [[List of disputed and unidentified Pokémon#Pokémon Pocket Monsters|a small, weak Pokémon]], which Red subsequently caught. While the other wild Pokémon chased Clefairy out of annoyance, Red kept throwing Poké Balls at Mewtwo, only for them to do nothing due to Mewtwo being at full health. Mewtwo then proceeded to kick Clefairy off a cliff, defeating him and forcing Red to take him to a [[Pokémon Center]].
+
+[[File:Viridian Forest Zensho.png|thumb|left|220px|Viridian Forest in [[Pokémon Zensho]]]]
+===Pokémon Zensho===
+Viridian Forest appeared in [[PZ02]]. While traversing through it on his way to [[Pewter City]], {{zensho|Satoshi}} befriended a {{p|Pikachu}}, which agreed to join him on his {{pkmn|journey}}.
+{{-}}
+
+==Trivia==
+* In {{v2|Yellow}}, the sole {{tc|Lass}} found here has her sprite based over the grass, instead of among it. She can't move because she doesn't have a range at which she will walk up to the {{player}}, so she can only be battled by talking to her.<ref>[https://www.youtube.com/watch?v=Nwf3YeMEzus "Error gráfico: Chica sobre la hierba alta en Bosque Verde (Pokémon Amarillo)", uploaded by LanceAndMissingNo.]</ref>
+* In Yellow, {{pkmn2|wild}} {{p|Pidgeotto}} can be found in the forest, most likely as a [[List of cross-canon references|reference]] to [[Ash's Pidgeotto]], which was caught here in the [[Pokémon animated series]]. However, they are [[level]] 9; normally, {{p|Pidgey}} evolves at level 18.
+* In [[Generation I]] [[core series]] games, Viridian Forest and {{safari|Kanto}} are the only areas with [[tall grass]] that is not always arranged in 2×2 tile patches.
+** They are also the only areas where it is not possible to remove tall grass by using {{m|Cut}}. However, tall grass can be removed normally from these areas in {{game|FireRed and LeafGreen|s}}.
+* Despite the forest returning as a standalone area in {{2v2|HeartGold|SoulSilver}}, the background music is a remix of ''[[Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection#Disc 3|Viridian Forest]]'' (Japanese: {{tt|トキワのもり|Tokiwa no Mori}}) from [[Generation II]], used on {{rt|2|Kanto}}, with Route 2 in HeartGold and SoulSilver given ''[[Pokémon HeartGold & Pokémon SoulSilver: Super Music Collection|Route 3]]'' (Japanese: {{tt|３ばんどうろ|sanban dōro}}) as the background music, which is also used for most other [[route]]s in [[Kanto]] on both Generation II and HeartGold and SoulSilver. Incidentally, Generation II's version of ''Viridian Forest'', used on Route 2, was in itself a remix of ''[[Game Boy: Entire Pokémon Sounds Collection CD|Viridian Forest]]'' (Japanese: {{tt|トキワの森|Tokiwa no Mori}}) from [[Generation I]].
+* The internal layout of [[Santalune Forest]] in [[Pokémon X and Y]] is nearly identical to that of Viridian Forest.
+** In addition, every Pokémon found in Viridian Forest in {{game|Red and Green|s}} and the international version of {{game|Red and Blue|s}} can also be found in Santalune Forest.
+* In Generation I, this area is affected by the [https://glitchcity.wiki/wiki/2x2_block_encounter_glitches 2×2 block encounter glitch].
+* In HeartGold and SoulSilver, Abner is the only {{tc|Bug Catcher}} in the [[core series]] {{pkmn|games}} to use a non-{{type|Bug}} Pokémon outside of a [[battle facility]].
+* In {{LGPE}}, Lass Jocelyn shares her names in all languages with {{tc|Battle Girl}} [[Jocelyn]] in [[Dewford Gym]] in {{game|Emerald}}.
+
+==In other languages==
+{{langtable
+| color = {{locationcolor/light|forest}}
+| bordercolor = {{locationcolor/dark|forest}}
+| zh_yue = 常青森林 ''Sèuhngchīng Sāmlàhm''
+| zh_cmn = 常青森林 ''Chángqīng Sēnlín''{{tt|*|Games}}<br>常磐森林 ''Chángpán Sēnlín''{{tt|*|Animated series, Adventures (Ching-Win Publishing, Jilin Publishing first edition)}}<br>常盘森林 ''Chángpán Sēnlín''{{tt|*|Adventures (Jilin Publishing new edition)}}
+| ca_ct = Bosc Verd
+| cs = Viridianský les ([[Pokémon the Series: Diamond and Pearl|DP]]-present, [[Pokémon Adventures|manga]])<br>Chromový les  ([[Original series|OS]])
+| fi = Viridianin metsä
+| fr_ca = Forêt de Jade
+| fr_eu = Forêt de Jade
+| da = Viridian skov
+| de = Vertania-Wald
+| it = Bosco Smeraldo
+| no = Viridian-skogen
+| ko = 상록숲 ''Sangnok Sup''
+| pl = Las Wertański
+| pt_br = Floresta de Viridian{{tt|*|Pokémon Generations, TCG, manga}}<br>Floresta de Viridiana{{tt|*|animated series}}<br>Floresta Viridian{{tt|*|The Official Pokémon Handbook}}
+| es_la = Bosque Verde<br>Bosque Viridian{{tt|*|EP004 in recap, HS03, DP080}}
+| es_eu = Bosque Verde
+| sv = Viridian-skogen
+| vi = Rừng Tokiwa
+}}
+
+==References==
+<references/>
+
+==Related articles==
+* [[Viridian Forest (Channel)]]
+
+{{Kanto}}
+{{Project Locations notice}}
+
+[[Category:Red, Blue and Yellow locations]]
+[[Category:Gold, Silver and Crystal locations]]
+[[Category:FireRed and LeafGreen locations]]
+[[Category:HeartGold and SoulSilver locations]]
+[[Category:Let's Go, Pikachu! and Let's Go, Eevee! locations]]
+[[Category:Pokémon Pinball locations]]
+[[Category:Forests]]
+
+[[de:Vertania-Wald]]
+[[es:Bosque Verde]]
+[[fr:Forêt de Jade]]
+[[it:Bosco Smeraldo]]
+[[ja:トキワのもり]]
+[[zh:常青森林]]

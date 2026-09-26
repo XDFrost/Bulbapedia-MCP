@@ -1,0 +1,40 @@
+===[[Held item]]s===
+* Pokémon caught in [[Generation I]] must be [[trade]]d to a [[Generation II]] game in order for a held item to appear.
+* In {{game|Yellow}}, the player gets the [[Light Ball]] by trading the {{OBP|Pikachu|Yellow}} received at the beginning of the game, otherwise the Pikachu will be holding a Berry.
+* In [[Pokéwalker]], only Pikachu found in [[Yellow Forest]] are carrying items.
+
+{{HeldItems/header|type=Electric}}
+{{HeldItems/Games2|Red|Blue|tcolor2=FFF|Pokémon Red and Blue Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|100|image=None.png}}
+{{HeldItems/Games1|Yellow|Pokémon Yellow Version}}
+{{HeldItems/Items2|Berry (item){{!}}Berry|100|Light Ball|100|image1=None.png|availNote2=[[Pikachu (Yellow)|Partner Pikachu]],&#32;}}
+{{HeldItems/Games2|Gold|Silver|Pokémon Gold and Silver Versions}}
+{{HeldItems/Items1|Berry (item){{!}}Berry|2|rows=2|image=None.png}}
+{{HeldItems/Games1|Crystal|Pokémon Crystal Version}}
+{{HeldItems/Games2|Ruby|Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Ruby and Sapphire Versions}}
+{{HeldItems/Items2|Oran Berry|50|Light Ball|5|rows=4}}
+{{HeldItems/Games1|Emerald|tcolor=FFF|Pokémon Emerald Version}}
+{{HeldItems/Games2|Diamond|Pearl|Pokémon Diamond and Pearl Versions}}
+{{HeldItems/Games1|Platinum|Pokémon Platinum Version}}
+{{HeldItems/Games1|Battle Revolution|gcolor={{pbr color}}|Pokémon Battle Revolution}}
+{{HeldItems/Items1|Light Ball|100}}
+{{HeldItems/Games1|Ranch|gcolor={{diamond color}}|My Pokémon Ranch}}
+{{HeldItems/Items1|Shuca Berry|100}}
+{{HeldItems/Games2|HeartGold|SoulSilver|Pokémon HeartGold and SoulSilver Versions}}
+{{HeldItems/Items3|Oran Berry|50|Light Ball|5|Yellow Shard|100|availNote3=[[In-game trade]],&#32;}}
+{{HeldItems/Games1|Pokéwalker|gcolor=FF3333|Pokéwalker}}
+{{HeldItems/Items3|Shuca Berry|100|Lum Berry|100|Sitrus Berry|100}}
+{{HeldItems/Games1|Pokéwalker|gcolor=FF3333|Pokéwalker}}
+{{HeldItems/Items3|Leppa Berry|100|TinyMushroom|100|Oran Berry|100}}
+{{HeldItems/Games2|X|Y|tcolor1=FFF|tcolor2=FFF|Pokémon X and Y}}
+{{HeldItems/Items1|Light Ball|5|rows=6}}
+{{HeldItems/Games2|Omega Ruby|Alpha Sapphire|tcolor1=FFF|tcolor2=FFF|Pokémon Omega Ruby and Alpha Sapphire}}
+{{HeldItems/Games2|Sun|Moon|Pokémon Sun and Moon}}
+{{HeldItems/Games2|Ultra Sun|Ultra Moon|tcolor1=FFF|tcolor2=FFF|Pokémon Ultra Sun and Ultra Moon}}
+{{HeldItems/Games2|Sword|Shield|tcolor1=FFF|tcolor2=FFF|Pokémon Sword and Shield}}
+{{HeldItems/Games2|Brilliant Diamond|Shining Pearl|Pokémon Brilliant Diamond and Shining Pearl}}
+{{HeldItems/Games1|Legends: Arceus|tcolor=FFF|Pokémon Legends: Arceus}}
+{{HeldItems/ItemsLA|Oran Berry|35|Spoiled Apricorn|15|Exp. Candy M|100|Seed of Mastery|20}}
+{{HeldItems/Games2|Scarlet|Violet|tcolor1=FFF|tcolor2=FFF|Pokémon Scarlet and Violet}}
+{{HeldItems/Items1|Light Ball|5|image=Bag Light Ball SV Sprite.png|size=24px}}
+|}

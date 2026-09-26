@@ -1,0 +1,67 @@
+{{Redirect|Ash|appearances of Ash in other media and other uses of the term "ash"|Ash (disambiguation)}}
+{{split|multiple pages by media}}
+----
+{{Character Infobox
+|color={{X color light}}
+|bordercolor={{power color light}}
+|corecolor={{ice color light}}
+|name=Ash Ketchum
+|jname=サトシ
+|tmname=Satoshi
+|image=Ash JN.png
+|size=150px
+|caption=Ash Ketchum in ''[[Pokémon Journeys: The Series]]''
+|age=10<!--Please do not change his age!--><ref>Ash's [https://web.archive.org/web/20220402202148/https://www.pokemon.co.jp/tv_movie/anime/ character profile] (in Japanese) mentions that he is 10 years old as of ''[[Pokémon Journeys: The Series]]''.</ref>
+|gender=Male
+|eyes=Brown
+|hair=Black
+|hometown=[[Pallet Town]]
+|region=[[Kanto]]
+|relatives=[[Delia Ketchum]] (mother)<br>Unnamed father ([[EP002]])<br>Unnamed grandfather ([[EP002]]; Japanese version only)
+}}
+{{Character Infobox/Anime
+|color={{ice color light}}
+|series=''[[Pokémon the Series]]''
+|counterpart=[[Ash Ketchum (M20)]]
+|debut=''[[EP001|Pokémon - I Choose You!]]''
+|enva=[[Veronica Taylor]] <small><br>([[EP001]]-[[AG145]])</small><br>[[Sarah Natochenny]] <small><br>([[AG146]]-[[JN147]], [[The Mastermind of Mirage Pokémon|MoMP]] re-dub)</small><br>[[Kayzie Rogers|Jamie Peacock]] <small><br>(MoMP original dub)</small>
+|jpva=[[Rica Matsumoto]]<br>[[Hana Takeda]]<small><br>([[JN001]]; age 6)</small><br>
+}}
+{{Character Infobox/Team
+|color={{ice color light}}
+|member=[[Alola League]]
+|rank={{pkmn|Champion}}
+}}
+{{Character Infobox/Team
+|color={{ice color light}}
+|member=[[World Coronation Series]]
+|rank=Master Class <small>(Monarch)</small>
+}}
+{{Character Infobox/Team
+|color={{ice color light}}
+|member=[[Aether Foundation]] <small>(''[[Pokémon the Series: Sun & Moon|Sun & Moon]]'')</small>
+|rank=[[Ultra Guardians|Ultra Guardian]]
+}}
+{{Character Infobox/Game
+|color={{ice color light}}
+|gen={{gen|I}}, {{gen|II}}, {{gen|III}}, {{gen|VI}}, {{gen|VII}}, {{gen|VIII}}, {{gen|IX}}
+|counterpart={{ga|Red}}, [[Ash (Masters)]]
+|games={{pkmn|Puzzle League}}, [[Pokémon: Catch the Numbers!|Catch the Numbers!]], {{pkmn|Advanced Generation: I've Begun Hiragana and Katakana!}}, {{pkmn|Advanced Generation: Pico for Everyone Pokémon Loud Battle!}}, {{pkmn|Team Turbo}}, {{pkmn|Team Rocket Blast Off}}, {{pkmn|Poké Ball Launcher}}, {{pkmn|Seek & Find}}, {{pkmn|Tretta}}, {{pkmn|Ga-Olé}}, {{pkmn|GO}}, {{pkmn|Mezastar}},  {{pkmn|Masters EX}}
+|trainer=[[Pokémon Trainer]], {{tc|Baron}}, {{pkmn|Champion}}, [[World Coronation Series#Master Class|Monarch]]<br>Pallet Town's <small>(Ga-Olé)</small>
+|enva=[[Veronica Taylor]] <small>(Puzzle League)</small><br>[[Sarah Natochenny]] <small>(Masters EX)</small>
+|jpva=[[Rica Matsumoto]]
+}}
+{{Character Infobox/Manga
+|color={{ice color light}}
+|series=''[[The Electric Tale of Pikachu]]''<br>''[[Ash & Pikachu]]''<br>''[[Pokémon Newspaper Strip]]''<br>''[[Pocket Monsters Diamond & Pearl (Sakai Takayuki)|Pocket Monsters Diamond & Pearl]]''<br>''{{ma|Pokémon Journeys}}''
+|counterpart=[[Ash Ketchum (EToP)]], [[Ash Ketchum (Pokémon Newspaper Strip)]]
+|debut=''[[ET01|Pikachu, I See You!]]'' <small>(''The Electric Tale of Pikachu'')</small><br>''[[SP01|Hoppip, The Wind Calls!]]'' <small>(''Ash & Pikachu'')</small><br>''[[PDP01|Newcomer Trainer, Dawn]]'' <small>(''Pocket Monsters Diamond & Pearl'')</small><br>''[[JNM01|Legend? Check! Friends? Check!]]'' <small>(''Pokémon Journeys: The Series'')</small>
+}}
+|}
+'''Ash Ketchum''' (Japanese: '''サトシ''' ''Satoshi'') is the main protagonist of {{aniseries|PTS}}, and the first overall protagonist of the greater [[Pokémon animated series]]. He is also the main character of various {{pkmn|manga}} based on the animated series, including [[The Electric Tale of Pikachu]] and [[Ash & Pikachu]], and one of the protagonists of {{OBP|Pocket Monsters Diamond & Pearl|Sakai Takayuki}} and {{ma|Pokémon Journeys}}. In {{aniseries|HZ}}, he is succeeded by [[Liko]] and [[Roy]].<ref>https://pokemon.gamespress.com/Pokemon-Reveals-Pokemon-Horizons-The-Series-as-Official-Title-of-Next-</ref>
+
+He is a [[Pokémon Trainer]] from [[Pallet Town]] whose goal is to become a [[Pokémon Master]]. His [[List of characters' first Pokémon|first Pokémon]] was a {{AP|Pikachu}} that he received from {{an|Professor Oak}} after arriving late at [[Professor Oak's Laboratory|his laboratory]]. On his {{pkmn|journey}}s around the [[Pokémon world]], he's been accompanied by {{ashfr|a multitude of close friends}}. In {{aniseries|SM}}, he becomes the first {{pkmn|Champion}} of the [[Alola]] [[region]]'s [[Alola League|Pokémon League]]. In {{aniseries|JN}}, he becomes the new Monarch and World Champion of the [[World Coronation Series|Pokémon World Coronation Series]].
+
+He shares his Japanese name with the creator of the [[Pokémon]] franchise, [[Satoshi Tajiri]]. His English surname is a pun on the English motto, "[[Gotta catch 'em all!]]"
+
+{{spoilers}}

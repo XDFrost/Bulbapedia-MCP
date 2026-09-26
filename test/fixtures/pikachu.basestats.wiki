@@ -1,0 +1,33 @@
+====Base stats====
+======[[Generation I|Generations I]]-{{gen|V}}======
+{{Stats
+|type=Electric
+|HP=35
+|Attack=55
+|Defense=30
+|SpAtk=50
+|SpDef=40
+|Speed=90
+|Special=50
+}}
+
+======[[Generation VI]] onward======
+{{Stats
+|type=Electric
+|HP=35
+|Attack=55
+|Defense=40
+|SpAtk=50
+|SpDef=50
+|Speed=90
+}}
+
+=====Partner Pikachu=====
+{{Stats/PE
+|type=Electric
+|HP=45
+|Attack=80
+|Defense=50
+|SpAtk=75
+|SpDef=60
+|Speed=120}}

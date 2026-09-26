@@ -1,0 +1,363 @@
+{{search|first episode|other uses|I Choose You!}}
+{{EpicodePrevNext|
+prevcode=None |
+prevtitle=None |
+nextcode=EP002 |
+nexttitle=Pokémon Emergency! |
+series=original series |
+colorscheme=Kanto}}
+{{EpisodeInfobox|
+epcode=EP001 |
+colorscheme=Kanto|
+title_en=Pokémon - I Choose You! |
+title_ja=ポケモン！きみにきめた！ |
+title_ja_trans=Pokémon! I Choose You! |
+screen=yes |
+broadcast_jp=April 1, 1997 |
+broadcast_us=September 8, 1998 |
+en_series=Indigo League |
+en_op=[[Pokémon Theme]] |
+ja_op=[[Aim to Be a Pokémon Master|めざせポケモンマスター]] |
+ja_ed=[[One Hundred Fifty-One|ひゃくごじゅういち]] |
+olmteam=Team Ota |
+scenario=首藤剛志 |
+storyboardn=1 |
+storyboard1=湯山邦彦 |
+directorn=1 |
+director1=鈴木敏明 |
+artn=2 |
+art1=酒井啓史 |
+art2=一石小百合 |
+morecredits=yes |
+epstaffpage=EP001-EP010 |
+footnotes=*{{filb-eppics|pm|001}}
+*This is one of the few episodes storyboarded by executive producer [[Kunihiko Yuyama]] 
+* [https://youtu.be/soM4HD71b6k ポケモン！きみにきめた！] on the official Japanese Pokémon [[YouTube]] channel
+* ''[https://www.youtube.com/watch?v=Zyt2GKb6qWw Pokémon - I Choose You!]'' on the official English Pokémon [[YouTube]] channel
+* ''[https://youtu.be/z3hMX65Khtg Pokémon - I Choose You!]'' on the official [[Pokémon TV]] [[YouTube]] channel }}
+
+'''Pokémon - I Choose You!''' (Japanese: '''ポケモン！きみにきめた！''' ''Pokémon! I Choose You!'') is the first episode of the [[Pokémon animated series]]. In the US, however, the first episode shown was ''[[EP015|Battle Aboard the St. Anne]]''. It was first broadcast in Japan on April 1, 1997, and in the United States on September 8, 1998.
+
+A remastered version of the episode was shown on ''[[Pokémon Smash!]]'' on April 1, 2012, to celebrate the show's fifteenth anniversary. Only the episode itself was remastered; the opening and ending sequences, as well as the [[eyecatch]], were not shown at all.
+
+A second remastered version was first screened during ''Team Rocket's Emergency Meeting'' event held in Tokyo, on July 13, 2017. It was then aired on television on July 23, 2017, as the first episode of ''[[Pocket Monsters Premier 10]]'', to celebrate the show's twentieth anniversary. This version includes a remastered opening, ending, and eyecatch sequences.
+
+{{spoilers}}
+
+==Blurb==
+<!--https://www.pokemon.com/us/animation/seasons/1/episode-1-pokemon-i-choose-you/--><!--Please do not alter the blurb to fix any errors, there are meant to be presented as they are on the official site.-->
+<i>Meet Ash Ketchum, a 10-year-old boy full of imagination, confidence, and dreams that are almost too big for his village of Pallet Town—plus the desire to become a Pokémon Master!
+
+Ash is finally old enough to receive his first Pokémon from Professor Oak, the town's Pokémon expert-but on the morning Ash is supposed to claim it, he oversleeps! By the time he arrives at Professor Oak's, the three Pokémon he wanted have already been chosen by the other Trainers-in-training, including his rival, Gary! The only Pokémon remaining is a strong-willed Pikachu.
+
+Trainer and Pokémon don't get along right away. Not only does Pikachu refuse to enter its Poké Ball, it would rather climb a tree than battle a Pidgey that Ash encounters! Disagreements aside, they start to bond when they find themselves chased by an angry flock of Spearow. The Spearow wound Pikachu, but Ash risks his own safety to protect his Pokémon.
+
+To further their escape, Ash "borrows" a bike owned by a young girl named Misty. He soon wrecks the bike; however, he and Pikachu are surrounded by the Spearow. When Ash fearlessly confronts the Spearow, Pikachu is inspired to summon its remaining energy to repel the Pokémon with a powerful electric shock.
+
+Finally out of harm's way, the wild experience makes Ash and Pikachu realize that they've begun what promises to be a blooming friendship.</i>
+
+==Plot==
+[[File:Nidorino Horn Attack.png|thumb|left|220px|Nidorino fighting Gengar]]
+;Wake Up, Ash!
+In a massive stadium, two creatures known as {{OBP|Pokémon|species}} are having a {{pkmn|battle}}, directed by their {{pkmn|Trainer}}s to give it their all. One of the Pokémon, a {{p|Gengar}}, dodges a {{m|Horn Attack}} from its opponent, a {{p|Nidorino}}, and uses its {{m|Hypnosis}} [[move|attack]] on it, causing it to fall {{status|sleep|asleep}}. Nidorino's Trainer [[recall]]s it and sends out another Pokémon known as {{p|Onix}} to battle. The massive {{pkmn|category|Rock Snake Pokémon}} emerges from its [[Poké Ball]] and prepares to take on Gengar, at which point it is revealed that the battle is being displayed on [[television]]. Its viewer is a boy named [[Ash Ketchum]] who lives in a small settlement called [[Pallet Town]] and has just turned ten years old, which allows him to receive his [[Pokémon Trainer's license|Pokémon license]], pick a [[first partner Pokémon]], and become a Pokémon Trainer. Ash declares to himself and the Pokémon of the {{pkmn|world}} that he will become a [[Pokémon Master]]. His dramatic speech, however, is interrupted by [[Delia Ketchum|his mom]] who tells him to get to bed as he has a big day tomorrow. Ash protests that he's too excited to sleep, so his mom tells him that if he won't sleep then to at least get ready for the next day as she switches on a program hosted by the town's Pokémon expert, {{an|Professor Oak}}. Ash watches as Oak explains that new Trainers get to pick one of three Pokémon to start their {{pkmn|journey}}: the {{type|Grass}} {{p|Bulbasaur}}, the {{type|Fire}} {{p|Charmander}}, or the {{type|Water}} {{p|Squirtle}}.
+
+As Ash sleeps, he goes over the choices in his head reasoning that any of the three available Pokémon are good for starting Trainers. However, his {{p|Voltorb}} alarm clock rolls into his hand as he sleeps and, dreaming that he's throwing a Poké Ball, he chucks it at the wall, smashing it. When Ash finally wakes up, he sees the sun high in the sky and realizes that he overslept. Ash runs to [[Professor Oak's Laboratory]] in such a hurry that he doesn't change out of his pajamas, and at this point doesn't care which first partner Pokémon he gets as long as he gets any. He arrives at the lab just in time to see one of his new fellow Trainers (and Professor Oak's grandson), {{Gary}}, leaving. Unfortunately for Ash, Gary is very overconfident and brags that he was on time and already has [[Gary's Squirtle|his first Pokémon]], although he refuses to reveal which one he received. Gary's large crowd, which includes [[Gary's cheerleaders|a group of cheerleaders]], cheers for him, and Gary promises that he'll become a Pokémon Master and put Pallet Town on the map before leaving in his [[Land transportation in the Pokémon world|convertible]]. As the crowd follows, Ash is left fuming by himself, but not for long as Professor Oak approaches. Ash apologizes for being late and hardly being dressed for the occasion, but tells Professor Oak that he's ready to pick his first Pokémon.
+[[File:Ash being late.png|thumb|220px|Ash discovering all three Pokémon are gone]]
+
+;Ash's First Pokémon
+Taken into the lab, Ash sees three {{i|Poké Ball}}s sitting on a pedestal and states that after thinking about it he's decided to choose Squirtle as his first partner Pokémon, however the Poké Ball is empty. Oak explains that Squirtle has already been claimed by a Trainer that was on time. Ash doesn't mind as he decides to instead go with Bulbasaur, who has also been taken already. Ash is still happy to go with Charmander but, alas, that Pokémon is gone too with someone who wasn't late. Ash asks if this means that there are no Pokémon left for him, and Oak tells him this isn't exactly true as he does have another Pokémon but it is very unusual. At this point, Ash is willing to settle for anything and tells Oak that he'll take whatever it is. A fourth Poké Ball emerges onto the pedestal and Ash picks it up, upon which point it opens and from it emerges a small yellow mouse-like Pokémon. Oak explains that the Pokémon is named {{AP|Pikachu}}, and Ash is very impressed by its cuteness, deciding that Pikachu is better than any of the other first partner Pokémon. He picks up Pikachu and hugs it, but Pikachu doesn't like being hugged and gives Ash a massive electric shock as Oak explains that Pikachu is an {{t|Electric}} type, and has a shocking personality to match. Oak gives Ash some Poké Balls and a [[Pokédex]], at which point Pikachu shocks them both. 
+
+Heading outside, Ash finds his mom and a small group of supporters outside ready to wish him luck as he heads out on his Pokémon journey. Ash's mom gets weepy at the thought of her son finally leaving to start his life as a Trainer, before starting to list the numerous supplies that she has packed for him before he goes. She notices Pikachu and asks why he isn't inside his Poké Ball like other Pokémon. Ash realizes that she's right and tells Pikachu to go inside, but Pikachu refuses, repeatedly swatting the ball away. Ash's mom simply assumes that the two are playing catch, but admits that she finds Pikachu "weird". Pikachu doesn't take kindly to this comment and shocks everyone in the area, except Professor Oak, who remarks that the rubber gloves that were packed will come in handy since rubber doesn't conduct electricity.
+[[File:Pidgey Gust.png|thumb|left|220px|Pidgey dashing the hopes of Ash's first Pokémon catch with Gust]]
+Ash and Pikachu begin their long journey, walking {{rt|1|Kanto|beyond the outskirts of Pallet Town}}. Or rather, Ash, wearing the rubber gloves, is walking while Pikachu, who is tied to a clothesline like a leash, has to be dragged along behind him. Ash tries talking to Pikachu, but all he learns is that the Pokémon can only say its name and doesn't like him at all. Trying to persuade Pikachu to go inside his Poké Ball, Ash consults his Pokédex but it confirms that while many Pokémon travel in Poké Balls some don't like being confined. Deciding to make life easier for Pikachu, Ash removes the leash and rubber gloves but Pikachu still isn't impressed. 
+
+;A Wild Pidgey Appears!
+Just then, the two hear footsteps behind them and find that they are close to a {{p|Pidgey}}. Ash looks up Pidgey in the Pokédex and finds that the small bird is a {{type|Flying}} Pokémon which is gentle, easy to {{pkmn2|caught|catch}}, and a good choice for a beginning Trainer. Ash is happy at the chance to test Pikachu's skills and tries to send him to battle, but Pikachu refuses and instead decides to climb a tree and watch. Ash, angry at Pikachu's continuing disobedience, decides to do it himself and throws a Poké Ball at Pidgey. The ball connects and Pidgey is drawn inside, leading Ash to think that he's captured it. However, the Poké Ball shakes for a few seconds before Pidgey escapes, and the Pokédex explains that when catching a Pokémon you normally have your own Pokémon battle to weaken the target first. Pikachu finds Ash's ineptitude hilarious while Ash gets more worked up, determined to show Pikachu what he can do. He decides to try sneaking up on Pidgey with his pajama shirt, but when he covers it the Pokémon unleashes its {{m|Gust}} and {{m|Sand Attack}} in response. Ash is sent crashing to the ground and Pidgey flies away. As Ash bemoans his bad luck, he quickly notices another Pokémon rifling through his bag. He chases it away as the Pokédex identifies it as {{p|Rattata}}, a {{t|Normal}} type that lives in the forest. When Ash states that they're not in a forest, the Pokédex goes on to explain that occasionally Rattata will emerge to steal food from ''stupid'' travelers. 
+
+;Spearow Takes Flight
+As Pikachu laughs further, Ash notices some more Pidgey nearby and throws a stone at them in frustration. Just then he spots what he thinks is a lone Pidgey nearby and is determined to finally catch one. He throws another stone and it makes a direct hit, but it turns out not to be a Pidgey, but instead a much angrier-looking bird Pokémon. Ash scans it with his Pokédex and it identifies the bird as {{p|Spearow}} which, unlike Pidgey, has a bad attitude and a violent temperament, being known for attacking people and Pokémon without warning. Ash sees Spearow flying directly at him, but Spearow spots Pikachu in a tree as it passes and decides to attack him instead. The Pokédex explains that wild Pokémon are sometimes jealous of those with Trainers. As Ash tries to get Spearow to focus on him again instead, Spearow nearly knocks Pikachu out of the tree, at which point the Electric Mouse unleashes electricity at his attacker which sends Spearow falling to the ground.
+[[File:Ash and Pikachu Spearow.png|thumb|220px|Ash and Pikachu running for their lives]]
+Spearow is down, but not out, and it lets out a loud cry. In the distance, Ash and Pikachu spot a large flock of Spearow emerging from a tree and heading straight towards them. The two decide to make a run for it, and quickly try to get away as the furious flock gives chase. Ash promises to protect Pikachu, but Pikachu runs on ahead of Ash, making himself an easy target for Spearow who don't hesitate to attack him en masse. By the time Ash catches up, Pikachu is very weak and can no longer run, so Ash picks him up and carries him away. The two come to a fast flowing river and Ash, needing to get away from the angry Spearow quickly, jumps in and allows himself and Pikachu to be swept away, during which he very nearly becomes lunch for a {{p|Gyarados}}.
+
+Further down the river, where there's no current, {{an|Misty|a young girl}} is leisurely [[fishing]] when the lure starts to react. The girl quickly grabs her rod to reel in what she thinks will be a big one, but instead yanks out Ash and Pikachu. She is disappointed, but then notices Pikachu and angrily tells Ash that he should never let his Pokémon get into such a bad condition. She tells him that Pikachu needs to get treatment right away, explaining that there is a [[Pokémon Center]] (a medical center that specializes in healing Pokémon) nearby. As she points out the direction that Ash needs to go, he notices the flock of Spearow has caught up to them. Ash decides to make a getaway on the girl's [[Bicycle|bike]], putting Pikachu in the basket, despite her protests, promising that he'll eventually give it back, much to her anger.
+[[File:Ash Ketchum vs Spearow.png|thumb|left|220px|Ash defending Pikachu from the Spearow]]
+
+;A Bond is Formed
+As Ash rides for dear life, a thunderstorm starts. With rain falling and the Spearow flock still on his tail, Ash rides as fast as he can. However, the Spearow catch up and start to attack him, and this, coupled with the dangerous conditions, eventually causes Ash to fly off a small bank, crashing to the ground. Lying in the mud, Ash spots Pikachu nearby weaker than ever. Upset that his first day as a Pokémon Trainer has turned into such a disaster, Ash tells Pikachu to get inside his Poké Ball as it seems to be the only way that he can be safe from the approaching Spearow. Deciding that he's done running, Ash stands before the Spearow and announces that he refuses to be beaten by the likes of them if he's going to be a Pokémon Master, vowing to defeat them all. Pikachu sees that Ash is willing to sacrifice himself to save him and, just before the Spearow flock can hit, jumps onto his shoulder and then into the air. Pikachu is struck by lightning, causing him to let out a massive {{m|Thunder Shock}} which throws Ash back onto the ground.
+
+Soon, the rain has cleared and the sun is shining. Ash and Pikachu are lying unconscious near the smouldering remains of the bike they stole. The two wake up and find the Spearow flock has gone. They weakly note that despite everything, they managed to defeat their attackers together and finally a friendship is formed. Just then, {{an|Ho-Oh|a shimmering golden Pokémon}} flies overhead towards a rainbow. Ash wonders what it was, and the Pokédex can't identify it, but explains that there are many Pokémon species yet to be discovered. After watching the Pokémon disappear into the distance, Ash picks up Pikachu and keeps on walking as the [[narrator]] explains that Ash and Pikachu have many more adventures together to come. Reaching a bank, Ash spots [[Viridian City]] in the distance and heads toward it, having taken the first of many steps on his Pokémon journey.
+{{-}}
+
+==Major events==
+<!-- This is not for summarizing everything that happens in this episode. Only events pertaining to the series as a whole, such as catching and releasing Pokémon and obtaining Badges, go here. -->
+[[File:Ash Pikachu debut.png|thumb|220px|Ash meeting Pikachu for the first time]]
+* [[Ash Ketchum]], his [[rival]] [[Gary Oak]], and two other [[Pokémon Trainer]]s begin their [[Pokémon journey]]s from [[Pallet Town]].
+* Gary obtains [[Gary's Squirtle|an unspecified Pokémon]] from his grandfather, {{an|Professor Oak}}, as his [[first partner Pokémon]].
+* Ash starts his journey with a [[obedience|disobedient]] {{AP|Pikachu}} and receives a [[Pokédex]] and six {{i|Poké Ball}}s from Professor Oak.
+* Ash tries and fails to {{pkmn2|caught|catch}} a {{p|Pidgey}}.
+* Ash meets {{an|Misty}} for the first time.
+* Ash steals Misty's [[bicycle|bike]], which is destroyed when Pikachu defeats a flock of angry {{p|Spearow}}.
+* Ash and Pikachu become friends.
+* Ash sees {{an|Ho-Oh|a mysterious Pokémon}}.
+* Ash reaches [[Viridian City]].
+{{animeevents|OS}}
+
+===Debuts===
+====Humans====
+* {{Ash}}
+* {{an|Misty}}
+* {{an|Professor Oak}}
+* {{Gary}}
+* {{Delia}}
+* [[Gary's cheerleaders]]
+
+====Pokémon debuts====
+* {{p|Nidorino}}
+* {{p|Gengar}}
+* {{p|Onix}}
+* {{p|Bulbasaur}} (dream)
+* {{p|Squirtle}} (dream)
+* {{p|Dodrio}}
+* {{p|Charmander}} (dream)
+* {{p|Pikachu}} ({{OP|Ash|Pikachu}})
+* {{p|Pidgey}}
+* {{p|Rattata}}
+* {{p|Spearow}} ({{DL|Ash's Fearow|In animation|anime}})
+* {{p|Sandshrew}}
+* {{p|Mankey}}
+* {{p|Magikarp}}
+* {{p|Gyarados}}
+* {{p|Ho-Oh}} ({{an|Ho-Oh|anime}})
+
+==Characters==
+===Humans===
+[[File:Dare da EP001.png|200px|thumb|{{tt|Dare da?|Who's That Pokémon?}}]]
+* {{Ash}}
+* {{an|Misty}}
+* {{Gary}}
+* {{Delia}}
+* {{an|Professor Oak}}
+* [[Gary's cheerleaders]]
+* [[Pallet Town]] residents
+* [[Pokémon League]] onlookers
+* Pokémon League announcer (voice only)
+
+===Pokémon===
+[[File:WTP EP001.png|200px|thumb|Who's That Pokémon?]]
+[[Who's That Pokémon?]]: {{p|Pikachu}}
+* {{p|Pikachu}} ({{OP|Ash|Pikachu}}; new; debut)
+* {{p|Nidorino}} (Trainer's; debut)
+* {{p|Onix}} (Trainer's; debut)
+* {{p|Gengar}} (Trainer's; debut)
+* {{p|Spearow}} ({{DL|Ash's Fearow|In animation|anime}}; multiple; debut)
+* {{p|Ho-Oh}} ({{an|Ho-Oh|anime}}; debut)
+* {{p|Pidgey}} (debut)
+* {{p|Rattata}} (debut)
+* {{p|Sandshrew}} (debut)
+* {{p|Mankey}} (debut)
+* {{p|Dodrio}} (debut)
+* {{p|Magikarp}} (debut)
+* {{p|Gyarados}} (debut)
+* {{p|Bulbasaur}} (dream; debut)
+* {{p|Charmander}} (dream; debut)
+* {{p|Squirtle}} (dream; debut)
+
+==Trivia==
+[[File:Ho-Oh Debut.png|thumb|200px|{{an|Ho-Oh}} in its debut]]
+* The beginning of the episode features sound effects from the original [[Game Boy]] games, drawing from the {{game|Red and Green|s}} [[game intro]] (with a {{p|Gengar}} battling a {{p|Nidorino}}) before transitioning seamlessly into the {{pkmn|battle}} that {{Ash}} himself is watching on [[Television|TV]].
+** A similar sequence and transition occurs in the beginning of the [[PO01|first episode]] of the [[Pokémon Origins]] miniseries, in which {{OBP|Red|Origins}} watches a televised battle between Gengar and Nidorino.
+** When it shows the stadium, it appears as a card.
+* An early, unused frame of the stadium battle scene exists.
+* The shadowed {{pkmn|Trainer}} who sends out Nidorino and {{p|Onix}} (which was kept in a green [[Poké Ball]]) to battle greatly resembles [[Bruno]] of the [[Indigo League]] [[Elite Four]]. It has never been officially confirmed whether this Trainer actually is Bruno or not.
+* Ash's introductory shot is repeated in [[BW001|the first episode]] of {{aniseries|BW}} as a throwback to this episode.
+* Ash has a {{p|Voltorb}} clock with a cuckoo {{p|Pidgey}} in it. Furthermore, he ends up breaking it in his sleep, unknowingly using it as a Poké Ball shortly after 4 AM.
+** Similarly, Ash broke his alarm clock [[JN001|four years earlier]], and would do so again [[JN002|later]].
+* The order in which Ash opens the [[first partner Pokémon]]'s Poké Balls, only to find them empty, indicates his preferred choices: {{p|Squirtle}} first, {{p|Bulbasaur}} second, and {{p|Charmander}} last.
+** Coincidentally, this is the same order the {{SSB|Pokémon Trainer}} from [[Super Smash Bros. Brawl]] obtains their respective evolved forms in the Subspace Emissary.
+** Ash wanting a Squirtle as his first partner Pokémon is referenced in the [[Pokémon Trainer's Choice]] from ''[[AG102|Where’s Armaldo?]]''.
+* Despite this episode centering around receiving a first partner Pokémon, neither Bulbasaur, Charmander, nor Squirtle actually appeared in the flesh until ''[[EP010|Bulbasaur and the Hidden Village]]'', ''[[EP011|Charmander – The Stray Pokémon]]'', and ''[[EP012|Here Comes the Squirtle Squad]]'', respectively. This is unlike the following generations, when at least one of the first partner Pokémon appeared in the first episode of each generation.
+* This is the only episode where [[Ash's Pikachu]] is seen inside his {{i|Poké Ball}}.
+* This episode reveals that {{p|Spearow}} see in black and white.
+* This episode has the most [[List of Pokémon by animated series debut|Pokémon debuts]] of the entire {{pkmn|animated series}}, with 16.
+** The golden bird Pokémon Ash saw at the end of the episode was {{an|Ho-Oh}}. This makes {{p|Ho-Oh}} the first [[Legendary Pokémon]] and [[Generation II]] Pokémon to appear in the animated series.
+* This is the only episode of the [[original series]] in which the [[Team Rocket trio]] does not appear. The next time would not occur in the regular episodes until ''[[BW016|Rematch at the Nacrene Gym!]]'', 672 episodes later. They also did not appear in a [[clip show]] episode, [[AG120]], which was never aired outside of Japan.
+* Coincidentally, Ash would later attempt to use a Pidgey and {{p|Rattata}} in the following episode against Team Rocket after failing to capture both Pokémon in this episode.
+** Additionally, Ash would go on to obtain the evolved forms of the two: a {{AP|Pidgeotto}} and a {{AP|Raticate}}, although the latter was owned for less than a single episode.
+* This episode was partially adapted into the book {{book|I Choose You!}}.
+* This episode can be found on volume 3 of [[Game Boy Advance Video]].
+* This episode is featured on ''Volume 1: Pikachu'' from [[VIZ Media]]'s {{OBP|Pokémon All-Stars|Region 1}} series and on ''Pokémon All-Stars: Pikachu'' from {{wp|Magna Pacific}}'s {{OBP|Pokémon All-Stars|Region 4}} series.
+* This episode was chosen by [[Kunihiko Yuyama]] as the first episode of ''[[Pocket Monsters Premier 10]]'', a series of reruns to commemorate the release of [[M20]] in 2017.
+* Parts of this episode have been reanimated in ''[[M08|Lucario and the Mystery of Mew]]'', ''[[M20|I Choose You!]]'', ''[[JN001|Enter Pikachu!]]'', and ''[[JN030|Betrayed, Bothered, and Beleaguered!]]'', as well as the intro sequence (Japanese: '''サトシの旅立ち''' ''Satoshi's Journey'') which was featured in the ''[[M01#Kanzenban version|kanzenban]]'' (Japanese: '''完全版''' ''full version'') of ''[[M01|Mewtwo Strikes Back]]'', the dub of ''[[M04|Celebi: The Voice of the Forest]]'', and ''[[M05|Pokémon Heroes: Latios & Latias]]''. 
+** A shot of this episode was also remade and used for flashback material in ''[[JN068|Advice to Goh!]]''.
+
+<gallery>
+NidovsGengarAnimeRed.png|thumb|200px|The beginning of the animated series (left) and the opening of {{game|Red and Green|s}} (right) 
+Stadium anime art.png|An early frame of the first scene
+Bruno EP001.png|The shadowed Trainer that resembles [[Bruno]]
+Green Poké Ball anime.png|The green Poké Ball from the first scene
+</gallery>
+
+===Errors===
+* In the Japanese version:
+** The [[Pokédex]] misidentifies Pidgey as the ''Sky Pokémon'' instead of the ''Tiny Bird Pokémon''.
+** In the slap scene, the hole on [[Ash's hat]] matches his skin color despite being above his hairline.
+* As {{Delia}} catches the alarm clock Ash threw, her ponytail curls to her left shoulder. When it is seen from behind in the next shot, it is curled to her right shoulder.
+* When {{an|Professor Oak}} appears on television to discuss the first partner Pokémon, the background colors behind Charmander and Squirtle are reversed (blue behind Charmander and red behind Squirtle). Bulbasaur's background color, green, is correctly shown.
+** In the same scene, the first partner Pokémon appear significantly different between the shot of the whole television and the close-up of the screen. Charmander, for instance, has a much larger tail flame and more open mouth in the close-up.
+* When Delia tells Ash to go to bed after the program is done, and later when Pikachu climbs the tree, the yellow stripes on Ash's jacket are missing.
+* When Ash throws the Poké Balls containing Bulbasaur, Charmander, and Squirtle in his dream, both sides of the Poké Balls are red. This is fixed in the scenes of the Poké Balls releasing the Pokémon.
+* As Ash runs to [[Professor Oak's Laboratory]] to collect his first Pokémon, the top button on his pajamas changes from green to yellow.
+* When Ash passes [[Gary's cheerleaders]] and a crowd, a man has no eyes.
+* After {{Gary}} tells Ash that {{TP|Gary|his Pokémon|Blastoise}} is inside its Poké Ball, the order of Gary's cheerleaders reverses.
+* If all three first partner Pokémon had already been taken, then the Poké Balls containing them should be with their Trainers, as Gary's is, and not with Professor Oak, unless three empty Poké Balls were intentionally set up in the meanwhile.
+* After Ash opens Charmander's Poké Ball in Oak's lab, part of Oak's coat unnaturally changes position as he speaks.
+* When Professor Oak hands Ash Pikachu's Poké Ball, the bottom portion of the black ring surrounding the white center of the Poké Ball turns white.
+* As Pikachu's Poké Ball opens with a strobe-like flash of light, the background behind Ash differs greatly between the two frames, with the features of the large machine changing position and size, as well as the table and beaker in front of it changing position and shape, respectively.
+* The sneakers that Delia hands Ash are the same ones he is already wearing.
+* When Ash tries to make Pikachu go to his Poké Ball, the lightning bolt on it disappears. This also happens when Ash tries to protect Pikachu from the Spearow.
+* When Ash opens his Pokédex for the first time, the directional pad is missing.
+* When Ash sees the Spearow flock again after {{an|Misty}} tells him where the nearest [[Pokémon Center]] is, his shoes turn completely white.
+* When Ash places Pikachu's Poké Ball on the ground, his thumb passes through it when he stands up to face the flock of Spearow.
+* At the end of the episode, Ash's hat flips direction several times.
+* In the English [[dub]]:
+** Gary addresses Ash as if he has never met him before, despite them being childhood friends.
+** When Ash stands up to the Spearow to protect Pikachu, he incorrectly refers to them as "[[List of nonstandard species plurals|Spearows]]". The plural of a specific species of Pokémon is the same as the singular.
+* In the {{pmin|Canada#In Quebec French|Quebec French}} dub:
+** When Ash grabs the Poké Ball that used to have a Squirtle, he refers to it by its official {{pmin|France|French}} name, Carapuce.
+** When Ash bumps into Gary, the latter calls Ash by his official French name, Sacha.
+** When Gary boasts about having the best Pokémon from Professor Oak, he calls him by his official French name, Professeur Chen.
+
+<gallery>
+Ash Pajamas.png|Ash's pajamas with a yellow button
+EP001 error 1.png|The man with no eyes
+Ash Original Pokédex.png|The Pokédex without the directional pad
+</gallery>
+
+===Changes===
+[[File:EP001 title card dub.png|thumb|200px|The English title card with the alternate background]]
+* One Japanese version of the episode featured an alternate [[title card]] with a white and green background instead of the regular one. This was later used for the English dub as well.
+** The French dub additionally reused this title card for most episodes of the [[S01|first season]].
+
+====Dub edits====
+* [[Kanto Pokérap]]: Day 1 (Poliwrath error)
+* This is one of the few episodes in which [[Rachael Lillis]] provides the voice of Pikachu in a few scenes of the dub. This happened when another Japanese voice actor spoke over [[Ikue Otani]]'s Pikachu voice and the audio could not be used.
+* Only two pieces of background music were kept in the dub: the opening music of Red and Green in the beginning, and ''Tears, After the Cloudy Weather'' in the scene where Ash is defending Pikachu from the Spearow.
+* Onix's {{m|Tackle}} was not referred to by its name in the dub, whereas in the Japanese version, the announcer clearly identifies the attack.
+* The Japanese version has the [[narrator]] and Ash finishing each other's sentences when Ash is being introduced, which was not made apparent in the English dub. The exchange also implies via Ash correcting himself that [[Pokémon Master]] meant the strongest Pokémon Trainer, while the English dub simply has Ash declaring his plans to be a master.
+* During the shot of the whole television and Ash moving his head into view, Charmander, Bulbasaur, and Squirtle have their Japanese names written below their pictures. The names are gone during and after the close-up, however.
+** The English dub has Professor Oak directly indicating that new Trainers will start their journeys the next day, while the Japanese version does not specify a timeframe.
+* The English dub makes it sound as though Gary and Ash are meeting each other for the first time when the latter bumps into him while in a rush, while the Japanese version makes it clear that Gary and Ash already know each other. This resulted in an inconsistency in ''[[EP269|The Ties that Bind]]'' and ''[[AG086|Lights, Camerupt, Action]]'', which both depicted flashbacks to Ash and Gary interacting with each other sometime prior to their first day of their Pokémon journeys.
+* The Japanese version has Oak specifically state that Ash was the fourth scheduled Trainer to arrive to get his first Pokémon, which was omitted in the English dub. The same scene also has a bit of wordplay in the Japanese version regarding "little boy" ({{tt|坊や|bouya}}) and "careless/absentminded" ({{tt|ボヤボヤ|boya-boya}}), which was omitted from the English dub.
+* The Poké Balls in Professor Oak's lab are labeled in Japanese when they first appear, but are painted over when Ash picks up one up. These labels are also partially visible when Pikachu's Poké Ball is revealed.
+* Oak's analogy for late Trainers varies between the Japanese version and English dub: in the former, Oak compares getting a Pokémon even a second late to being a second late when trying to catch a commuter train, while the English dub uses a variation of the adage "The early bird gets the worm".
+* In the Japanese version of the scene where Professor Oak attempts to warn Ash of the sole remaining Pokémon's attitude problem, Ash replies that it doesn't matter since his being late was also a problem. The English dub has Ash being insistent that he must get a Pokémon without referencing his tardiness. By consequence, Oak's reply varies slightly between the two versions: the Japanese version has Oak enthusiastically agreeing to supply Ash with the Pokémon due to being impressed at the boy's self-awareness, while the English dub has Oak sounding more reluctant regarding giving him the last Pokémon.
+* Ash and Oak's exchange when Pikachu "greets" Ash by electrocuting him is slightly rewritten in the English dub by having Oak make electricity-based puns at Ash's expense. Originally, Oak warns that Pikachu generally doesn't take too kindly to humans and will shock anyone who doesn't treat him right. In the dub, Ash also admits he understands what Oak is conveying, while in the Japanese version, he laments that Oak should have told him before, with Oak correcting him by saying Ash should have been there in the first place, in reference to his earlier tardiness.
+* When the people outside of Professor Oak's lab cheer for Ash, the flag says "{{tt|ガンバレサトシ！|Go for it, Satoshi!}}" on the Japanese version. The dub edits this to "GO ASH GO!".
+* Delia's list of items for Ash is slightly different: the dub indicates she is giving Ash hot chocolate in case Ash "needs something hot", while the Japanese version specifies she is actually supplying him with instant emergency rations from the house as his food. Her reason for providing him with rubber gloves is also different: the Japanese version specifies they were for doing the dishes, while the English dub makes it sound as though it was to aid in doing laundry. Ash in the Japanese version also expresses confusion at the gathered crowd and requests this sort of thing happen after he comes back as the ultimate Trainer, with Delia conceding Ash's point, while the English version has him requesting for her to not embarrass him in front of everyone, while stating he's mature by this point and can take care of himself, with Delia saying she understands.
+* The English version indicates that Ash intends to capture every single Pokémon in the world, while the Japanese version merely has him desiring to catch various Pokémon across the world.
+* In the Japanese version, after being shocked by Pikachu, Delia tells Ash to change into his pajamas before going to sleep, even if it's the dirty pajamas he was wearing at the moment. The dub changed this to her telling Ash to remember to change his underwear every single day.
+* The Japanese version of the scene with Ash talking with Pikachu on {{rt|1|Kanto}} contains a pun. When Ash asks Pikachu to talk ({{tt|話|hanashi}}) to him, Pikachu misunderstands this as him saying he has "no teeth" ({{tt|歯なし|ha nashi}}), thus opening his mouth to show Ash that he indeed does have teeth. In the dub, Ash asks Pikachu to open his mouth and tell him what's wrong, to which Pikachu responds by literally opening his mouth.
+* The scene where Ash fails to catch Pidgey was rewritten in the English dub.
+** As before, the English dub makes it sound as though Ash's goal is to capture every Pokémon in the world, while in the Japanese version, Ash only reiterates his resolute desire to become a Pokémon Master.
+** The dialogue also has Ash making a dark comment of telling Pidgey to enjoy its last moments of freedom before he catches it, which he does not do in the Japanese version.
+** After deciding to use his backpack as a makeshift capturing device, Ash makes a pun on Pikachu and parachute by referring to it as a "Pika-chute" in the Japanese version, while the English dub simply has him stating he got an idea.
+** After being hit by Pidgey's {{m|Sand Attack}}, Ash originally references his Pidgey alarm clock when lamenting how it's not easy to do Pokémon captures, while the English version only has him saying it wasn't his lucky day.
+* Ash's Pokédex originally described that Rattata likes stealing food from careless travelers rather than stupid ones.
+* In the Japanese version, after Ash thanks Misty, she slaps him across the face. This was cut from the dub (the screen freezes just as Ash answers Misty) due to physical violence. In the next scene, Misty clearly has her hand in the air.
+** In the Japanese version, Misty also demands to know why Pikachu looks so beat up, while in the English version, she instead accuses Ash by telling him to look at what he has done to Pikachu and asks if it's still breathing.
+* In the Japanese version, Misty tells Ash there is a hospital in [[Viridian City]]; in the dub, she just says that it is nearby. Similarly, Ash's reassuring Pikachu about them almost being there avoids directly mentioning Viridian City in the English dub.
+* The narrator's ending narration was completely rewritten in the English dub and extended slightly. As a result, the narration starts while Ash is climbing on the hill in the Japanese version, while the English dub has it starting while {{an|Ho-Oh}} was still on-screen.
+* The English-dubbed version of this episode was released in Japan as part of the ''{{DL|Pokémon de English|Pokémon de English! Aisatsu Hen}}'' VHS/DVD. This version has a few changes made:
+** Some paint edits are undone, such as the Japanese labels on the Poké Balls in Professor Oak's Laboratory.
+** The [[Who's That Pokémon?]] segment from [[EP160]] is used instead of the original.
+** The shot of Misty slapping Ash is included, though the slap doesn't produce any sound.
+** The Pokérap and end credits are not included.
+
+<gallery>
+EP001 edit original.png|"Go for it, Satoshi!"
+EP001 dub edit.png|"GO ASH GO!"
+Misty Slap.png|The cut shot
+</gallery>
+
+====Differences between the episode and the [[Pocket Monsters Film Comic|comic adaptation]]====
+* The opening League Battle was shortened, cutting out the reference to the Game Boy opening scene.
+* Ash's attempt at catching Rattata was cut.
+* Ash's escape through the river was shortened, only showing the first swimming distance. {{p|Gyarados}} and Ash's attempt to swim away from it were cut.
+* In the ending of the episode, after Pikachu licks Ash, Ash was silent, though his gratefulness for finally earning Pikachu's respect is still implied. In the comic, it has Ash either saying or thinking, "Hey, Pikachu really does like me!"
+
+====Differences between the episode and the [[Pocket Monsters: The Animation|novelization]]====
+* After Misty scolds Ash for endangering Pikachu, she directly comforts and cradles the injured Pikachu instead of simply expressing concern for his well-being.
+
+==In other languages==
+{{Epilang|color={{colorschemelight|RG}}|bordercolor={{colorschemedark|RG}}
+|ar={{tt|!بوكيمون، لقد اخترتك انت|Pokémon, I Choose You!}}
+|bg={{tt|Покемон, избрах теб!|Pokémon, I chose you!}} ''Pokémon, izbrakh teb!''
+|eu={{tt|Pokemon, zu hautatu zaitut!|Pokémon, I choose you!}}
+|zh_yue={{tt|就是你了！寵物小精靈！|I Choose You! Pokémon!}} {{tt|*|TVB dub (spoken)}}<br>{{tt|是你了，寵物小精靈|I Choose You, Pokémon}} {{tt|*|TVB dub (subtitle)}}<br>{{tt|精靈寶可夢就決定是你了！|Pokémon! I Choose You!}} {{tt|*|i-Cable dub}}<br>{{tt|寶可夢就決定是你了！|Pokémon! I Choose You!}} {{tt|*|Pokémon HK YouTube title}}
+|zh_cmn={{tt|神奇寶貝，就決定是你了！|Pokémon, I Choose You!}} {{tt|*|Taiwan}}<br>{{tt|宠物小精灵！看你的了！|Pokémon! It's Up To You!}} {{tt|*|Mainland China}}
+|hr={{tt|Pokémon, ja biram tebe!|Pokémon, I Choose You!}}
+|ca_ct={{tt|Pikachu, t'escullo a tu!|Pikachu, I Choose You!}}
+|ca_vc={{tt|Pokémon, et trie a tu!|Pokémon, I Choose You!}}
+|cs={{tt|Pokémone, volím si tebe!|Pokémon, I Choose You!}}
+|da={{tt|Pokémon - Jeg vælger dig!|Pokémon - I Choose You!}}
+|nl={{tt|Pokémon, ik kies jou!|Pokémon, I Choose You!}}
+|fi={{tt|Pokémon! Minä valitsen sinut!|Pokémon! I Choose You!}}
+|fr_ca={{tt|Pokémon, c'est toi que je choisis !|Pokémon, it's you that I choose!}}
+|fr_eu={{tt|Le départ|The departure}} {{tt|*|Dub}}<br>{{tt|Pokémon - Le départ|Pokémon - The departure}} {{tt|*|Pokémon TV title}}
+|de=Pika-Pikachu
+|el={{tt|Πόκεμον, διαλέγω εσένα!|Pokémon, I Choose You!}} ''Pokémon, dialeuō esena!''
+|hi=पोकेमोन, तुम मेरे हो! ''{{tt|Pokémon, Tum mere ho!|Pokémon, you're mine!}}'' {{tt|*|CN dub}}<br>पोकेमोन, मैं तुम्हे चुनता हूँ! ''{{tt|Pokémon, Main Tumhe Choonata Hoon!|Pokémon, I choose you!}}'' {{tt|*|Hungama TV dub}}
+|ta=போகிமொன், நான் உன்னை தேர்வு செய்கிறேன்! ''{{tt|Pokémon, Naan Unnai Tervu Seykiren!|Pokémon, I choose you!}}''
+|te=పోకెమోన్, నేను నిన్ను ఎన్నుకుంటాను! ''{{tt|Pokémon, Nenu Ninnu Ennukuntanu!|Pokémon, I choose you!}}''
+|he=אש בוחר את הפוקימון שלו ''{{tt|Ash bokher et ha'Pokémon shelo|Ash chooses his Pokémon}}'' {{tt|*|Arutz HaYeladim title}}<br>!פוקימון - אני בוחר בך ''{{tt|Pokémon - Ani bokher bekha!|Pokémon - I choose you!}}'' {{tt|*|Netflix title}}
+|hu={{tt|Téged választalak, Pikachu!|I choose you, Pikachu!}}
+|id={{tt|Pokémon, Aku Memilihmu!|Pokémon, I Choose You!}}
+|it={{tt|L'inizio di una grande avventura|The beginning of a great adventure}} {{tt|*|Italia 1 dub}}<br>{{tt|Pokémon, scelgo te!|Pokémon, I choose you!}} {{tt|*|K2 TV dub}}
+|ko=피카츄 너로 정했다! ''{{tt|Pikachyu Neoro Jeonghaetta!|Pikachu, I choose you!}}''
+|no={{tt|Pokémon - Jeg velger deg!|Pokémon - I Choose You!}}
+|pl={{tt|Pokémon, wybieram cię!|Pokémon, I Choose You!}}
+|pt_br={{tt|Pokémon, Eu Escolho Você!|Pokémon, I Choose You!}}
+|pt_eu={{tt|Pokémon, escolho-te a ti!|Pokémon, I choose you!}}
+|ro={{tt|Pokémon Te Aleg Pe Tine!|Pokémon - I Choose You!}}
+|ru={{tt|Покемон! Я выбираю тебя!|Pokémon! I Choose You!}} ''Pokémon! Ya vybirayu tebya!''
+|sr={{tt|Покемон, ја бирам тебе!|Cyrillic}} ''Pokémon, ya biram tebe!''/{{tt|Pokémon, ja biram tebe!|Latin}}{{tt|*|Pokémon, I Choose You!}} 
+|sk={{tt|Pokémon, vyberám si teba!|Pokémon, I Choose You!}}
+|es_la={{tt|Pokémon, ¡Yo te elijo!|Pokémon, I Choose You!}}
+|es_eu={{tt|¡Pokémon, te elijo a ti!|Pokémon, I Choose You!}}
+|sv={{tt|Pokémon, jag väljer dig!|Pokémon, I Choose You!}} {{tt|*|spoken & Pokémon TV title}}<br>{{tt|Jag väljer dig|I choose you}} {{tt|*|VHS release}}
+|th={{tt|โปเกมอน ฉันเลือกนายนี่แหละ|Pokémon! I Choose You!}} {{tt|*|Dub}}<br>{{tt|โปเกมอน! ฉันเลือกนาย!|Pokémon! I Choose You!}} {{tt|*|POPS Kids Thailand YouTube title}}
+|tr={{tt|Pokémon! Ben seni seçiyorum!|Pokémon! I choose you!}} {{tt|*|TV dub}}<br>{{tt|Pokémon - Seni Seçtim!|Pokémon - I chose you!}} {{tt|*|Netflix}}
+|uk={{tt|Покемон, я обираю тебе!|Pokémon, I Choose You!}} ''Pokémon, ya obirayu tebe!''
+|vi={{tt|Pokémon! Tớ chọn cậu!|Pokémon! I Choose You!}}
+}}
+<br>
+{{EpicodePrevNext|
+prevcode=None |
+prevtitle=None |
+nextcode=EP002 |
+nexttitle=Pokémon Emergency! |
+series=original series |
+colorscheme=Kanto}}
+{{Project Anime notice}}
+
+{{DEFAULTSORT:0001}}
+[[Category:Original series episodes|001]]
+[[Category:Episodes written by Takeshi Shudō]]
+[[Category:Episodes storyboarded by Kunihiko Yuyama]]
+[[Category:Episodes directed by Toshiaki Suzuki]]
+[[Category:Episodes animated by Keishi Sakai]]
+[[Category:Episodes animated by Sayuri Ichiishi]]
+[[Category:Episodes by multiple animation directors]]
+[[Category:Episodes focusing on Ash]]
+[[Category:Episodes focusing on Pikachu]]
+[[Category:Episodes in which a main character is introduced]]
+[[Category:Episodes in which a main character obtains a new Pokémon]]
+[[Category:Episodes in which a Legendary Pokémon appears]]
+[[Category:Milestone episodes]]
+
+[[de:Pika – Pikachu]]
+[[es:EP001]]
+[[fr:EP001]]
+[[it:GA001]]
+[[ja:無印編第1話]]
+[[zh:宝可梦 第1集]]

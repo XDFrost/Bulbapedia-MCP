@@ -1,0 +1,9 @@
+# Copy to .dev.vars for local development (never committed).
+# Google OAuth client secret (the client id lives in wrangler.jsonc vars).
+GOOGLE_CLIENT_SECRET=
+# Signs the short-lived OAuth state cookie. Any 32+ random characters.
+SESSION_SECRET=change-me-to-something-long-and-random
+# Optional: legacy single bearer token accepted on /mcp (useful before any user exists).
+MCP_AUTH_TOKEN=local-dev-token
+# Optional, LOCAL ONLY: enables GET /auth/dev-login?secret=...&email=... to create a session without Google.
+DEV_LOGIN_SECRET=dev-login

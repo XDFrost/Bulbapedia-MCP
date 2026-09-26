@@ -1,0 +1,24 @@
+{{confused|Palette Town}}
+{{Town infobox
+|name=Pallet Town
+|jpname=マサラタウン
+|jptrans=Masara Town
+|image=Pallet Town PE.png
+|imageI=Pallet Town RBY.png
+|imageII=Pallet Town GSC.png
+|imageIII=Pallet Town FRLG.png
+|slogan=Shades of Your Journey Await!
+|mapdesc=A fairly new and quiet town. It's a small and pretty place.{{sup/4|HGSS}}<br>A small country town, home to Professor Oak's lab.{{sup/7|PE}}
+|region=Kanto
+|north=Route 1
+|regionnorth=Kanto
+|south=Route 21
+|regionsouth=Kanto
+|colordark=A8A8A8
+|colormed=BDBDBD
+|colorlight=D3D3D3
+}}
+
+'''Pallet Town''' (Japanese: '''マサラタウン''' ''Masara Town'') is a small town located in southwestern [[Kanto]]. It is the [[hometown]] of the {{player}} and their [[rival]] in the Kanto-based {{pkmn|games}}. In other games, it is specifically the hometown of {{ga|Red}} and {{ga|Blue}}. In {{aniseries|PTS}}, it is the hometown of {{Ash}} and {{Gary}}. [[Professor Oak's Laboratory]], where the famous [[Professor Oak]] conducts his research, is located in the town.
+
+The town has two exits. To the north is {{rt|1|Kanto}}, leading to [[Viridian City]]. To the south is {{rt|21|Kanto}}, a [[water route]] leading to [[Cinnabar Island]].

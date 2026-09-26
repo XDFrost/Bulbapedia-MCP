@@ -1,0 +1,97 @@
+===Sprites===
+{{Spritebox/Header|type=Electric}}
+{{Spritebox/1|ndex=025}}
+{{Spritebox/2|ndex=025}}
+{{Spritebox/3|ndex=025}}
+{{Spritebox/4/Gender|ndex=025}}
+{{Spritebox/5/Gender|ndex=025|no_v2=y}}
+{{Spritebox/6/2FormsGenderORAS|ndex=025|form1=C|crop=66}}
+|-
+|
+{| class="roundy" width="100%" style="background: transparent; border-collapse:collapse"
+! width="80px" style="{{roundytop|5px}} background: #{{Gen VII color light}}; line-height: 8pt" | <small>Generation VII</small>
+|
+|-
+| colspan="2" class="roundytr roundybottom" style="background:#{{Gen VII color light}}; padding:2px" |
+{| width="100%" class="roundy" style="background:#FFF; padding:3px" cellspacing="0px"
+! class="roundytl" style="background:#{{Sun color}}; width: 25%; border-top:1px solid #000; border-left:1px solid #000" | [[Pokémon Sun and Moon|<span style="color:#000">Sun</span>]]
+! class="roundytr" style="background:#{{Moon color}}; width: 25%; border-top:1px solid #000; border-right:1px solid #000" | [[Pokémon Sun and Moon|<span style="color:#000">Moon</span>]]
+| style="border-bottom:1px solid #000;" |
+! class="roundytl" style="background:#{{Ultra Sun color}}; width: 25%; border-top:1px solid #000; border-left:1px solid #000" | [[Pokémon Ultra Sun and Ultra Moon|<span style="color:#FFF">Ultra Sun</span>]]
+! class="roundytr" style="background:#{{Ultra Moon color}}; width: 25%; border-top:1px solid #000; border-right:1px solid #000" | [[Pokémon Ultra Sun and Ultra Moon|<span style="color:#FFF">Ultra Moon</span>]]
+|-
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 m.png|Male]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 m.png|Male]]</div>
+|
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 m.png|Male]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 m.png|Male]]</div>
+|-
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 f.png|Female]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 f.png|Female]]</div>
+|
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 f.png|Female]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 f.png|Female]]</div>
+|-
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 m s.png|Shiny Male]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 m s.png|Shiny Male]]</div>
+|
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 m s.png|Shiny Male]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 m s.png|Shiny Male]]</div>
+|-
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 f s.png|Shiny Female]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 f s.png|Shiny Female]]</div>
+|
+! style="border-left:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7s 025 f s.png|Shiny Female]]</div>
+! style="border-right:1px solid #000; "| <div style="height:{{{crop|240}}}px; width:{{{crop|240}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr b 7s 025 f s.png|Shiny Female]]</div>
+|-
+! class="roundybl" style="font-size:70%; line-height: 8pt; border-bottom:1px solid #000; border-left:1px solid #000" | Front
+! class="roundybr" style="font-size:70%; line-height: 8pt; border-bottom:1px solid #000; border-right:1px solid #000" | Back
+|
+! class="roundybl" style="font-size:70%; line-height: 8pt; border-bottom:1px solid #000; border-left:1px solid #000" | Front
+! class="roundybr" style="font-size:70%; line-height: 8pt; border-bottom:1px solid #000; border-right:1px solid #000" | Back
+|-
+|
+|-
+! colspan="2" class="roundytl" style="background:#{{Let's Go Pikachu color}}; width: 50%; border-top:1px solid #000; border-left:1px solid #000" | [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|<span style="color:#000">Let's Go, Pikachu!</span>]]
+| style="background:#{{Let's Go Pikachu color}}; border-top:1px solid #000" |
+! colspan="2" class="roundytr" style="background:#{{Let's Go Eevee color}}; width: 50%; border-top:1px solid #000; border-right:1px solid #000" | [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|<span style="color:#000">Let's Go, Eevee!</span>]]
+|-
+! colspan="2" style="border-left:1px solid #000; "| <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025 m.png|400px|Male]]</div>
+|
+! colspan="2" style="border-right:1px solid #000; "| <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025 m s.png|400px|Shiny Male]]</div>
+|-
+! colspan="2" style="border-left:1px solid #000;" | <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025 f.png|400px|Female]]</div>
+!
+! colspan="2" style="border-right:1px solid #000; "| <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025 f s.png|400px|Shiny Female]]</div>
+|-
+! colspan="2" style="border-left:1px solid #000; " | <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025P m.png|400px|Partner Pikachu, Male]]</div>
+| style="border-bottom:1px solid #000;" |
+! colspan="2" style="border-right:1px solid #000; " | <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025P m s.png|400px|Partner Pikachu, Shiny Male]]</div>
+|-
+! class="roundybl" colspan="2" style="border-left:1px solid #000; border-bottom:1px solid #000;" | <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025P f.png|400px|Partner Pikachu, Female]]</div>
+|
+! class="roundybr" colspan="2" style="border-right:1px solid #000; border-bottom:1px solid #000;" | <div style="height:{{{PEcrop|400}}}px; width:{{{PEcrop|400}}}px; display:inline-flex; justify-content:center; align-items:center; overflow: hidden;">[[File:Spr 7p 025P f s.png|400px|Partner Pikachu, Shiny Female]]</div>
+|}
+|}
+{{Spritebox/8/2FormsGenderArceus|ndex=025|form1=Gi|LAcrop=161|crop=312}}
+<!--{{Spritebox/9/Gender|ndex=0025}}-->
+{{Spritebox/HOME/2FormsGender|ndex=0025|form1=Gi}}
+{{Spritebox/Footer|025|Pikachu}}
+
+====Other sprites====
+{| style="background:#{{electric color}}; margin:auto; text-align:center; font-size:80%; {{roundy|20px}}; border:2px solid #{{electric color dark}}"
+|-
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 3f Pikachu credits.png]]
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 4d 025Chewy.png]]
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 4d 025Chuchu.png]]
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 4d 025Piki.png]]
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 4d 025Sparky.png]]
+| style="background:#{{electric color light}}; border:2px solid #{{electric color dark}}; {{roundy|80px}}; width:140px"| [[File:Spr 4d 025Ziggy.png]]
+|-
+| FireRed/LeafGreen credits
+| Chewy in {{color2|000|Pokémon Super Contests}}
+| Chuchu in {{color2|000|Pokémon Super Contests}}
+| Piki in {{color2|000|Pokémon Super Contests}}
+| Sparky in {{color2|000|Pokémon Super Contests}}
+| Ziggy in {{color2|000|Pokémon Super Contests}}
+|}

@@ -1,0 +1,1194 @@
+{{redirect|Electric|the [[P25 Music]] song|Electric (song)}}
+----
+{{Types|Electric}}
+The '''Electric type''' (Japanese: '''でんきタイプ''' ''Electric type'') is one of the eighteen [[type]]s. Electric-type [[move]]s are super effective against {{t|Flying}}- and {{type|Water}} {{OBP|Pokémon|species}}, while Electric-type Pokémon are weak to {{type|Ground}} moves.
+
+==Battle properties==
+''Note: Type effectiveness multipliers may vary in other {{pkmn|games}} outside the [[core series]].''
+{{Flexheader}}
+{{TypeProperties
+|type=Electric
+|prop=Off
+|se={{TypeIcon|Flying}}{{TypeIcon|Water}}
+|nve={{TypeIcon|Grass}}{{TypeIcon|Electric}}{{TypeIcon|Dragon}}
+|immune={{TypeIcon|Ground}}
+}}
+{{TypeProperties
+|type=Electric
+|prop=Def
+|se={{TypeIcon|Ground}}
+|nve={{TypeIcon|Flying}}{{TypeIcon|Electric}}{{TypeIcon|Steel}}
+}}
+{{Flexfooter}}
+* The {{t|Steel}} type was introduced in [[Generation II]].
+
+===Additional effects===
+In [[Generation I]], Electric-type {{OBP|Pokémon|species}} cannot get [[Paralysis (status condition)|paralyzed]] by damage-dealing Electric-type [[move]]s, but can get paralyzed by other means. From [[Generation VI]] onward, Electric-type Pokémon cannot get paralyzed at all. 
+
+When the move {{m|Mud Sport}} (introduced in [[Generation III]]) is in effect, the power of Electric-type moves is decreased by 67% (50% prior to [[Generation V]]). When {{m|Electric Terrain}} (introduced in [[Generation VI]]) is in effect, the [[power]] of Electric-type moves is increased by 30% (50% prior to [[Generation VIII]]) if the user is [[grounded]]. 
+
+All {{type|Normal}} moves become Electric-type moves when affected by the moves {{m|Ion Deluge}} (introduced in Generation VI) or {{m|Plasma Fists}} (introduced in {{g|Ultra Sun and Ultra Moon}}). If the target is affected by the move {{m|Electrify}} (introduced in Generation VI) before it uses a move, the target's move becomes Electric-type for that turn.
+
+Only Electric-type Pokémon can use the move {{m|Double Shock}}, which will cause the user to no longer be Electric-type unless {{Tera}}stalized.
+
+==Pokémon==
+As of {{CURRENTGEN}}, {{PAGESINCATEGORY:Electric-type Pokémon|pages}} {{OBP|Pokémon|species}} are Electric-type (counting those that are Electric-type in at least one of their [[form]]s, including [[Alolan form]]s), which makes up {{#expr: ({{PAGESINCATEGORY:Electric-type Pokémon|pages}}/{{numpkmn}}*100) round2}}% of all Pokémon, making it the third rarest [[type]] among Pokémon after {{t|Fairy}} and before {{t|Ghost}}. After the introduction of {{p|Pawmo}}, {{p|Pawmot}}, and {{p|Iron Hands}} in Generation IX, all other types have been paired up with Electric at least once, making Electric the fifth type to have this trait after {{t|Flying}}, {{t|Water}}, {{t|Psychic}}, and {{t|Dark}}. 
+
+The Pokémon below are listed by their current types. {{DL||Changed types|Some Pokémon}} have had their types changed, usually when a new type was introduced.
+
+===Pure Electric-type Pokémon===
+{| class="roundtable sortable" style="margin: auto; text-align:left; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! colspan=2 style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|Pokémon (species)|Pokémon}}
+|-
+| rowspan=5 style="font-family:monospace,monospace" | #0025
+|{{ArtP|0025|Pikachu}}
+|{{p|Pikachu}}
+|-
+|{{ArtP|0025|Pikachu|form=-{{#switch: {{#expr: {{#time: U}} mod 6}}|0=Cosplay|1=Rock Star|2=Belle|3=Pop Star|4=PhD|5=Libre}}}}
+|{{p|Pikachu}}<br><small>All Cosplay Pikachu</small>
+|-
+|{{ArtP|0025|Pikachu|form=-{{#switch: {{#expr: {{#time: U}} mod 9}}|0=Original|1=Hoenn|2=Sinnoh|3=Unova|4=Kalos|5=Unova|6=Alola|7=Partner|8=World}} Cap}}
+|{{p|Pikachu}}<br><small>All Pikachu in a cap</small>
+|-
+|{{ArtP|0025|Pikachu|form=-Gigantamax}}
+|{{p|Pikachu}}<br><small>Gigantamax</small>
+|-
+|{{ArtP|0025|Pikachu|form=-Pale}}
+|{{p|Pikachu}}<br><small>Pale</small>
+|-
+| rowspan=3 style="font-family:monospace,monospace" | #0026
+|{{ArtP|0026|Raichu}}
+|{{p|Raichu}}
+|-
+|{{ArtP|0026|Raichu|form=-Mega X}}
+|{{p|Raichu}}<br><small>Mega Raichu X</small>
+|-
+|{{ArtP|0026|Raichu|form=-Mega Y}}
+|{{p|Raichu}}<br><small>Mega Raichu Y</small>
+|-
+| style="font-family:monospace,monospace" | #0100
+|{{ArtP|0100|Voltorb}}
+|{{p|Voltorb}}
+|-
+| style="font-family:monospace,monospace" | #0101
+|{{ArtP|0101|Electrode}}
+|{{p|Electrode}}
+|-
+| style="font-family:monospace,monospace" | #0125
+|{{ArtP|0125|Electabuzz}}
+|{{p|Electabuzz}}
+|-
+| style="font-family:monospace,monospace" | #0135
+|{{ArtP|0135|Jolteon}}
+|{{p|Jolteon}}
+|-
+| rowspan=2 style="font-family:monospace,monospace" | #0172
+|{{ArtP|0172|Pichu}}
+| {{p|Pichu}}
+|-
+| [[File:172Pichu-Spiky-eared DP anime 1.png|70x70px|Pichu|link=Pichu (Pokémon)]]
+|{{p|Pichu}}<br><small>Spiky-eared Pichu</small>
+|-
+| style="font-family:monospace,monospace" | #0179
+|{{ArtP|0179|Mareep}}
+|{{p|Mareep}}
+|-
+| style="font-family:monospace,monospace" | #0180
+|{{ArtP|0180|Flaaffy}}
+|{{p|Flaaffy}}
+|-
+| style="font-family:monospace,monospace" | #0181
+|{{ArtP|0181|Ampharos}}
+|{{p|Ampharos}}
+|-
+| style="font-family:monospace,monospace" | #0239
+|{{ArtP|0239|Elekid}}
+|{{p|Elekid}}
+|-
+| style="font-family:monospace,monospace" | #0243
+|{{ArtP|0243|Raikou}}
+|{{p|Raikou}}
+|-
+| style="font-family:monospace,monospace" | #0309
+|{{ArtP|0309|Electrike}}
+|{{p|Electrike}}
+|-
+| rowspan="2" style="font-family:monospace,monospace" | #0310
+|{{ArtP|0310|Manectric}}
+|{{p|Manectric}}
+|-
+|{{ArtP|0310|Manectric|form=-Mega}}
+|{{p|Manectric}}<br><small>Mega Manectric</small>
+|-
+| style="font-family:monospace,monospace" | #0311
+|{{ArtP|0311|Plusle}}
+|{{p|Plusle}}
+|-
+| style="font-family:monospace,monospace" | #0312
+|{{ArtP|0312|Minun}}
+|{{p|Minun}}
+|-
+| style="font-family:monospace,monospace" | #0403
+|{{ArtP|0403|Shinx}}
+|{{p|Shinx}}
+|-
+| style="font-family:monospace,monospace" | #0404
+|{{ArtP|0404|Luxio}}
+|{{p|Luxio}}
+|-
+| style="font-family:monospace,monospace" | #0405
+|{{ArtP|0405|Luxray}}
+|{{p|Luxray}}
+|-
+| style="font-family:monospace,monospace" | #0417
+|{{ArtP|0417|Pachirisu}}
+|{{p|Pachirisu}}
+|-
+| style="font-family:monospace,monospace" | #0466
+|{{ArtP|0466|Electivire}}
+|{{p|Electivire}}
+|-
+| style="font-family:monospace,monospace" | #0493
+|{{ArtP|0493|Arceus|form=-Electric}}
+|{{p|Arceus}}<br><small>Arceus<br>(Electric-type)</small>
+|-
+| style="font-family:monospace,monospace" | #0522
+|{{ArtP|0522|Blitzle}}
+|{{p|Blitzle}}
+|-
+| style="font-family:monospace,monospace" | #0523
+|{{ArtP|0523|Zebstrika}}
+|{{p|Zebstrika}}
+|-
+| style="font-family:monospace,monospace" | #0602
+|{{ArtP|0602|Tynamo}}
+|{{p|Tynamo}}
+|-
+| style="font-family:monospace,monospace" | #0603
+|{{ArtP|0603|Eelektrik}}
+|{{p|Eelektrik}}
+|-
+| rowspan="2" style="font-family:monospace,monospace" | #0604
+|{{ArtP|0604|Eelektross}}
+|{{p|Eelektross}}
+|-
+|{{ArtP|0604|Eelektross|form=-Mega}}
+|{{p|Eelektross}}<br><small>Mega Eelektross</small>
+|-
+| style="font-family:monospace,monospace" | #0773
+|{{ArtP|0773|Silvally|form=-Electric}}
+|{{p|Silvally}}<br><small>Type: Electric</small>
+|-
+| style="font-family:monospace,monospace" | #0796
+|{{ArtP|0796|Xurkitree}}
+|{{p|Xurkitree}}
+|-
+| rowspan="2" style="font-family:monospace,monospace" | #0807
+|{{ArtP|0807|Zeraora}}
+|{{p|Zeraora}}
+|-
+|{{ArtP|0807|Zeraora|form=-Mega}}
+|{{p|Zeraora}}<br><small>Mega Zeraora</small>
+|-
+| style="font-family:monospace,monospace" | #0835
+|{{ArtP|0835|Yamper}}
+|{{p|Yamper}}
+|-
+| style="font-family:monospace,monospace" | #0836
+|{{ArtP|0836|Boltund}}
+|{{p|Boltund}}
+|-
+| style="font-family:monospace,monospace" | #0871
+|{{ArtP|0871|Pincurchin}}
+|{{p|Pincurchin}}
+|-
+| style="font-family:monospace,monospace" | #0894
+|{{ArtP|0894|Regieleki}}
+|{{p|Regieleki}}
+|-
+| style="font-family:monospace,monospace" | #0921
+|{{ArtP|0921|Pawmi}}
+|{{p|Pawmi}}
+|-
+| style="font-family:monospace,monospace" | #0938
+|{{ArtP|0938|Tadbulb}}
+|{{p|Tadbulb}}
+|-
+| style="font-family:monospace,monospace" | #0939
+|{{ArtP|0939|Bellibolt}}
+|{{p|Bellibolt}}
+|}
+In ''[[JN037|That New Old Gang of Mine!]]'', {{Ash}}'s [[Rotom Phone]] listed the {{an|Rotom Pokédex}} as a pure Electric-type Pokémon.
+
+===Half Electric-type Pokémon===
+====Primary Electric-type Pokémon====
+{| class="roundtable sortable" style="margin: auto; text-align:left; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! colspan=2 style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|Pokémon (species)|Pokémon}}
+! style="text-align:center; background-color: #{{electric color light}}" | Type 1
+! style="text-align:center; background-color: #{{electric color light}}" | Type 2
+|-
+| style="font-family:monospace,monospace" | #0026
+|{{ArtP|0026|Raichu|form=-Alola}}
+|{{p|Raichu}}<br><small>Alolan Form</small>
+{{typetable|Electric}}
+{{typetable|Psychic}}
+|-
+| style="font-family:monospace,monospace" | #0081
+|{{ArtP|0081|Magnemite}}
+|{{p|Magnemite}}<sup>{{DL||Changed types|(II+)}}</sup>
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| style="font-family:monospace,monospace" | #0082
+|{{ArtP|0082|Magneton}}
+|{{p|Magneton}}<sup>{{DL||Changed types|(II+)}}</sup>
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| style="font-family:monospace,monospace" | #0100
+|{{ArtP|0100|Voltorb|form=-Hisui}}
+|{{p|Voltorb}}<br><small>Hisuian Form</small>
+{{typetable|Electric}}
+{{typetable|Grass}}
+|-
+| style="font-family:monospace,monospace" | #0101
+|{{ArtP|0101|Electrode|form=-Hisui}}
+|{{p|Electrode}}<br><small>Hisuian Form</small>
+{{typetable|Electric}}
+{{typetable|Grass}}
+|-
+| style="font-family:monospace,monospace" | #0145
+|{{ArtP|0145|Zapdos}}
+|{{p|Zapdos}}
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0181
+|{{ArtP|0181|Ampharos|form=-Mega}}
+|{{p|Ampharos}}<br><small>Mega Ampharos</small>
+{{typetable|Electric}}
+{{typetable|Dragon}}
+|-
+| style="font-family:monospace,monospace" | #0462
+|{{ArtP|0462|Magnezone}}
+|{{p|Magnezone}}
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| rowspan="7" style="font-family:monospace,monospace" | #0479
+|{{ArtP|0479|Rotom}}
+|{{p|Rotom}}<br><small>Rotom</small>
+{{typetable|Electric}}
+{{typetable|Ghost}}
+|-
+|{{ArtP|0479|Rotom|form=-Heat}}
+|{{p|Rotom}}<sup>{{DL||Changed types|(V+)}}</sup><br><small>Heat Rotom</small>
+{{typetable|Electric}}
+{{typetable|Fire}}
+|-
+|{{ArtP|0479|Rotom|form=-Wash}}
+|{{p|Rotom}}<sup>{{DL||Changed types|(V+)}}</sup><br><small>Wash Rotom</small>
+{{typetable|Electric}}
+{{typetable|Water}}
+|-
+|{{ArtP|0479|Rotom|form=-Frost}}
+|{{p|Rotom}}<sup>{{DL||Changed types|(V+)}}</sup><br><small>Frost Rotom</small>
+{{typetable|Electric}}
+{{typetable|Ice}}
+|-
+|{{ArtP|0479|Rotom|form=-Fan}}
+|{{p|Rotom}}<sup>{{DL||Changed types|(V+)}}</sup><br><small>Fan Rotom</small>
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+|{{ArtP|0479|Rotom|form=-Mow}}
+|{{p|Rotom}}<sup>{{DL||Changed types|(V+)}}</sup><br><small>Mow Rotom</small>
+{{typetable|Electric}}
+{{typetable|Grass}}
+|-
+|{{ArtP|0479|Rotom|form=-Stereo}}
+|{{p|Rotom}}<br><small>Stereo Rotom</small>
+{{typetable|Electric}}
+{{typetable|Normal}}
+|-
+| style="font-family:monospace,monospace" | #0587
+|{{ArtP|0587|Emolga}}
+|{{p|Emolga}}
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| rowspan="2" style="font-family:monospace,monospace" | #0642
+|{{ArtP|0642|Thundurus}}
+|{{p|Thundurus}}<br><small>Incarnate Forme</small>
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+|{{ArtP|0642|Thundurus|form=-Therian}}
+|{{p|Thundurus}}<br><small>Therian Forme</small>
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0694
+|{{ArtP|0694|Helioptile}}
+|{{p|Helioptile}}
+{{typetable|Electric}}
+{{typetable|Normal}}
+|-
+| style="font-family:monospace,monospace" | #0695
+|{{ArtP|0695|Heliolisk}}
+|{{p|Heliolisk}}
+{{typetable|Electric}}
+{{typetable|Normal}}
+|-
+| style="font-family:monospace,monospace" | #0702
+|{{ArtP|0702|Dedenne}}
+|{{p|Dedenne}}
+{{typetable|Electric}}
+{{typetable|Fairy}}
+|-
+| style="font-family:monospace,monospace" | #0741
+|{{ArtP|0741|Oricorio|form=-Pom-Pom}}
+|{{p|Oricorio}}<br><small>Pom-Pom Style</small>
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0777
+|{{ArtP|0777|Togedemaru}}
+|{{p|Togedemaru}}
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| style="font-family:monospace,monospace" | #0785
+|{{ArtP|0785|Tapu Koko}}
+|{{p|Tapu Koko}}
+{{typetable|Electric}}
+{{typetable|Fairy}}
+|-
+| style="font-family:monospace,monospace" | #0848
+|{{ArtP|0848|Toxel}}
+|{{p|Toxel}}
+{{typetable|Electric}}
+{{typetable|Poison}}
+|-
+| rowspan=3 style="font-family:monospace,monospace" | #0849
+|{{ArtP|0849|Toxtricity|form=-Amped}}
+|{{p|Toxtricity}}<br><small>Amped Form</small>
+{{typetable|Electric}}
+{{typetable|Poison}}
+|-
+|{{ArtP|0849|Toxtricity|form=-Low Key}}
+|{{p|Toxtricity}}<br><small>Low Key Form</small>
+{{typetable|Electric}}
+{{typetable|Poison}}
+|-
+|{{ArtP|0849|Toxtricity|form=-Gigantamax}}
+|{{p|Toxtricity}}<br><small>Gigantamax</small>
+{{typetable|Electric}}
+{{typetable|Poison}}
+|-
+| rowspan=2 style="font-family:monospace,monospace" | #0877
+|{{ArtP|0877|Morpeko|form=-Full}}
+|{{p|Morpeko}}<br><small>Full Belly Mode</small>
+{{typetable|Electric}}
+{{typetable|Dark}}
+|-
+|{{ArtP|0877|Morpeko|form=-Hangry}}
+|{{p|Morpeko}}<br><small>Hangry Mode</small>
+{{typetable|Electric}}
+{{typetable|Dark}}
+|-
+| style="font-family:monospace,monospace" | #0880
+|{{ArtP|0880|Dracozolt}}
+|{{p|Dracozolt}}
+{{typetable|Electric}}
+{{typetable|Dragon}}
+|-
+| style="font-family:monospace,monospace" | #0881
+|{{ArtP|0881|Arctozolt}}
+|{{p|Arctozolt}}
+{{typetable|Electric}}
+{{typetable|Ice}}
+|-
+| style="font-family:monospace,monospace" | #0922
+|{{ArtP|0922|Pawmo}}
+|{{p|Pawmo}}
+{{typetable|Electric}}
+{{typetable|Fighting}}
+|-
+| style="font-family:monospace,monospace" | #0923
+|{{ArtP|0923|Pawmot}}
+|{{p|Pawmot}}
+{{typetable|Electric}}
+{{typetable|Fighting}}
+|-
+| style="font-family:monospace,monospace" | #0940
+|{{ArtP|0940|Wattrel}}
+|{{p|Wattrel}}
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0941
+|{{ArtP|0941|Kilowattrel}}
+|{{p|Kilowattrel}}
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0989
+|{{ArtP|0989|Sandy Shocks}}
+|{{p|Sandy Shocks}}
+{{typetable|Electric}}
+{{typetable|Ground}}
+|-
+| rowspan=2 style="font-family:monospace,monospace" | #1008
+|{{ArtP|1008|Miraidon}}
+|{{p|Miraidon}}<br><small>Ultimate Mode</small>
+{{typetable|Electric}}
+{{typetable|Dragon}}
+|-
+|{{ArtP|1008|Miraidon|form=-Low-Power}}
+|{{p|Miraidon}}<br><small>Low-Power Mode</small>
+{{typetable|Electric}}
+{{typetable|Dragon}}
+|-
+| style="font-family:monospace,monospace" | #1021
+|{{ArtP|1021|Raging Bolt}}
+|{{p|Raging Bolt}}
+{{typetable|Electric}}
+{{typetable|Dragon}}
+|}
+
+====Secondary Electric-type Pokémon====
+{| class="roundtable sortable" style="margin: auto; text-align:left; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! colspan=2 style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|Pokémon (species)|Pokémon}}
+! style="text-align:center; background-color: #{{electric color light}}" | Type 1
+! style="text-align:center; background-color: #{{electric color light}}" | Type 2
+|-
+| style="font-family:monospace,monospace" | #0074
+|{{ArtP|0074|Geodude|form=-Alola}}
+|{{p|Geodude}}<br><small>Alolan Form</small>
+{{typetable|Rock}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0075
+|{{ArtP|0075|Graveler|form=-Alola}}
+|{{p|Graveler}}<br><small>Alolan Form</small>
+{{typetable|Rock}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0076
+|{{ArtP|0076|Golem|form=-Alola}}
+|{{p|Golem}}<br><small>Alolan Form</small>
+{{typetable|Rock}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0170
+|{{ArtP|0170|Chinchou}}
+|{{p|Chinchou}}
+{{typetable|Water}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0171
+|{{ArtP|0171|Lanturn}}
+|{{p|Lanturn}}
+{{typetable|Water}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0595
+|{{ArtP|0595|Joltik}}
+|{{p|Joltik}}
+{{typetable|Bug}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0596
+|{{ArtP|0596|Galvantula}}
+|{{p|Galvantula}}
+{{typetable|Bug}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0618
+|{{ArtP|0618|Stunfisk}}
+|{{p|Stunfisk}}
+{{typetable|Ground}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0644
+|{{ArtP|0644|Zekrom}}
+|{{p|Zekrom}}
+{{typetable|Dragon}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0737
+|{{ArtP|0737|Charjabug}}
+|{{p|Charjabug}}
+{{typetable|Bug}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0738
+|{{ArtP|0738|Vikavolt}}
+|{{p|Vikavolt}}
+{{typetable|Bug}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0992
+|{{ArtP|0992|Iron Hands}}
+|{{p|Iron Hands}}
+{{typetable|Fighting}}
+{{typetable|Electric}}
+|-
+| style="font-family:monospace,monospace" | #0995
+|{{ArtP|0995|Iron Thorns}}
+|{{p|Iron Thorns}}
+{{typetable|Rock}}
+{{typetable|Electric}}
+|}
+
+===Changed types===
+These Electric-type Pokémon have had their types changed.
+{| class="roundtable sortable" style="margin: auto; text-align:left; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! colspan=2 style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|Pokémon (species)|Pokémon}}
+! colspan=3 style="text-align:center; background-color: #{{electric color light}}" class="unsortable" | Original types
+! colspan=3 style="text-align:center; background-color: #{{electric color light}}" class="unsortable" | New types
+|-
+| style="font-family:monospace,monospace" | #0081
+|{{ArtP|081|Magnemite}}
+|{{p|Magnemite}}
+| Gen I
+{{typetable2|Electric}}
+| Gen II+
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| style="font-family:monospace,monospace" | #0082
+|{{ArtP|082|Magneton}}
+|{{p|Magneton}}
+| Gen I
+{{typetable2|Electric}}
+| Gen II+
+{{typetable|Electric}}
+{{typetable|Steel}}
+|-
+| style="font-family:monospace,monospace" | #0479
+|{{ArtP|479|Rotom|form=-Heat}}
+|{{p|Rotom}}<br><small>Heat Rotom</small>
+|Gen IV
+| style="text-align:center; background:#{{Electric color}}"|[[Electric (type)|<span style="color:#FFF">Electric</span>]]
+| style="text-align:center; background:#{{Ghost color}}"|[[Ghost (type)|<span style="color:#FFF">Ghost</span>]]
+|Gen V+
+{{typetable|Electric}}
+{{typetable|Fire}}
+|-
+| style="font-family:monospace,monospace" | #0479
+|{{ArtP|479|Rotom|form=-Wash}}
+|{{p|Rotom}}<br><small>Wash Rotom</small>
+|Gen IV
+| style="text-align:center; background:#{{Electric color}}"|[[Electric (type)|<span style="color:#FFF">Electric</span>]]
+| style="text-align:center; background:#{{Ghost color}}"|[[Ghost (type)|<span style="color:#FFF">Ghost</span>]]
+|Gen V+
+{{typetable|Electric}}
+{{typetable|Water}}
+|-
+| style="font-family:monospace,monospace" | #0479
+|{{ArtP|479|Rotom|form=-Frost}}
+|{{p|Rotom}}<br><small>Frost Rotom</small>
+|Gen IV
+| style="text-align:center; background:#{{Electric color}}"|[[Electric (type)|<span style="color:#FFF">Electric</span>]]
+| style="text-align:center; background:#{{Ghost color}}"|[[Ghost (type)|<span style="color:#FFF">Ghost</span>]]
+|Gen V+
+{{typetable|Electric}}
+{{typetable|Ice}}
+|-
+| style="font-family:monospace,monospace" | #0479
+|{{ArtP|479|Rotom|form=-Fan}}
+|{{p|Rotom}}<br><small>Fan Rotom</small>
+|Gen IV
+| style="text-align:center; background:#{{Electric color}}"|[[Electric (type)|<span style="color:#FFF">Electric</span>]]
+| style="text-align:center; background:#{{Ghost color}}"|[[Ghost (type)|<span style="color:#FFF">Ghost</span>]]
+|Gen V+
+{{typetable|Electric}}
+{{typetable|Flying}}
+|-
+| style="font-family:monospace,monospace" | #0479
+|{{ArtP|479|Rotom|form=-Mow}}
+|{{p|Rotom}}<br><small>Mow Rotom</small>
+|Gen IV
+| style="text-align:center; background:#{{Electric color}}"|[[Electric (type)|<span style="color:#FFF">Electric</span>]]
+| style="text-align:center; background:#{{Ghost color}}"|[[Ghost (type)|<span style="color:#FFF">Ghost</span>]]
+|Gen V+
+{{typetable|Electric}}
+{{typetable|Grass}}
+|}
+
+==Non-Pokémon opponents==
+Some opponents featured in [[Pokéstar Studios]] in {{g|Black 2 and White 2}} can be battled like Pokémon and they have designated Pokémon types.
+
+{| align="center"
+|- style="vertical-align:top"
+| {{Compare|nickname={{color2|000|Pokéstar Studios opponents#MT2|MT2}}|type=Steel|type2=Electric|image=Spr 5b2 MT2|ab=Flash Fire|HP=100|Attack=100|Defense=100|SpAtk=100|SpDef=100|Speed=100|size=151}}
+| {{Compare|nickname={{color2|000|Pokéstar Studios opponents#UFO|UFO}}|type=Flying|type2=Electric|image=Spr 5b2 UFO|ab=Levitate|HP=100|Attack=100|Defense=100|SpAtk=100|SpDef=100|Speed=100|size=179}}
+| {{Compare|nickname={{color2|000|Pokéstar Studios opponents#UFO 2|UFO 2}}|type=Psychic|type2=Electric|image=Spr 5b2 UFO|ab=Levitate|HP=100|Attack=100|Defense=100|SpAtk=100|SpDef=100|Speed=100|size=179}}
+|}
+
+==Moves==
+As of {{CURRENTGEN}}, there are 50 Electric-type [[move]]s, which makes up 5.35% of all moves (excluding those that are Electric-type only under certain circumstances), making it the 6th most common type among moves, after {{t|Water}} and {{t|Dark}} and before {{t|Fire}}.
+
+Prior to [[Generation IV#Advances in gameplay|changes in Generation IV]], all damaging Electric-type moves were [[special move|special]], but they may now also be [[physical move|physical]] depending on the attack.
+
+{{movelist/battle-head|Electric}}
+{{movelist/battle|7|10,000,000 Volt Thunderbolt|Special||195|—|1|anyadjacent|The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.}}
+{{movelist/battle|8|Aura Wheel|Physical||110|100|10|anyadjacent|Morpeko attacks and boosts its Speed stat with the energy stored in its cheeks. This move's type changes depending on the user's form.}}
+{{movelist/battle|8|Bolt Beak|Physical||85|100|10|anyadjacent|The user stabs the target with its electrified beak. This move's power is doubled if the user moves before the target.}}
+{{movelist/battle|5|Bolt Strike|Physical|Beautiful|130|85|5|anyadjacent|The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.}}
+{{movelist/battle|7|Buzzy Buzz|Special||90|100|20|anyadjacent|The user shoots a jolt of electricity to attack the target. This also leaves the target with paralysis.}}
+{{movelist/battle|7|Catastropika|Physical||210|—|1|anyadjacent|The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.}}
+{{movelist/battle|3|Charge|Status|Clever|—|—|20|self|The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat.}}
+{{movelist/battle|4|Charge Beam|Special|Beautiful|50|90|10|anyadjacent|The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat.}}
+{{movelist/battle|4|Discharge|Special|Beautiful|80|100|15|alladjacent|The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis.}}
+{{movelist/battle|9|Double Shock|Physical||120|100|5|anyadjacent|The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type.}}
+{{movelist/battle|6|Eerie Impulse|Status|Clever|—|100|15|anyadjacent|The user's body generates an eerie impulse. Exposing the target to it harshly lowers the target's Sp. Atk stat.}}
+{{movelist/battle|6|Electric Terrain|Status|Clever|—|—|10|allfield|The user turns the ground into Electric Terrain for five turns, powering up Electric-type moves. Pokémon on the ground can no longer fall asleep.}}
+{{movelist/battle|6|Electrify|Status|Clever|—|—|20|anyadjacent|If the target is electrified before it uses a move, the target's move becomes Electric type for that turn.}}
+{{movelist/battle|5|Electro Ball|Special|Cool|—|100|10|anyadjacent|The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power.}}
+{{movelist/battle|9|Electro Drift|Special||100|100|5|anyadjacent|The user races forward at ultrafast speeds, piercing its target with futuristic electricity. This move's power is boosted more than usual if it's a supereffective hit.}}
+{{movelist/battle|9|Electro Shot|Special||130|100|10|anyadjacent|The user gathers electricity on the first turn, boosting its Sp. Atk stat, then fires a high-voltage shot on the next turn. The shot will be fired immediately in rain.}}
+{{movelist/battle|5|Electroweb|Special|Beautiful|55|95|15|adjacentfoes|The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats.}}
+{{movelist/battle|5|Fusion Bolt|Physical|Cool|100|100|5|anyadjacent|The user throws down a giant lightning bolt. This move's power is boosted when influenced by an enormous flame.}}
+{{movelist/battle|7|Gigavolt Havoc|Physical||—|—|1|anyadjacent|The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.}}
+{{movelist/battle|7|Gigavolt Havoc|Special||—|—|1|anyadjacent|The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.}}
+{{movelist/battle|8|G-Max Stun Shock|Physical||—|—|3|adjacentfoe|An Electric-type attack that Gigantamax Toxtricity use. This move poisons or paralyzes opponents.}}
+{{movelist/battle|8|G-Max Stun Shock|Special||—|—|3|adjacentfoe|An Electric-type attack that Gigantamax Toxtricity use. This move poisons or paralyzes opponents.}}
+{{movelist/battle|8|G-Max Volt Crash|Physical||—|—|3|adjacentfoe|An Electric-type attack that Gigantamax Pikachu use. This move paralyzes opponents. }}
+{{movelist/battle|8|G-Max Volt Crash|Special||—|—|3|adjacentfoe|An Electric-type attack that Gigantamax Pikachu use. This move paralyzes opponents.}}
+{{movelist/battle|6|Ion Deluge|Status|Beautiful|—|—|25|allfield|The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves.}}
+{{movelist/battle|4|Magnet Rise|Status|Clever|—|—|10|self|The user levitates using electrically generated magnetism for five turns.}}
+{{movelist/battle|6|Magnetic Flux|Status|Clever|—|—|20|team|The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability.}}
+{{movelist/battle|8|Max Lightning|Physical||—|—|3|adjacentfoe|This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns.}}
+{{movelist/battle|8|Max Lightning|Special||—|—|3|adjacentfoe|This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns.}}
+{{movelist/battle|6|Nuzzle|Physical|Cute|20|100|20|anyadjacent|The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.}}
+{{movelist/battle|8|Overdrive|Special||80|100|10|adjacentfoes|The user attacks opposing Pokémon by twanging a guitar or bass guitar, causing a huge echo and strong vibration.}}
+{{movelist/battle|6|Parabolic Charge|Special|Clever|65|100|20|alladjacent|The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.}}
+{{movelist/battle|7|Pika Papow|Special||—|—|1|anyadjacent|The more Pikachu loves its Trainer, the greater the move’s power. It never misses.}}
+{{movelist/battle|7|Plasma Fists|Physical||100|100|15|anyadjacent|The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves.}}
+{{movelist/battle|8|Rising Voltage|Special||70|100|20|anyadjacent|The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain.}}
+{{movelist/battle|3|Shock Wave|Special|Cool|60|—|20|anyadjacent|The user strikes the target with a quick jolt of electricity. This attack never misses.}}
+{{movelist/battle|2|Spark|Physical|Cool|65|100|20|anyadjacent|	The user attacks the target with an electrically charged tackle. This may also leave the target with paralysis.}}
+{{movelist/battle|7|Stoked Sparksurfer|Special||175|—|1|anyadjacent|After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.}}
+{{movelist/battle|9|Supercell Slam|Physical||100|95|15|anyadjacent|The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead.}}
+{{movelist/battle|1|Thunder|Special|Cool|110|70|10|anyadjacent|A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.}}
+{{movelist/battle|8|Thunder Cage|Special||80|90|15|anyadjacent|The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns.}}
+{{movelist/battle|4|Thunder Fang|Physical|Cool|65|95|15|anyadjacent|The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.}}
+{{movelist/battle|1|Thunder Punch|Physical|Cool|75|100|15|anyadjacent|The target is attacked with an electrified punch. This may also leave the target with paralysis.}}
+{{movelist/battle|1|Thunder Shock|Special|Cool|40|100|30|anyadjacent|The user attacks the target with a jolt of electricity. This may also leave the target with paralysis.}}
+{{movelist/battle|1|Thunder Wave|Status|Cool|—|90|20|anyadjacent|The user launches a weak jolt of electricity that paralyzes the target.}}
+{{movelist/battle|1|Thunderbolt|Special|Cool|90|100|15|anyadjacent|The user attacks the target with a strong electric blast. This may also leave the target with paralysis.}}
+{{movelist/battle|9|Thunderclap|Special||70|100|5|anyadjacent|This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack.}}
+{{movelist/battle|5|Volt Switch|Special|Cool|70|100|20|anyadjacent|After making its attack, the user rushes back to switch places with a party Pokémon in waiting.}}
+{{movelist/battle|3|Volt Tackle|Physical|Cool|120|100|15|anyadjacent|The user electrifies itself and charges the target to inflict damage. This also damages the user quite a lot and may leave the target with paralysis.}}
+{{movelist/battle|5|Wild Charge|Physical|Tough|90|100|15|anyadjacent|The user shrouds itself in electricity and smashes into its target. This also damages the user a little.}}
+{{movelist/battle|8|Wildbolt Storm|Special||100|80|10|adjacentfoes|The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave opposing Pokémon with paralysis.}}
+{{movelist/battle|2|Zap Cannon|Special|Cool|120|50|5|anyadjacent|The user attacks by firing an electric blast like a cannon. This also leaves the target with paralysis.}}
+{{movelist/battle|7|Zing Zap|Physical||80|100|10|anyadjacent|The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch.}}
+{{movelist/battle|7|Zippy Zap|Physical||80|100|10|anyadjacent|The user attacks the target with bursts of electricity at high speed. This move always goes first and results in a critical hit.}}
+{{movelist/battle-foot|Electric}}
+
+==Abilities==
+===Interacting with the Electric type===
+A {{OBP|Pokémon|species}} with the [[Ability]] {{a|Protean}} or {{a|Libero}} will become Electric-type if it uses an Electric-type [[move]]. A Pokémon with {{a|Color Change}}, {{a|Imposter}}, {{a|Mimicry}}, {{a|RKS System}}, or {{a|Multitype}} will become Electric-type if (respectively) it is hit by an Electric-type move, is sent out against an Electric-type opponent, if the [[terrain]] is {{m|Electric Terrain|electric}}, if it is holding an [[Electric Memory]], or if it is holding a [[Zap Plate]]/[[Electrium Z]].
+
+Since Generation VI, Electric-type Pokémon are also immune to becoming paralyzed from the {{Abilities}} {{a|Static}}, {{a|Synchronize}}, or {{a|Effect Spore}}.
+
+{| width="70%" class="roundy sortable" style="margin:auto; text-align:center; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="background:#{{electric color light}}; {{roundytl|8px}}" | Gen
+! style="background:#{{electric color light}};" | Ability
+! style="background:#{{electric color light}}; {{roundytr|8px}}" class="unsortable" | Description
+|-
+! width="30px" style="background:#{{paldea color}}; border:1px solid #{{paldea color dark}}" data-sort-value="9" | {{color2|fff|Generation IX|IX}}
+| width="100px" style="background:#FFF; border:1px solid #D8D8D8" | {{acolor|Electromorphosis|000}}
+| style="background:#FFF; border:1px solid #D8D8D8; text-align:left" | The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses.
+|-
+! width="30px" style="background:#{{alola color}}; border: 1px solid #{{alola color dark}}" data-sort-value="7" | {{color2|fff|Generation VII|VII}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Galvanize|000}}
+| style="background:#FFF; border: 1px solid #D8D8D8; text-align:left;" | Normal-type moves become Electric-type moves. The power of those moves is boosted a little.
+|-
+! width="30px" style="background:#{{hoenn color}}; border: 1px solid #{{hoenn color dark}}" data-sort-value="3" | {{color2|fff|Generation III|III}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Lightning Rod|000}}
+| style="background:#FFF; border: 1px solid #D8D8D8; text-align:left;" | The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.
+|-
+! width="30px" style="background:#{{sinnoh color}}; border: 1px solid #{{sinnoh color dark}}" data-sort-value="4" | {{color2|fff|Generation IV|IV}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Motor Drive|000}}
+| style="background:#FFF; border: 1px solid #D8D8D8; text-align:left;" | The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.
+|-
+! width="30px" style="background:#{{galar color}}; border: 1px solid #{{galar color dark}}" data-sort-value="8" | {{color2|fff|Generation VIII|VIII}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Transistor|000}}
+| style="background:#FFF; border: 1px solid #D8D8D8; text-align:left;" | Powers up Electric-type moves.
+|-
+! width="30px" style="background:#{{hoenn color}}; border: 1px solid #{{hoenn color dark}}" data-sort-value="3" | {{color2|fff|Generation III|III}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Volt Absorb|000}}
+| style="background:#FFFFFF; border: 1px solid #D8D8D8; text-align:left;" | If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.
+|-
+! width="30px" style="background:#{{paldea color}}; border:1px solid #{{paldea color dark}}" data-sort-value="9" | {{color2|fff|Generation IX|IX}}
+| width="100px" style="background:#FFF; border:1px solid #D8D8D8" | {{acolor|Wind Power|000}}
+| style="background:#FFF; border:1px solid #D8D8D8; text-align:left" | The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses.
+|-
+! colspan="3" style="background:#{{electric color light}}; {{roundybottom|8px}}" |<small>All details are accurate to Generation IX games. For details that have changed between generations, please see an individual Ability's page.</small>
+|}
+
+===Exclusive Abilities===
+Only Electric-type Pokémon have these Abilities. This does not include [[Signature Ability|signature Abilities]].
+
+{| width="70%" class="roundy sortable" style="margin:auto; text-align:center; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="background:#{{electric color light}}; {{roundytl|8px}}" | Gen
+! style="background:#{{electric color light}};" | Ability
+! style="background:#{{electric color light}}; {{roundytr|8px}}" class="unsortable" | Description
+|-
+! width="30px" style="background:#{{alola color}}; border:1px solid #{{alola color dark}}" | {{color2|fff|Generation VII|VII}}
+| width="100px" style="background:#FFF; border:1px solid #D8D8D8" | {{acolor|Electric Surge|000}}
+| style="background:#FFF; border:1px solid #D8D8D8; text-align:left" | Turns the ground into Electric Terrain when the Pokémon enters a battle.
+|-
+! width="30px" style="background:#{{sinnoh color}}; border: 1px solid #{{sinnoh color dark}}" | {{color2|fff|Generation IV|IV}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Motor Drive|000}}
+| style="background:#FFFFFF; border: 1px solid #D8D8D8; text-align:left;" | The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.
+|-
+! width="30px" style="background:#{{hoenn color}}; border: 1px solid #{{hoenn color dark}}" | {{color2|fff|Generation III|III}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Static|000}}
+| style="background:#FFFFFF; border: 1px solid #D8D8D8; text-align:left;" | The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.
+|-
+! width="30px" style="background:#{{hoenn color}}; border: 1px solid #{{hoenn color dark}}" | {{color2|fff|Generation III|III}}
+| width="100px" style="background:#FFF; border: 1px solid #D8D8D8" | {{acolor|Volt Absorb|000}}
+| style="background:#FFFFFF; border: 1px solid #D8D8D8; text-align:left;" | If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage.
+|-
+! colspan="3" style="background:#{{electric color light}}; {{roundybottom|8px}}" |<small>All details are accurate to Generation IX games. For details that have changed between generations, please see an individual Ability's page.</small>
+|}
+
+==Items==
+{| width="70%" class="roundy sortable" style="margin:auto; text-align:center; background:#{{electric color}}; border:2px solid #{{electric color dark}}"
+|-
+! style="background:#{{electric color light}}; {{roundytl|8px}}" class="unsortable" |
+! style="background:#{{electric color light}}; | Name
+! style="background:#{{electric color light}}; {{roundytr|8px}}" class="unsortable" | Description
+|- style="background:#FFF"
+| {{bag/s|Cell Battery|SV}}
+| [[Cell Battery]]
+| An item to be held by a Pokémon. This single-use battery boosts the Attack stat if the holder is damaged by an Electric-type attack.
+|- style="background:#FFF"
+| [[File:Dream Electric Gem Sprite.png|40px|link=Electric Gem]]
+| [[Electric Gem]]
+| A [[gem]] with an essence of electricity. When held, it strengthens the power of an Electric-type move one time.
+|- style="background:#FFF"
+| [[File:Dream Electric Memory Sprite.png|40px|link=Electric Memory]]
+| [[Electric Memory]]
+| A [[memory]] disc that contains Electric-type data. It changes the type of the holder if held by {{p|Silvally|a certain species of Pokémon}}.
+|- style="background:#FFF"
+| {{bag/s|Electric Tera Shard|SV}}
+| [[Electric Tera Shard]]
+| On rare occasions, these shards form when a {{Tera}} Pokémon falls in battle and its Tera Jewel shatters.
+|- style="background:#FFF"
+| [[File:Dream Electrium Z Sprite.png|40px|link=Electrium Z]]
+| [[Electrium Z]]
+| This is a crystallized form of Z-Power. It upgrades Electric-type moves to [[Z-Move]]s.
+|- style="background:#FFF"
+| {{bag/s|Magnet|SV}}
+| [[Magnet]]
+| An item to be held by a Pokémon. It's a powerful magnet that boosts the power of the holder's Electric-type moves.
+|- style="background:#FFF"
+| [[File:Dream Shock Drive Sprite.png|40px|link=Shock Drive]]
+| [[Shock Drive]]
+| A cassette to be held by {{p|Genesect}}. It changes Genesect's {{m|Techno Blast}} move so it becomes Electric type.
+|- style="background:#FFF"
+| {{bag/s|Wacan Berry|SV}}
+| [[Wacan Berry]]
+| If a Pokémon holding this [[Berry]] is hit with a supereffective Electric-type move, the power of that move will be weakened.
+|- style="background:#FFF"
+| {{bag/s|Zap Plate|SV}}
+| [[Zap Plate]]
+| An item to be held by a Pokémon. This stone tablet is imbued with the essence of electricity and boosts the power of the holder’s Electric-type moves.
+|- class="unsortable"
+! colspan=3 style="background:#{{Electric color light}}; {{roundybottom|8px}}" |<small>All details are accurate to Generation IX games. For details that have changed between generations, please see an individual item's page.</small>
+|}
+
+==={{m|Natural Gift}}'s Berries===
+{| class="roundy" style="margin:auto; text-align:center; background:#{{Electric color}}; border:2px solid #{{Electric color dark}}" cellpadding=3px
+|-
+! style="background:#FFF; {{roundytop|8px}}; width:120px" | [[File:Dream Pecha Berry Sprite.png|x64px]]
+! style="background:#FFF; {{roundytop|8px}}; width:120px" | [[File:Dream Wepear Berry Sprite.png|x64px]]
+! style="background:#FFF; {{roundytop|8px}}; width:120px" | [[File:Dream Belue Berry Sprite.png|x64px]]
+! style="background:#FFF; {{roundytop|8px}}; width:120px" | [[File:Dream Wacan Berry Sprite.png|x64px]]
+|-
+| style="background:#{{Electric color light}}; {{roundybottom|8px}}" | {{color2|000|Pecha Berry}}
+| style="background:#{{Electric color light}}; {{roundybottom|8px}}" | {{color2|000|Wepear Berry}}
+| style="background:#{{Electric color light}}; {{roundybottom|8px}}" | {{color2|000|Belue Berry}}
+| style="background:#{{Electric color light}}; {{roundybottom|8px}}" | {{color2|000|Wacan Berry}}
+|}
+
+===[[Cram-o-matic]]===
+{| class="roundy" style="margin:auto; text-align:center; background:#{{electric color}}; border:2px solid #{{electric color dark}}"
+|-
+! style="background:#{{electric color light}}; {{roundytl|8px}}" class="unsortable" |
+! style="background:#{{electric color light}}; {{roundytr|8px}}" | Name
+|- style="background:#FFF" 
+! {{bag|Electirizer}}
+| [[Electirizer]]
+|- style="background:#FFF" 
+! {{bag|Electric Seed}}
+| [[Electric Seed]]
+|- style="background:#FFF" 
+! {{bag|Fossilized Bird}}
+| [[Fossilized Bird]]
+|- style="background:#FFF" 
+! {{bag|Light Ball}}
+| [[Light Ball]]
+|- style="background:#FFF" 
+! {{bag|Pecha Berry}}
+| [[Pecha Berry]]
+|- style="background:#FFF" 
+! {{bag|Thunder Stone}}
+| [[Thunder Stone]]
+|- class="unsortable"
+! colspan=2 style="background:#{{Electric color light}}; {{roundybottom|8px}}" |
+|}
+
+==Notable Electric-type Trainers==
+{{main|:Category:Electric-type Trainers|Category:Electric-type Trainers}}
+
+{| class="roundtable" style="margin:auto; text-align:center; background:#{{Electric color}}; border: 3px solid #{{Electric color dark}}" width=700px
+|-
+! style="background:#{{Electric color light}}; {{roundytl|8px}}" | Gen
+! style="background:#{{Electric color light}}" | Trainer
+! style="background:#{{Electric color light}}" | Title
+! style="background:#{{Electric color light}}; {{roundytr|8px}}" | Location
+|-
+! style="background:#{{Kanto color}}; border: 1px solid #{{Kanto color dark}}" | {{color2|fff|Generation I|I}}
+| [[File:VSLt Surge PE.png|x64px|link=Lt. Surge]]<br>[[Lt. Surge]]
+| [[Gym Leader]]
+| [[Vermilion Gym]]
+|-
+! style="background:#{{Hoenn color}}; border: 1px solid #{{Hoenn color dark}}" | {{color2|fff|Generation III|III}}
+| [[File:VSWattson.png|x64px|link=Wattson]]<br>[[Wattson]]
+| [[Gym Leader]]
+| [[Mauville Gym]]
+|-
+! style="background:#{{Sinnoh color}}; border: 1px solid #{{Sinnoh color dark}}" | {{color2|fff|Generation IV|IV}}
+| [[File:VSVolkner BDSP.png|x64px|link=Volkner]]<br>[[Volkner]]
+| [[Gym Leader]]
+| [[Sunyshore Gym]]
+|-
+! style="background:#{{Unova color}}; border: 1px solid #{{Unova color dark}}" | {{color2|fff|Generation V|V}}
+| [[File:VSElesa 2.png|link=Elesa]]<br>[[Elesa]]
+| [[Gym Leader]]
+| [[Nimbasa Gym]]
+|-
+! style="background:#{{Kalos color}}; border: 1px solid #{{Kalos color dark}}" | {{color2|fff|Generation VI|VI}}
+| [[File:VSClemont.png|x64px|link=Clemont]]<br>[[Clemont]]
+| [[Gym Leader]]
+| [[Lumiose Gym]]
+|-
+! style="background:#{{Alola color}}; border: 1px solid #{{Alola color dark}}" | {{color2|fff|Generation VII|VII}}
+| [[File:VSSophocles.png|x64px|link=Sophocles]]<br>[[Sophocles]]
+| [[Trial Captain|Captain]]
+| [[Hokulani Observatory]]
+|-
+! style="background:#{{Paldea color}}; border: 1px solid #{{Paldea color dark}}" | {{color2|fff|Generation IX|IX}}
+| [[File:VSIono.png|x64px|link=Iono]]<br>[[Iono]]
+| [[Gym Leader]]
+| [[Levincia Gym]]
+|-
+! style="background:#{{Paldea color}}; border: 1px solid #{{Paldea color dark}}" | {{color2|fff|Generation IX|IX}}
+| [[File:VSCanari.png|x64px|link=Canari]]<br>[[Canari]]
+| {{tc|DYN4MO}}
+| [[Racine Construction]]
+|}
+
+==Icons==
+===[[Core series]]===
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#{{Electric color}}; font-size:80%"
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC RS.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC E.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC FRLG.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC DPPt.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Big.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC BW.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC XY.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC SM.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC PE.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC SwSh.png|64px]]
+|-
+| Icon from<br>{{color2|000|Pokémon Ruby and Sapphire}}
+| Icon from<br>{{color2|000|Pokémon Emerald}}
+| Icon from<br>{{color2|000|Pokémon FireRed and LeafGreen}}
+| Icon from<br>{{color2|000|Generation IV}}
+| Pokédex icon from<br>{{color2|000|Generation IV}}
+| Icon from<br>{{color2|000|Generation V}}
+| Icon from<br>{{color2|000|Generation VI}}
+| Icon from<br>{{color2|000|Pokémon Sun and Moon|Pokémon Sun, Moon}}, {{color2|000|Pokémon Ultra Sun and Ultra Moon|Ultra Sun and Ultra Moon}}
+| Icon from<br>{{color2|000|Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu!; Let's Go, Eevee!}}
+| Icon from<br>{{color2|000|Pokémon Sword and Shield}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric icon SwSh.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC BDSP.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric icon SV.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC LA.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric icon LA.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC SV.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Tera.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:TeraGem Electric.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC ZA.png|64px]]
+|-
+| Symbol icon from<br>{{color2|000|Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|Let's Go, Pikachu!; Let's Go, Eevee!}}; {{color2|000|Pokémon Sword and Shield|Sword, Shield}} and {{color2|000|Pokémon HOME|HOME}} (Gen VIII)
+| Icon from<br>{{color2|000|Pokémon Brilliant Diamond and Shining Pearl}}
+| Symbol icon from<br>{{color2|000|Pokémon Brilliant Diamond and Shining Pearl|Pokémon Brilliant Diamond, Shining Pearl}}, {{color2|000|Pokémon Scarlet and Violet|Scarlet and Violet}}, and {{color2|000|Pokémon HOME|HOME}} (Gen IX)
+| Icon from<br>{{color2|000|Pokémon Legends: Arceus}}
+| Symbol icon from<br>{{color2|000|Pokémon Legends: Arceus}}
+| Icon from<br>{{color2|000|Pokémon Scarlet and Violet}}
+| Tera icon from<br>{{color2|000|Pokémon Scarlet and Violet}}
+| Tera symbol icon from<br>{{color2|000|Pokémon Scarlet and Violet}}
+| Icon from<br>{{color2|000|Pokémon Legends: Z-A}}
+|}
+
+===[[Side series]]===
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#{{Electric color}}; font-size:80%"
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC JStad.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC in-battle Stad.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Stad.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Stad2.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Box RS.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Colo.png|48px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC XD.png|48px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC PBR.png|48px]]
+|-
+| Icon from<br>{{color2|000|Pokémon Stadium (Japanese)}}
+| In-battle icon from<br>{{color2|000|Pokémon Stadium}}
+| Out-of-battle icon from<br>{{color2|000|Pokémon Stadium}}
+| Icon from<br>{{color2|000|Pokémon Stadium 2}}
+| Icon from<br>{{color2|000|Pokémon Box Ruby & Sapphire}}
+| Icon from<br>{{color2|000|Pokémon Colosseum}}
+| Icon from<br>{{color2|000|Pokémon XD: Gale of Darkness}}
+| Icon from<br>{{color2|000|Pokémon Battle Revolution}}
+|}
+
+===[[Spin-off games]]===
+{| style="margin:auto; text-align:center; {{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#{{Electric color}}; font-size:80%"
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric PA.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric Assist.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Battrio Electric type.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Tretta Electric type.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Mezastar Electric type.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Frienda Electric Type.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:GO Electric.png]]
+|-
+| Symbol icon from<br>{{color2|000|Pokémon Ranger: Shadows of Almia}}
+| Symbol icon from<br>{{color2|000|Pokémon Ranger: Guardian Signs}}
+| Symbol icon from<br>{{color2|000|Pokémon Battrio}}
+| Symbol icon from<br>{{color2|000|Pokémon Tretta}}
+| Symbol icon from<br>{{color2|000|Pokémon Mezastar}}
+| Symbol icon from<br>{{color2|000|Pokémon Frienda}}
+| Symbol icon from<br>{{color2|000|Pokémon GO}}
+|-
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC RR.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC Masters.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:TeraGem Electric Masters.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC SMD.png]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC MDRTDX.png|64px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:ElectricIC NPSnap.png|48px]]
+|style="{{roundy|20px}} border:2px solid #{{Electric color dark}}; background:#eee; width:80px; height:80px" | [[File:Electric icon Sleep.png|64px]]
+|-
+| Symbol icon from<br>{{color2|000|Pokémon Rumble Rush}}
+| Symbol icon from<br>{{color2|000|Pokémon Masters EX}}
+| Tera symbol icon from<br>{{color2|000|Pokémon Masters EX}}
+| Symbol icon from<br>{{color2|000|Pokémon Super Mystery Dungeon}}
+| Symbol icon from<br>{{color2|000|Pokémon Mystery Dungeon: Rescue Team DX}}
+| Symbol icon from<br>{{color2|000|New Pokémon Snap}}
+| Symbol icon from<br>{{color2|000|Pokémon Sleep}}
+|}
+
+==Statistical averages==
+===Overall===
+{{BaseStatNoCat
+|type=electric
+|HP=67.27
+|Attack=77.82
+|Defense=70.13
+|SpAtk=87.91
+|SpDef=71.45
+|Speed=83.61
+|Total=458.19
+}}
+<!--As of Generation 10, including The Mega Dimension. 93 Pokémon total, including all forms separately.-->
+
+===Fully evolved===
+{{BaseStatNoCat
+|type=electric
+|HP=75.31
+|Attack=87.57
+|Defense=78.4
+|SpAtk=100.37
+|SpDef=81.4
+|Speed=93.32
+|Total=516.37
+}}
+<!--As of Generation 10, 65 Pokémon total, including all forms separately.-->
+
+==In spin-off games==
+===Pokémon Sleep===
+Unlike in the core series games, in {{g|Sleep}}, each Pokémon can only have one type, which determines the kind of [[Berry]] that the Pokémon will gather for {{Sleep|Snorlax}} to feed on. Electric-type Pokémon will gather [[Grepa Berry|Grepa Berries]], and typically have the Snoozing [[sleep type]].
+
+The following is a list of Electric-type Pokémon in Pokémon Sleep.
+
+{| class="roundtable sortable" style="margin: auto; text-align:left; background:#{{electric color}}; border: 2px solid #{{electric color dark}}"
+|-
+! style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|List of Pokémon by National Pokédex number|#}}
+! colspan=2 style="text-align:center; background-color: #{{electric color light}}" | {{color2|000|Pokémon (species)|Pokémon}}
+! style="text-align:center; background-color: #{{electric color light}}" | Sleep type
+|-
+| style="font-family:monospace,monospace" | #0025
+|{{MSP/Sleep|0025|Pikachu}}
+|{{p|Pikachu}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0026
+|{{MSP/Sleep|0026|Raichu}}
+|{{p|Raichu}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0135
+|{{MSP/Sleep|0135|Jolteon}}
+|{{p|Jolteon}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0172
+|{{MSP/Sleep|0172|Pichu}}
+|{{p|Pichu}}
+| style="text-align:center; background:#{{Slumbering color}}" | <span style="color:#FFF">Slumbering</span>
+|-
+| style="font-family:monospace,monospace" | #0179
+|{{MSP/Sleep|0179|Mareep}}
+|{{p|Mareep}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0180
+|{{MSP/Sleep|0180|Flaaffy}}
+|{{p|Flaaffy}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0181
+|{{MSP/Sleep|0181|Ampharos}}
+|{{p|Ampharos}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0243
+|{{MSP/Sleep|0243|Raikou}}
+|{{p|Raikou}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0311
+|{{MSP/Sleep|0311|Plusle}}
+|{{p|Plusle}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0312
+|{{MSP/Sleep|0312|Minun}}
+|{{p|Minun}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0403
+|{{MSP/Sleep|0403|Shinx}}
+|{{p|Shinx}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0404
+|{{MSP/Sleep|0404|Luxio}}
+|{{p|Luxio}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0405
+|{{MSP/Sleep|0405|Luxray}}
+|{{p|Luxray}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0702
+|{{MSP/Sleep|0702|Dedenne}}
+|{{p|Dedenne}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0921
+|{{MSP/Sleep|0921|Pawmi}}
+|{{p|Pawmi}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0922
+|{{MSP/Sleep|0922|Pawmo}}
+|{{p|Pawmo}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|-
+| style="font-family:monospace,monospace" | #0923
+|{{MSP/Sleep|0923|Pawmot}}
+|{{p|Pawmot}}
+| style="text-align:center; background:#{{Snoozing color}}" | <span style="color:#FFF">Snoozing</span>
+|}
+
+==In the TCG==
+{{main|Lightning (TCG)}}
+Lightning-type Pokémon in the TCG are generally weak to {{TCG|Fighting}} and {{TCG|Lightning}} with resistances to {{TCG|Metal}} and {{TCG|Fighting}}. Lightning-type Pokémon are strong against {{TCG|Water}} and any Pokémon that is a {{type|Flying}} in the games, whilst some {{TCG|Fighting|Fighting-type}} Pokémon can resist this [[type]].
+
+==Trivia==
+* [[Generation IX]] introduced the most Electric-type {{OBP|Pokémon|species}} of any [[generation]], with twelve, and [[Generation VI]] introduced the fewest, with three.
+* [[Generation VII]] and {{gen|VIII}} introduced the most Electric-type [[move]]s of any generation, each with nine, and [[Generation II]] introduced the fewest, with two.
+* The Electric type is tied with {{t|Ice}} for having the fewest Pokémon capable of [[Mega Evolution]], with five.
+* [[Generation III]] is the only generation that introduced no dual-type Electric-type Pokémon.
+* Generation VI is the only generation that introduced no pure Electric-type Pokémon.
+* {{g|Sword and Shield}} and {{g|Legends: Arceus}} are the only games not to include a major Electric-type specialist.
+* The Electric type is tied with the {{t|Normal}} type for having the fewest weaknesses.
+* All Electric-type moves introduced in [[Generation I]] have names beginning with the word "Thunder".
+* In the first season of the {{pkmn|animated series}} and during much of [[Generation I]], the {{type|Rock}} was often wrongly assumed to be unaffected by Electric-type attacks. This was likely due to the fact that at the time, most Rock-type Pokémon (namely the {{p|Geodude}} and {{p|Rhyhorn}} [[Evolution]] lines, and {{p|Onix}}) were part {{type|Ground}} and thus immune to Electric-type moves. However, the only Rock-type Pokémon who aren't also Ground-type around at the time (the then five [[Fossil|Fossil Pokémon]]) were actually weak to them.
+* In {{aniseries|PTS}}, Ground-type Pokémon's immunity to Electric-type attacks was treated inconsistently during the [[original series]] and early parts of the {{aniseries|RS|''Ruby and Sapphire'' series}}, notably during the {{aniseries|OS}} episode ''[[EP005|Showdown at Pewter City]]'', where [[Ash's Pikachu]] was able to hurt [[Brock's Onix]] by simply having his voltage raised and Onix being doused in water.
+** The move {{m|Soak}}, introduced in [[Generation V]], has exactly the effect of the latter.
+* In ''[[AG007|Tree's a Crowd]]'', {{an|Brock}} states that {{type|Grass}} Pokémon resist Electric-type moves due to being able to diffuse the electricity into trees and the ground. He also explains that if Grass-type Pokémon are in the air, they cannot diffuse the electricity from Electric-type attacks, thereby dealing normally effective damage.
+
+==In other languages==
+{{langtable|color={{electric color}}|bordercolor={{electric color light}}
+|ja=でんき (電気) ''Denki''
+|zh_yue=電 ''Dihn'' {{tt|*|Games, Pokémon Quiz: XY062, XY066 & XY067, V (Volt) & Manga}}<br>電擊 ''Dihngīk'' {{tt|*|Animated series & M12}}<br>電氣 ''Dihnhei'' {{tt|*|EP105, Pokémon Quiz: XY056}}<br>雷 ''Lèuih'' {{tt|*|M17}}<br>放電 ''Fongdihn'' {{tt|*|EP014}}
+|zh_cmn=電 / 电 ''Diàn'' {{tt|*|Games, Animated series (Taiwan and Mainland China) & Manga (Taiwan and Mainland China (new Jilin edition))}}<br>電氣 / 电气 ''Diànqì'' {{tt|*|Animated series (Taiwan) & Manga (Mainland  China (new Jilin edition))}}
+|cs=Elektrický
+|da=Elektrisk
+|nl=Elektrisch
+|fi=Sähkö
+|fr=Électrique<br/>Électrik{{tt|*|In the games}}
+|de=Elektro
+|no=Elektrisk
+|el=Ηλεκτρισμού ''Ilektrismoú''
+|he=חשמל ''Khashmal''
+|hi=इलेक्ट्रिक ''Electric''<br>बिजली ''Bijalee''{{tt|*|Pokémon Smile (prior to version 2.0.0)}}
+|hu=Elektromos
+|is=Elding
+|id=Listrik
+|it=Elettro
+|ko=전기 ''Jeon'gi''
+|ms=Elektrik
+|pl=Elektryczny
+|pt_br=Elétrico<br>Eletricidade
+|pt_eu=Elétrico
+|ro=Electricitate
+|ru=Электро ''Elektro''
+|es=Eléctrico
+|sv=Elektrisk<br>El
+|th=ไฟฟ้า ''Faifa''
+|vi=Điện
+|tr=Elektrik
+|ca=Elèctric
+}}
+
+[[de:Elektro]]
+[[es:Tipo Eléctrico]]
+[[fr:Électrik]]
+[[it:Elettro]]
+[[ja:でんき]]
+[[zh:电（属性）]]

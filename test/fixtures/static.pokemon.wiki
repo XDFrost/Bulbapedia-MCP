@@ -1,0 +1,29 @@
+==Pokémon with Static==
+{{Ability/head|Electric}}
+{{Ability/entry|0025|Pikachu|Electric|Electric|Static|None|Lightning Rod}}
+{{Ability/entry|0025|form=-Original Cap|Pikachu|Electric|Electric|Static|None|None|formlink={{color2|000|Pikachu in a cap}}}}
+{{Ability/entry|0026|Raichu|Electric|Electric|Static|None|Lightning Rod}}
+{{Ability/entry|0100|Voltorb|Electric|Electric|Soundproof|Static|Aftermath}}
+{{Ability/entry|0100|form=-Hisui|Voltorb|Electric|Grass|Soundproof|Static|Aftermath|formlink={{color2|000|Hisuian form|Hisuian Form}}}}
+{{Ability/entry|0101|Electrode|Electric|Electric|Soundproof|Static|Aftermath}}
+{{Ability/entry|0101|form=-Hisui|Electrode|Electric|Grass|Soundproof|Static|Aftermath|formlink={{color2|000|Hisuian form|Hisuian Form}}}}
+{{Ability/entry|0125|Electabuzz|Electric|Electric|Static|None|Vital Spirit}}
+{{Ability/entry|0145|Zapdos|Electric|Flying|Pressure|None|Static|abilityhnote={{color2|000|Generation VI|Gen VI}}+}}
+{{Ability/entry|0172|Pichu|Electric|Electric|Static|None|Lightning Rod}}
+{{Ability/entry|0172|form=-Spiky|Pichu|Electric|Electric|Static|None|None|formlink={{color2|000|Spiky-eared Pichu}}}}
+{{Ability/entry|0179|Mareep|Electric|Electric|Static|None|Plus}}
+{{Ability/entry|0180|Flaaffy|Electric|Electric|Static|None|Plus}}
+{{Ability/entry|0181|Ampharos|Electric|Electric|Static|None|Plus}}
+{{Ability/entry|0239|Elekid|Electric|Electric|Static|None|Vital Spirit}}
+{{Ability/entry|0309|Electrike|Electric|Electric|Static|Lightning Rod|Minus}}
+{{Ability/entry|0310|Manectric|Electric|Electric|Static|Lightning Rod|Minus}}
+{{Ability/entry|0587|Emolga|Electric|Flying|Static|None|Motor Drive}}
+{{Ability/entry|0618|Stunfisk|Ground|Electric|Static|Limber|Sand Veil}}
+{{Ability/entry|0848|Toxel|Electric|Poison|Rattled|Static|Klutz}}
+{{Ability/entry|0881|Arctozolt|Electric|Ice|Volt Absorb|Static|Slush Rush}}
+{{Ability/entry|0921|Pawmi|Electric|Electric|Static|Natural Cure|Iron Fist}}
+{{ability/entry|938|Tadbulb|Electric|Electric|Own Tempo|Static|Damp}}
+{{Ability/entry|0939|Bellibolt|Electric|Electric|Electromorphosis|Static|Damp}}
+{{Ability/foot|Electric}}
+
+* In the [[Generation V]] games, {{p|Zapdos}} has {{a|Lightning Rod}} instead of Static as its Hidden Ability, but it cannot be obtained by any legitimate means.

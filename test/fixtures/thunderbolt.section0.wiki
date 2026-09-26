@@ -1,0 +1,69 @@
+{{MoveInfobox
+|n=85
+|name=Thunderbolt
+|jname=１０まんボルト
+|jtranslit=Jūman Boruto
+|jtrans=100,000 Volts
+|gameimage=Thunderbolt IX.png
+|gameimage2=
+|gameimagewidth=300
+|type=Electric
+|damagecategory=Special
+|basepp=15
+|maxpp=24
+|power={{tt|90|95 in Generations I-V}}
+|accuracy=100
+|gen=I
+|category=Cool
+|appeal=4
+|jam=0
+|cdesc=A highly appealing move.
+|appealsc=2
+|scdesc=Earn +2 if the Pokémon performs first in the turn.
+|appeal6=4
+|jam6=0
+|cdesc6=Quite an appealing move.
+|touches=no
+|protect=yes
+|magiccoat=no
+|snatch=no
+|mirrormove=yes
+|kingsrock=yes
+|sound=no
+|tm1=yes
+|tm#1=24
+|tm3=yes
+|tm#3=24
+|tm4=yes
+|tm#4=24
+|tm5=yes
+|tm#5=24
+|tm6=yes
+|tm#6=24
+|tm7=yes
+|tm#7=24
+|tr8=yes
+|tr#8=08
+|tmbdsp=yes
+|tm#bdsp=24
+|tmpe=yes
+|tm#pe=36
+|tm9=yes
+|tm#9=126
+|tmza=yes
+|tm#za=067
+|mtla=yes
+|mtc=yes
+|na=no
+|target=anyadjacent
+}}
+'''Thunderbolt''' (Japanese: '''１０まんボルト''' ''100,000 Volts'') is a damage-dealing {{type|Electric}} [[move]] introduced in [[Generation I]].
+
+It is:
+* [[TM24]] in Generation I, from [[Generation III]] to {{g|Ultra Sun and Ultra Moon}}, and in {{g|Brilliant Diamond and Shining Pearl}}.
+* [[TM36]] in [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!]].
+* [[TR08]] in [[Pokémon Sword and Shield]].
+* [[TM126]] in {{g|Scarlet and Violet}}.
+* [[TM067]] in [[Pokémon Legends: Z-A]].
+
+It can be upgraded to the special [[Z-Move]] {{m|Stoked Sparksurfer}} by {{rf|Alolan}} {{p|Raichu}} holding [[Aloraichium Z]], and to the special Z-Move {{m|10,000,000 Volt Thunderbolt}} by [[Pikachu in a cap]] holding [[Pikashunium Z]].

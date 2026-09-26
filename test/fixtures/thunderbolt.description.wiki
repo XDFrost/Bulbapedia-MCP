@@ -1,0 +1,14 @@
+==Description==
+{{movedesc|electric}}
+{{movedescentry|{{gameabbrevss|Stad}}{{gameabbrevss|Stad2}}|An <sc>Electric</sc>-type attack. Has a one-in-ten chance of paralyzing the target.}}
+{{movedescentry|{{gameabbrev2|GSC}}|An attack that may cause paralysis.}}
+{{movedescentry|{{gameabbrev3|RSE}}{{gameabbrevss|Colo}}{{gameabbrevss|XD}}|A strong electrical attack that may paralyze the foe.{{sup/3|RS}}{{sup/3|E}} <small>(move)</small><br>A strong electrical attack. It may paralyze the target.{{sup/ss|Colo}}{{sup/ss|XD}} <small>(move)</small><br>A powerful electric attack that may cause paralysis. <small>(TM)</small>}}
+{{movedescentry|{{gameabbrev3|FRLG}}|A strong electrical attack that may also leave the foe paralyzed.}}
+{{movedescentry|{{gameabbrev4|DPPtHGSS}}{{gameabbrevss|PBR}}|A strong electric blast is loosed at the foe. It may also leave the foe paralyzed.}}
+{{movedescentry|{{gameabbrev5|BWB2W2}}|A strong electric blast is loosed at the target. It may also leave the target with paralysis.}}
+{{movedescentry|{{gameabbrev6|XYORAS}}<br>{{gameabbrev7|SMUSUMPE}}<br>{{gameabbrev8|SwShBDSP}}|A strong electric blast crashes down on the target. This may also leave the target with paralysis.}}
+{{movedescentry|{{gameabbrev8|LA}}<br>{{gameabbrev9|SV}}|The user attacks the target with a strong electric blast. This may also leave the target with paralysis.}}
+{{movedescentry|{{gameabbrev9|ZA}}|The user attacks with a strong electric blast. This may also leave targets paralyzed.}}
+{{movedescentry|{{gameabbrevss|CHP}}|Has a 10% chance of paralyzing the target.}}
+|}
+|}{{left clear}}

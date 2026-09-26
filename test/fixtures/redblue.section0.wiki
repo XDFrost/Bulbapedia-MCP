@@ -1,0 +1,42 @@
+{{redirect|Pokémon Red|the Japanese game with the same name|Pokémon Red and Green Versions}}
+{{redirect|Pokémon Blue|the Japanese game with the same name|Pokémon Blue Version (Japanese)}}
+{{redirect|Red & Blue|the TCG card with that name|Red & Blue (Cosmic Eclipse 202)}}
+----
+{{Infobox game|colorscheme=red|bordercolorscheme=blue
+|name=<span style="color:#FFF">Pokémon Red Version</span>
+|name2=<span style="color:#FFF">Pokémon Blue Version</span>
+|boxart=Red EN boxart.png
+|boxart2=Blue EN boxart.png
+|caption=American box art of Pokémon Red Version, [[Game mascot|featuring]] {{p|Charizard}}
+|caption2=American box art of Pokémon Blue Version, [[Game mascot|featuring]] {{p|Blastoise}}
+|platform=[[Game Boy]] <small>(enhanced for the [[Super Game Boy]])</small><br>[[Nintendo 3DS]] ([[Virtual Console]])
+|category=RPG
+|players=2 players simultaneous
+|link_method=[[Game Link Cable]] <small>(Game Boy)</small><br>3DS Wireless <small>(3DS VC)</small>
+|developer=[[Game Freak]]
+|publisher=[[Nintendo]]
+|gen_series=[[Generation I]] [[core series]]
+|cero=N/A
+|esrb=E
+|acb=G <small>(Game Boy)</small><br>PG <small>(3DS VC)</small>
+|oflc=G8+
+|pegi=12
+|grb=N/A
+|release_date_ja=N/A
+|release_date_na=September 28, 1998<ref name="Sept28PR">[https://web.archive.org/web/19990501171038/http://www.nintendo.com/corp/press/100298.html Game Boy's Pokémon Unleashed on September 28!] (archive)</ref> <small>(Game Boy)</small><br>February 27, 2016 <small>(3DS VC)</small>
+|release_date_au=October 23, 1998<br>February 27, 2016 <small>(3DS VC)</small>
+|release_date_eu=October 5, 1999 <small>(Game Boy)</small><ref name="NoE (Red)"/><ref name="NoE (Blue)"/><br>February 27, 2016 <small>(3DS VC)</small><ref name="NoE (Red)"/><ref name="NoE (Blue)"/>
+|release_date_kr=N/A
+|release_date_hk=N/A
+|release_date_tw=N/A
+|website_en=[http://www.pokemon.com/us/pokemon-video-games/pokemon-red-version-and-pokemon-blue-version/ The Pokémon Company International] <small>(Game Boy & Virtual Console)</small><br>[https://web.archive.org/web/20071015012425/http://www.nintendo.com/gamemini?gameid=m-Game-0000-317 Nintendo] <small>(GB, Red; needs {{wp|Adobe Flash Player|Flash Player}})</small><br>[https://web.archive.org/web/20071012202136/http://www.nintendo.com/gamemini?gameid=m-Game-0000-318 Nintendo] <small>(GB, Blue; needs Flash Player)</small><br>[https://www.nintendo.com/games/detail/pokemon-red-version-3ds Nintendo] <small>(VC, Red)</small><br>[https://www.nintendo.com/games/detail/pokemon-blue-version-3ds Nintendo] <small>(VC, Blue)</small>
+}}
+{{StrategyWiki|Pokémon Red and Blue}}
+
+'''Pokémon Red Version''' and '''Pokémon Blue Version''' were the first [[Pokémon games]] to be released outside of Japan, becoming available in North America on September 28, 1998,<ref name="Sept28PR"/> in Australia and New Zealand on October 23, 1998 and in Europe on October 5, 1999.<ref name="NoE (Red)">[https://www.nintendo.co.uk/Games/Game-Boy/Pokemon-Red-Version-266109.html Pokémon Red Version | Game Boy | Games | Nintendo]</ref><ref name="NoE (Blue)">[https://www.nintendo.co.uk/Games/Game-Boy/Pokemon-Blue-Version-266054.html Pokémon Blue Version | Game Boy | Games | Nintendo]</ref> In North America, the pair closely followed the debut of the {{pkmn|animated series}}'s English [[dub]], which began airing on September 7, 1998,<ref>[https://www.animenewsnetwork.com/encyclopedia/anime.php?id=270&page=25 Pokémon (TV) &#91;Episode titles&#93; - Anime News Network]</ref> and within a year, Pokémon was well known as a popular [[Nintendo]] franchise.
+
+The games were available on the [[Nintendo 3DS]] [[Virtual Console#Nintendo 3DS|Virtual Console]] between the [[Pokémon 20th Anniversary]] on [[Pokémon Day#2016|February 27, 2016]] and the discontinuation of the 3DS Nintendo eShop on March 27, 2023.
+
+Unlike later [[generation]]s, Red and Blue were not the same as their corresponding Japanese releases {{game|Red and Green|s}}. Besides Pokémon distribution, the aspects of Red and Blue such as graphics, script, and sprite designs are instead based on the Japanese {{game|Blue| (Japanese)}}.
+
+Despite being released towards the end of [[Game Boy]]'s lifespan, they quickly became the best-selling non-bundled games released for the Game Boy as well as being the best-selling {{wp|role-playing game}}s of all time when also including sales of Pokémon Green and the Japanese versions of Pokémon Red and Blue. Sales exceed 31 million units for all versions combined, which made them the best selling Pokémon games and the only games in the series to exceed 30 million units.

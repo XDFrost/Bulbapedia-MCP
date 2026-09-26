@@ -1,0 +1,377 @@
+===Game locations===
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry2|v=Red|v2=Blue|t2=fff|area=[[Viridian Forest]], {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1|v=Blue|ex=(Japan)|t=fff|link=Pokémon Blue Version (Japanese)|area=[[Viridian Forest]], {{FB|Kanto|Power Plant}}, [[Celadon Game Corner|Rocket Game Corner]]}}
+{{Availability/Entry1|v=Yellow|area=[[List of the player's first Pokémon|First Pokémon]] from [[Professor Oak]] in [[Pallet Town]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry2|v=Gold|v2=Silver|area={{rt|2|Kanto}}}}
+{{Availability/Entry1|v=Crystal|area={{rt|2|Kanto}}{{sup/t|M}}{{sup/t|D}}, [[Celadon Game Corner]]}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry2|v=Ruby|v2=Sapphire|t=fff|t2=fff|area={{safari|Hoenn}}}}
+{{Availability/Entry1|v=Emerald|t=FFF|area={{safari|Hoenn}}}}
+{{Availability/Entry2|v=FireRed|v2=LeafGreen|2|area=[[Viridian Forest]], {{FB|Kanto|Power Plant}}}}
+{{Availability/Entry1/None|v=Colosseum|area=[[Pokémon Colosseum Bonus Disc]] (JP)}}
+{{Availability/Entry1/None|v=XD|link=Pokémon XD: Gale of Darkness}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry2|v=Diamond|v2=Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Platinum|area=[[Trophy Garden]]}}
+{{Availability/Entry2|v=HeartGold|v2=SoulSilver|area=[[Viridian Forest]]<br>[[In-game trade#HeartGold and SoulSilver|Trade]] Pikachu in [[Saffron City]]}}
+{{Availability/Entry1|v=Pal Park|color={{Locationcolor/light|forest}}|link=Pal Park|area={{DL|List of Pokémon by Pal Park location|Forest}}}}
+{{Availability/Entry1|v=Pokéwalker|link=Pokéwalker|color=FF3333|area={{pw|Resort}}, {{pw|Yellow Forest}}, {{pw|Rally}}, and {{pw|Sightseeing}}}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry2/None|v=Black|v2=White|area=[[Poké Transfer]], [[#In events|Event]]}}
+{{Availability/Entry2/None|v=Black 2|v2=White 2|area=[[Poké Transfer]], [[#In events|Event]]}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry2|v=X|v2=Y|t=FFF|t2=FFF|area=[[Santalune Forest]], {{rt|3|Kalos}}, [[Friend Safari]] ([[Friend Safari#Electric-type Safari|Electric]])}}
+{{Availability/Entry2|v=Omega Ruby|v2=Alpha Sapphire|t=FFF|t2=FFF|area={{safari|Hoenn}} (Zone 1, {{DL|Tall grass|long grass}})<br>[[List of in-game event Pokémon in Pokémon Omega Ruby and Alpha Sapphire#Cosplay Pikachu|Received]] at the [[Contest Hall]] in [[Verdanturf Town]], [[Fallarbor Town]], [[Slateport City]], or [[Lilycove City]] after first [[Pokémon Contest]] <small>'''([[Cosplay Pikachu]])'''</small>}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry2|v=Sun|v2=Moon|area={{rt|1|Alola}}, [[Hau'oli City]] ([[SOS Battle]])}}
+{{Availability/Entry2|v=Ultra Sun|v2=Ultra Moon|t=FFF|t2=FFF|area={{rt|1|Alola}} ([[SOS Battle]])<br>[[Heahea City]] ([[Mantine Surf|Surf Association]], [[List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Surfing Pikachu|Only one]])<br>[[Pikachu Valley]] ([[QR Scanner]]) <small>('''Partner Cap Pikachu''')</small>}}
+{{Availability/Entry1|v=Let's Go Pikachu|area=[[Viridian Forest]] <small>('''Pikachu''')</small><br>[[List of the player's first Pokémon|First Pokémon]] from [[Professor Oak]] in [[Pallet Town]] <small>('''{{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|Partner Pikachu}}''')</small>}}
+{{Availability/Entry1|v=Let's Go Eevee|area=[[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry2|v=Sword|v2=Shield|t=FFF|t2=FFF|area=[[Galar Route 4|Route 4]], [[Stony Wilderness]]<br>[[Rolling Fields]] ([[Wanderer]])<br>[[Giant's Cap/Dens|Giant's Cap]], [[Giant's Mirror/Dens|Giant's Mirror]], [[Hammerlocke Hills/Dens|Hammerlocke Hills]], [[Lake of Outrage/Dens|Lake of Outrage]], [[Motostoke Riverbank/Dens|Motostoke Riverbank]] ([[Max Raid Battle]])<br>[[Meetup Spot]] ([[List of in-game event Pokémon in Pokémon Sword and Shield#Pikachu|Only one]]){{tt|*|If the player has save data from Pokémon: Let's Go Pikachu!}} <small>('''{{DL|Gigantamax|Gigantamax Factor}}''')</small>}}
+{{Availability/Entry1|v=Expansion Pass|color={{Isle of Armor color}}|t={{Crown Tundra color dark}}|link=Pokémon Sword and Shield Expansion Pass|area=[[Forest of Focus]]<br>[[Fields of Honor]], [[Soothing Wetlands]] ([[Wanderer]])<br>[[Challenge Beach/Dens|Challenge Beach]], [[Fields of Honor/Dens|Fields of Honor]], [[Forest of Focus/Dens|Forest of Focus]] ([[Max Raid Battle]])}}
+{{Availability/Entry2|v=Brilliant Diamond|v2=Shining Pearl|area=[[Trophy Garden]]}}
+{{Availability/Entry1|v=Legends: Arceus|t=FFF|area='''[[Obsidian Fieldlands]]:''' [[Nature's Pantry]], massive [[mass outbreak]]s<br>'''[[Crimson Mirelands]]:''' near [[Golden Lowlands]]<br>'''[[Cobalt Coastlands]]:''' [[Windbreak Stand]]<br>'''[[Alabaster Icelands]]:''' [[Space-time distortion]]s}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry2|v=Scarlet|v2=Violet|t=FFF|t2=FFF|area=South Province: [[South Province (Area Two)|Area Two]], [[South Province (Area Four)|Area Four]], [[Artazon]]<br>East Province: [[East Province (Area One)|Area One]]<br>West Province: [[West Province (Area Three)|Area Three]]<br>[[Tera Raid Battle]]s ({{DL|List of 2★ Tera Raid Battles (Paldea)|Pikachu|2★}}, {{DL|List of 3★ Tera Raid Battles (Paldea)|Pikachu|3★}})}}
+{{Availability/Entry1|v=The Hidden Treasure of Area Zero|color={{Teal Mask color light}}|t={{Indigo Disk color}}|link=The Hidden Treasure of Area Zero|area=[[Kitakami Road]], [[Apple Hills]], [[Oni Mountain]], [[Wistful Fields]], [[Paradise Barrens]], [[Kitakami Wilds]], [[Timeless Woods]]}}
+{{Availability/Entry1|v=Legends: Z-A|color={{Legends Z-A color}}|t=fff|area='''[[Vert District]]:''' [[Vert Sector 8]]<br>'''[[Rouge District]]:''' [[Wild Zone 3]]<br>'''[[Jaune District]]:''' [[Wild Zone 6]]&nbsp;[[File:Alpha icon.png|link=Alpha Pokémon|14px]]}}
+{{Availability/Entry1|v=Mega Dimension|area=[[Hyperspace Lumiose]] (2★ & 4★ [[List of Electric-type hyperspace wild zones|Electric-type wild zones]])}}
+|}
+|}
+{{Availability/Footer}}
+
+====In side games====
+{{Availability/Header|type=Electric}}
+{{Availability/Gen|gen=I}}
+{{Availability/Entry1|1|v=Snap|color={{electric color}}|area={{OBP|Beach|Snap}}, [[Tunnel]], {{OBP|River|Snap}}, and {{OBP|Cave|Snap}}}}
+{{Availability/Entry1|1|v=Pinball|color={{red color}}|area=[[Red Field|Red]] and [[Blue Field]]: [[Viridian Forest]]}}
+|}
+|}
+{{Availability/Gen|gen=II}}
+{{Availability/Entry1|1|v=Puzzle Challenge|color={{gold color}}|area=Defeat a {{tc|Gentleman}} after performing a 6-block combo in Challenge Mode}}
+|}
+|}
+{{Availability/Gen|gen=III}}
+{{Availability/Entry1|v=Channel|color={{water color}}|area=Collect all 101 Nice Cards}}
+{{Availability/Entry1|v=Pinball: R&S|link=Pokémon Pinball: Ruby & Sapphire|t=fff|color={{ruby color}}|area={{safari|Hoenn}} {{color2|{{ruby color dark}}|Pokémon Pinball: Ruby & Sapphire#Ruby Field|(Ruby Field)}}}}
+{{Availability/Entry1|v=Trozei!|color={{yellow color}}|area=[[Secret Storage 4|Secret Storages 4]] and [[Secret Storage 20|20]], Endless Level 1, [[Mr. Who's Den]]}}
+{{Availability/Entry2|v=MD Red|v2=MD Blue|t=FFF|t2=FFF|link=Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Lightning Field]] (6F-10F)}}
+{{Availability/Entry1|v=Ranger|link=Pokémon Ranger (video game)|area=[[Lyra Forest]], [[Panula Cave]], [[Sekra Range]]}}
+|}
+|}
+{{Availability/Gen|gen=IV}}
+{{Availability/Entry1|v=Battle Revolution|color={{Pbr color}}|link=Pokémon Battle Revolution|area=Beat Pokétopia Master [[Mysterial]] for the first time}}
+{{Availability/Entry2|v=MD Time|v2=MD Darkness|t2=FFF|link=Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Amp Plains]] (9F-10F, Far Amp Plains 1F-4F){{tt|*|After graduation}}}}
+{{Availability/Entry1|v=MD Sky|link=Pokémon Mystery Dungeon: Explorers of Sky|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Amp Plains]] (9F-10F, Far Amp Plains 1F-4F){{tt|*|After graduation}}}}
+{{Availability/Entry1|v=Ranger: SoA|t=FFF|color={{SoA color}}|link=Pokémon Ranger: Shadows of Almia|area=[[Vien Forest]], [[Crysta Cave]], [[Volcano Cave]], [[Chroma Road]], [[Chroma Highlands]], [[Chroma Ruins]]}}
+{{Availability/Entry1|v=Ranch|color={{diamond color}}|link=My Pokémon Ranch|area=[[Hayley's trades]]}}
+{{Availability/Entry1|v=Rumble|color={{fire color}}|area=[[Silent Forest]] <small>(Normal Mode C, B & S)</small>}}
+{{Availability/Entry2/None|v=MD Blazing|v2=MD Stormy|link=Pokémon Mystery Dungeon (WiiWare)|color={{fire color}}|t={{fire color dark}}|color2={{water color}}|t2={{water color dark}}|area=Linked save file}}
+{{Availability/Entry1|v=MD Light|link=Pokémon Mystery Dungeon (WiiWare)|color={{electric color}}|area=[[Hero Pokémon#Pokémon Mystery Dungeon (WiiWare)|First Friend]], [[Light Summit]] (11F-20F)}}
+{{Availability/Entry1|v=Ranger: GS|color={{GS color}}|link=Pokémon Ranger: Guardian Signs|area={{ra|Submarine}}, [[Faldera Volcano]], [[Thunder Temple]]}}
+|}
+|}
+{{Availability/Gen|gen=V}}
+{{Availability/Entry1|1|v=Rumble Blast|color={{fire color}}|area=Autumnwood: [[Firebreathing Mountain]]; Forest: [[Trailhead Field]], [[World Axle - B1F]]}}
+{{Availability/Entry1|1|v=Conquest|color={{silver color}}|area=[[Violight]], [[Pokémon Conquest#Passwords|Password Outbreak]]}}
+{{Availability/Entry1|1|v=MD GTI|link=Pokémon Mystery Dungeon: Gates to Infinity|color={{silver color}}|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Silent Tundra]] (Uncharted Road), [[Dreamy Island]] (Uncharted Road), [[Pika Land]] (1F-14F)}}
+{{Availability/Entry1|1|v=Rumble U|color={{fire color}}|area=[[Model Train Room#Rush Hour|Model Train Room: Rush Hour]], [[Locomotive Café#Dash Race!|Locomotive Café: Dash Race!]],<br>[[Chill Battle#The Forest of Memories|Chill Battle: The Forest of Memories]] <small>(Reward)</small>, NFC Figurine}}
+|}
+|}
+{{Availability/Gen|gen=VI}}
+{{Availability/Entry1|1|v=Battle Trozei|color={{defense color}}|area=[[Renegade Meadow#Stage 6|Renegade Meadow: Stage 6]]}}
+{{Availability/Entry1|1|v=Rumble World|color={{fire color}}|area=[[Leafy Expanse#Shrub Forest|Leafy Expanse: Shrub Forest]] <small>(All Areas)</small>, [[Gold Plateau#Tricky Factory|Gold Plateau: Tricky Factory]] <small>(All Areas)</small>}}
+{{Availability/Entry1|1|v=Super MD|color={{gold color}}|link=Pokémon Super Mystery Dungeon|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Baram Town]]}}
+{{Availability/Entry1|1|v=Picross|color={{skill color light}}|area=[[Pokémon Picross Stages#Area 04|Area 04: Stage 02]]}}
+|}
+|}
+{{Availability/Gen|gen=VII}}
+{{Availability/Entry1|1|v=Quest|color={{orange color}}|area=[[List of the player's first Pokémon|Found as a first partner]], [[Cooking (Quest)|Mulligan Stew à la Cube, Yellow Curry à la Cube, Watt a Risotto à la Cube]]}}
+{{Availability/Entry1|1|v=Rumble Rush|color={{fire color}}|area=[[Charizard Sea]]<sup>2019</sup>, [[Dragonite Sea]], [[Snorlax Sea]], [[Pinsir Sea]], [[Zapdos Sea]], [[Jirachi Sea]], [[Gengar Sea]], [[Celebi Sea]], [[Castform Sea]], [[Garchomp Sea]], [[Entei Sea]], [[Mimikyu Sea]], [[Aegislash Sea]], [[Mewtwo Sea]], [[Rowlet Sea]], [[Lugia Sea]], [[Buzzwole Sea]], [[Zygarde Sea]], [[Butterfree Sea]], [[Charizard Sea]]<sup>2020</sup>, [[Bulbasaur Sea]], [[Charizard Sea]]<sup>Final</sup>, [[Jirachi Sea]]<sup>Final</sup>, [[Celebi Sea]]<sup>Final</sup>, [[Garchomp Sea]]<sup>Final</sup>, [[Entei Sea]]<sup>Final</sup>, [[Mimikyu Sea]]<sup>Final</sup>, [[Mewtwo Sea]]<sup>Final</sup>, [[Rowlet Sea]]<sup>Final</sup>, [[Buzzwole Sea]]<sup>Final</sup>, [[Zygarde Sea]]<sup>Final</sup><br />[[Rowlet Sea]], [[Rowlet Sea]]<sup>Final</sup> <small>('''Festive Hat''')</small>}}
+|}
+|}
+{{Availability/Gen|gen=VIII}}
+{{Availability/Entry1|1|v=MD DX|color={{MD Red color}}|t=FFF|link=Pokémon Mystery Dungeon: Rescue Team DX|area=[[Hero Pokémon]], {{mdc|Partner Pokémon}}, [[Lightning Field]] (5F-10F)}}
+{{Availability/Entry1|1|v=New Snap|link=New Pokémon Snap|color={{orange color light}}|area=[[Florio Nature Park]]<sup><span style="color:#3A546B;">Night</span> with [[Secret Side Path]]</sup>, [[Laboratory of Ecology and Natural Sciences|Research Camp]], [[Blushing Beach]]<sup><span style="color:#F05D31;">Day</span>, <span style="color:#3A546B;">Night</span> <span style="color:#067162;">Level 2</span></sup>}}
+|}
+|}
+{{Availability/Gen|gen=IX}}
+{{Availability/Entry1|v=Sleep|1|color={{slumbering color light}}|link=Pokémon Sleep|area=[[List of the player's first Pokémon|First Pokémon]]<br>[[Greengrass Isle]] (from Basic 3)<br>[[Cyan Beach]], [[Lapis Lakeside]], [[Old Gold Power Plant]], [[Greengrass Isle]]<sup>Expert</sup> (from Basic 1)<br>[[Greengrass Isle]] (Event: Halloween 2023, Halloween 2024, Halloween 2025) <small>(Halloween, orange hat)</small><br>[[Greengrass Isle]] (Event: Halloween 2024, Halloween 2025) <small>(Halloween, purple hat)</small><br>[[Greengrass Isle]] (Event: Holiday 2023, Holiday 2024, Holiday 2025) <small>(Holiday)</small><br>[[Greengrass Isle]] (Event: Collaboration Week) <small>(Captain)</small>}}
+|}
+|}
+{{Availability/Cross}}
+{{Availability/Entry1|1|v=Shuffle|color={{beauty color}}|area=[[Night Festival|Night Festival: Stage 23]]<br><!--
+-->[[Graucus Hall|Graucus Hall: Stage 477]]<br><!--
+-->Event: [[Pokémon Safari#Week 7-8|''Pokémon Safari'']] <small>(Week 7-8; '''Winking''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 10|''Pokémon Safari'']] <small>(Week 10; '''Charizard/Magikarp/Gyarados/Shiny Gyarados/Lugia/Ho-Oh/Rayquaza/Shiny Rayquaza Costume, Kimono Boy/Girl''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 13|''Pokémon Safari'']] <small>(Week 13; '''Angry''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 14|''Pokémon Safari'']] <small>(Week 14; '''Dizzy''')</small><br><!--
+-->Event: [[Pokémon Safari#Week 17|''Pokémon Safari'']] <small>(Week 17; '''Original/Hoenn/Sinnoh/Unova/Kalos/Alola Cap, Smiling, Happy, Fired Up, Surprised''')</small><br><!--
+-->Event: [[Daily Pokémon#Week 8 and 20|''Daily Pokémon'']] <small>(Week 8 and 20, Monday; '''Sleeping''')</small><br><!--
+-->Event: [[One Chance a Day#Enamored Pikachu|''A Great Chance a Day'']] <small>(February 13-15; '''Enamored''')</small><br><!--
+-->Event: [[Daily Pokémon#Halloween|''Daily Pokémon'']] <small>(October 17-30; '''Spooky''')</small><br><!--
+-->Event: [[Daily Pokémon#Holiday|''Daily Pokémon'']] <small>(December 11-25; '''Holiday''')</small><br><!--
+-->[[Pokémon_Shuffle#Check_in_ten_times!|Check in ten times in a month]] <small>('''Celebration''' depending on month. In order: '''Lion Dancer''', '''Kotatsu''', '''Graduate''', '''Intern''', '''Children's Day''', '''Rainy Season''', '''Summer Festival''', '''Beach Walk''', '''Pastry Chef''', '''Artist''', '''Mushroom Harvest''', '''Year's End''')</small><br><!--
+--><hr>'''Former locations:'''<br><!--
+-->Event: [[Pokémon Safari/Live service period#Eighth release|''Pokémon Safari'']] <small>(Eighth release; '''Angry''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#Second release|''Pokémon Safari'']] <small>(Second release; '''Winking''')</small><br><!--
+-->Event: ''{{DL|Daily Pokémon|Special Daily Pokémon (second release)|Special Daily Pokémon}}'' <small>(Second release; '''Sleeping''')</small><br><!--
+-->Event: ''{{DL|One Chance a Day|A Great Chance a Day!}}'' <small>('''Enamored''', '''Ho-Oh/Lugia/Rayquaza Costume''')</small><br><!--
+-->Event: ''[[Commemorative Event]]'' <small>('''Smiling''')</small><br><!--
+-->Event: ''[[Great Challenge|Pikachu Appears]]'' <small>(3DS; '''Happy''')</small><br><!--
+-->Event: ''[[Commemorative Event]]'' <small>(Mobile; '''Happy''')</small><br><!--
+-->Event: ''[[Daily Pokémon/Live service period#Great Daily (second release)|Great Daily Pokémon]]'' <small>(Second release; '''Happy''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#12th release|''Pokémon Safari'']] <small>(12th release; '''Spooky''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#13th release|''Pokémon Safari'']] <small>(13th release; '''Holiday''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#Tenth release|''Pokémon Safari'']] <small>(Tenth release; '''Magikarp/Gyarados Costume''')</small><br><!--
+-->Event: ''[[Great Challenge|Pikachu Appears]]'' <small>(Shiny Gyarados Costume; '''Hoenn/Unova/Alola Cap''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#15th release|''Pokémon Safari'']] <small>(15th release; '''Kimono Boy/Girl Costume''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#14th release|''Pokémon Safari'']] <small>(14th release; '''Shiny Rayquaza Costume''')</small><br><!--
+-->Event: ''[[High-Speed Challenge|Pikachu Appears]]'' <small>('''Sinnoh/Kalos Cap''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#21st release|''Pokémon Safari'']] <small>(21st release; '''Charizard Costume''')</small><br><!--
+-->Event: ''[[Daily Pokémon/Live service period#Great Daily (fifth release)|Great Daily Pokémon]]'' <small>(Fifth release; '''Hoenn/Sinnoh/Unova/Kalos/Alola Cap''')</small><br><!--
+-->Event: [[Pokémon Safari/Live service period#26th release|''Pokémon Safari'']] <small>(26th release; '''Dizzy''', '''Surprised''')</small>}}
+{{Availability/Entry1|1|v=Masters EX|color={{masters color}}|area=Starting [[sync pair]]: {{sync/player|Pikachu}}<br>[[Evolution]]: {{sync/player|egg|Pichu}}<br><!--
+-->Master Fair [[sync pair scout]]: {{sync|Ash|Pikachu}} <small>('''Pikachu ↔ World Cap''')</small>, {{sync|sygna=1|Red|Pikachu|Thunderbolt}} <small>('''[[Gigantamax]]''')</small><br><!--
+-->Poké Fair sync pair scout: {{sync|Chase|Pikachu}}<br><!--
+-->{{DL|Special sync pair event|Petey & Pikachu|Special sync pair event}}: {{sync|Petey|Pikachu|Poké Kid}}</small><br><!--
+-->EX Master Fair sync pair scout: [[Red (Masters)#Pikachu (1996)|Red (1996) & Pikachu]]}}
+{{Availability/Entry1|1|v=Café ReMix|color={{café color}}|area=[[Menu development]]: Complete Yummy Yamper Pasta Recipe <small>('''Pikachu♂''')</small><br>Event: Second Anniversary Challenge #2 <small>('''Pikachu♀''')</small><br>[[Master Café Mode]] (180pts) <small>'''(Pikachu Super chef)'''</small><br>Extra Orders: Complete Order 600 <small>('''Pikachu Chef's whites''')</small><br>Purchase: Special Pikachu Pack (Legacy Café Mix) <small>('''Pikachu Sweets''')</small><br>Event: A hungry Snorlax appears! (Purchase) <small>('''Pikachu Snorlax Maniac''')</small><br>Purchase <small>'''(Pikachu Farm fresh)'''</small><br>Purchase: Second Anniversary Pikachu Pack <small>'''(Pikachu Fancy tux)'''</small><br>Event: Second Anniversary Celebration! Special Stamps #2 (Daily Login), Purchase: Pikachu Dress Pass <small> (June 2023) '''(Pikachu Fancy dress)'''</small><br>Purchase: Welcome 2022 bundle <small>'''(Pikachu Welcome 2022)'''</small><br>Five-star delivery <small>(April 2023 & June 2024) '''(Pikachu Flower frame)'''</small><br>Event: Bolt of Brilliance Challenge <small>'''(Pikachu Detective)'''</small>
+}}
+{{Availability/Entry1|1|v=UNITE|t=FFF|color={{violet color}}|area=Complete [[Practice Area (stadium)|Tutorial (Basics 1)]] <sup>Post version 1.12.1.2 </sup>
+<hr>'''Former locations:'''<br><!--
+-->[[List of the player's first Pokémon|Gift]] from [[Erbie]] after [[Mer Stadium|Tutorial (Basics 2)]] <sup>Pre version 1.12.1.2 </sup><br><!--
+-->Purchase for 6,000 Aeos Coins/345 Aeos Gems from [[Unite Battle Committee]] <sup>Pre version 1.12.1.2 </sup>}}
+|}
+|}
+{{Availability/Footer}}
+
+====In events====
+=====Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric|expand=yes}}
+{{eventAvail|{{gameabbrev1|RGB}}|Pokémon 2 Idea Contest Pikachu|Japanese|Japan|5|May 15 to June 12, 1997|link=List of Japanese event Pokémon distributions in Generation I#Pokémon 2 Idea Contest Pikachu}}
+{{eventAvail|{{gameabbrev1|RGB}}|Nintendo 64 Pikachu|Japanese|Japan|5|September 21 to October 31, 1997|link=List of Japanese event Pokémon distributions in Generation I#Nintendo 64 Pikachu}}
+{{eventAvail|{{gameabbrev1|RGB}}|CoroCoro Surfing Pikachu|Japanese|Japan|5|September 15 to October 14, 1997|link=List of Japanese event Pokémon distributions in Generation I#Surfing Pikachu}}
+{{eventAvail|{{gameabbrev1|RGB}}|CoroCoro Flying Pikachu|Japanese|Japan|5|October 15 to November 1997|link=List of Japanese event Pokémon distributions in Generation I#Flying Pikachu}}
+{{eventAvail|{{gameabbrev1|RGB}}|Summer 1998 Pokémon Battle Tour Pikachu|Japanese|Japan|5|July 19 to August 23, 1998|link=List of Japanese event Pokémon distributions in Generation I#Summer 1998 Pokémon Battle Tour Pikachu}}
+{{eventAvail|{{gameabbrev1|RBY}}|Nintendo Power Pikachu|English|United States|?|October to November 1, 1999|link=List of European language event Pokémon distributions in Generation I#Nintendo Power Pikachu}}
+{{eventAvail|{{gameabbrev3|RS}}|Pokémon Center New York Evolution Stone Promotion Pikachu|English|United States|50|August 30 to September 4, 2003|link=List of PCNY event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|All Nippon Airways Pikachu|Japanese|Japan|10|December 5 to 25, 2004|link=List of Japanese event Pokémon distributions in Generation III#All Nippon Airways Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Yokohama Pikachu|Japanese|Japan|10|March 19 to April 3, 2005|link=List of Japanese event Pokémon distributions in Generation III#Yokohama Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|GW Pikachu|Japanese|Japan|10|April 25 to May 8, 2005|link=List of Japanese event Pokémon distributions in Generation III#GW Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Sapporo Pikachu|Japanese|Japan|10|July 1 to August 21, 2005|link=List of Japanese event Pokémon distributions in Generation III#Sapporo Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Third Campaign Pikachu|Japanese|Japan|10|January 14 to 29, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Pikachu_3}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Journey Across America Pikachu|English|United States|70|February 25 to July 23, 2006|link=List of Journey Across America event Pokémon distributions#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Fifth Campaign Pikachu|Japanese|Japan|10|March 21 to April 9, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Pikachu_2}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Gather More Pokémon! Sixth Campaign Pikachu|Japanese|Japan|10|April 22 to May 8, 2006|link=List of Gather More Pokémon! Campaign event Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Top 10 Distribution Pikachu|English|United Kingdom|70|June 10, 2006;<br>October 14 to November 19, 2006|link=List of English event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Top 10 Distribution Pikachu|Italian|Italy|70|June 23 to 25, 2006|link=List of Italian event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Top 10 Distribution Pikachu|Spanish|Spain|70|June 27 to August 27, 2006|link=List of Spanish event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Party of the Decade Pikachu|English|United States|70|August 8, 2006|link=List of Party of the Decade event Pokémon distributions#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Top 10 Distribution Pikachu|German|Germany|70|September 24 to November 5, 2006|link=List of German event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}|Top 10 Distribution Pikachu|French|France|70|September 26, 2006|link=List of French event Pokémon distributions in Generation III#Pikachu}}
+{{eventAvail|{{gameabbrev4|DP}}|2007 TCG World Championships Pikachu|English|United States|50|August 10 to 12, 2007|link=List of local English event Pokémon distributions in Generation IV#2007 TCG World Championships Pikachu}}
+{{eventAvail|{{gameabbrev4|DP}}|McDonald's Pikachu|Japanese|Japan|20|May 30 to June 19, 2008|link=List of local Japanese event Pokémon distributions in Generation IV#McDonald's Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Pokémon Center Yokohama Pikachu|Japanese|Japan|40|October 10 to November 3, 2008|link=List of local Japanese event Pokémon distributions in Generation IV#Pokémon Center Yokohama Pikachu}}
+{{eventAvail|{{gameabbrev4|DP}}|Nintendo Zone Pikachu|English|United States|20|November 14 to 27, 2008|link=List of local English event Pokémon distributions in Generation IV#Nintendo Zone Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPt}}|2008 Birthday Pikachu|Japanese|Japan|40|December 26, 2008 to December 25, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#2008 Birthday Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Sleeping Pikachu|Japanese|Japan|50|February 7 to March 15, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Sleeping Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPt}}|Character Fair Pikachu|Korean|South Korea|30|July 24 to 26, 2009|link=List of local Korean event Pokémon distributions in Generation IV#Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Kyoto Cross Media Experience 2009 Pikachu|Japanese|Japan|30|October 3 to 4, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Kyoto Cross Media Experience 2009 Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Ario Pikachu|Japanese|Japan|20|November 21 to 23, 2009|link=List of local Japanese event Pokémon distributions in Generation IV#Ario Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|2009 Birthday Pikachu|Japanese|Japan|40|December 26, 2009 to November 3, 2010|link=List of local Japanese event Pokémon distributions in Generation IV#2009 Birthday Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Ash's Pikachu|Japanese|Nintendo Wi-Fi|50|July 15 to August 10, 2010|link=List of Wi-Fi Japanese event Pokémon distributions in Generation IV#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|7-Eleven Pikachu|Japanese|Japan|20|August 20 to September 5, 2010|link=List of local Japanese event Pokémon distributions in Generation IV#7-Eleven Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Nintendo Zone Pikachu|German|Germany|20|July 31 to August 27, 2010|link=List of local German event Pokémon distributions in Generation IV#Nintendo Zone Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Ash's Pikachu|English|North America|50|January 30 to February 20, 2011|link=List of local English event Pokémon distributions in Generation IV#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Ash's Pikachu|Korean|Nintendo Wi-Fi|50|February 1 to 28, 2011|link=List of Wi-Fi Korean event Pokémon distributions in Generation IV#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|All Nippon Airways Pikachu|Japanese|Japan|50|July 18 to September 30, 2011|link=List of local Japanese event Pokémon distributions in Generation V#All Nippon Airways Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Singing Pikachu|Japanese|Japan|30|July 30 to September 4, 2011|link=List of local Japanese event Pokémon distributions in Generation V#Singing Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|ExtremeSpeed Pikachu|Japanese|Japan|50|March 1 to May 6, 2012|link=List of local Japanese event Pokémon distributions in Generation V#ExtremeSpeed Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Pikachu Festival Pikachu|Japanese|Japan|100|March 23 to April 8, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Pikachu Festival Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Pika Pika Carnival Pikachu|English|Singapore|100|May 11 to 20, 2012|link=List of local English event Pokémon distributions in Generation V#Pika Pika Carnival Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Pika Pika Carnival Pikachu|Japanese|Singapore|100|May 11 to 20, 2012|link=List of local Japanese event Pokémon distributions in Generation V#Pika Pika Carnival Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2012 Pikachu|English|Europe|100|July 5 to September 29, 2012|link=List of local English event Pokémon distributions in Generation V#Summer 2012 Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2012 Pikachu|French|Europe|100|July 5 to September 29, 2012|link=List of local French event Pokémon distributions in Generation V#Summer 2012 Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2012 Pikachu|German|Europe|100|July 5 to September 29, 2012|link=List of local German event Pokémon distributions in Generation V#Summer 2012 Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2012 Pikachu|Italian|Europe|100|July 5 to September 29, 2012|link=List of local Italian event Pokémon distributions in Generation V#Summer 2012 Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer 2012 Pikachu|Spanish|Europe|100|July 5 to September 29, 2012|link=List of local Spanish event Pokémon distributions in Generation V#Summer 2012 Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|Summer Carnival Pikachu|Korean|South Korea|100|July 14 to August 29, 2012|link=List of local Korean event Pokémon distributions in Generation V#Summer Carnival Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|English|United States|50|August 12, 2012|link=List of local English event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|French|United States|50|August 12, 2012|link=List of local French event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|German|United States|50|August 12, 2012|link=List of local German event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|Italian|United States|50|August 12, 2012|link=List of local Italian event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|Japanese|United States|50|August 12, 2012|link=List of local Japanese event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|Korean|United States|50|August 12, 2012|link=List of local Korean event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BW}}|2012 World Championships Pikachu|Spanish|United States|50|August 12, 2012|link=List of local Spanish event Pokémon distributions in Generation V#2012 World Championships Pikachu}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center 15th Anniversary Pikachu|Japanese|Japan|100|May 29 to June 4, 2013;<br/>July 3 to 7, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Pikachu}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Strongest Class Pikachu|Japanese|Hong Kong<br>Taiwan|100|July 26 to August 20, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Strongest Class Pikachu}}
+{{eventAvail|{{gameabbrev5|BWB2W2}}|Pokémon Center Best Wishes Ash's Pikachu|Japanese|Japan|50|August 10 to September 6, 2013|link=List of local Japanese event Pokémon distributions in Generation V#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Birthday Pikachu|All|Japan|10|October 12, 2013 to December 31, 2016|link=List of local event Pokémon distributions in Generation VI#Pikachu_3}}
+{{eventAvail|{{gameabbrev6|XY}}|Atsuto Uchida Pikachu|All|Japan|22|June 15, 2014|link=List of local event Pokémon distributions in Generation VI#Atsuto Uchida Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai Landmark Tower Pikachu|All|Japan|10|August 9 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#Landmark Tower Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai Cosmo World Pikachu|All|Japan|10|August 9 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#Cosmo World Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai Red Brick Warehouse Pikachu|All|Japan|10|August 9 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#Red Brick Warehouse Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai Captain Pikachu|All|Japan|10|August 9 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#Captain Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai ♥♥Pika♥♥ Pikachu|All|Japan|10|August 9 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#♥♥Pika♥♥ Pikachu}}
+{{eventAvail|{{gameabbrev6|XY}}|Minato Mirai Pacifico Pikachu|All|Japan|10|August 16 to 17, 2014|link=List of local event Pokémon distributions in Generation VI#Pacifico Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Mega Tokyo Pikachu|All|Japan|36{{shinystar|VI}}|December 11, 2014;<br/>December 12, 2014 to January 16, 2015|link=List of local event Pokémon distributions in Generation VI#Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Cafe Pikachu|All|Japan|10|January 9 to March 15, 2015|link=List of local event Pokémon distributions in Generation VI#Pokémon Cafe Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|7-Eleven Ash's Pikachu|Japanese region|Online|50|July 18 to September 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Yokohama Pikachu|All|Japan|10{{shinystar|VI}}|August 8 to 16, 2015|link=List of local event Pokémon distributions in Generation VI#Yokohama Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Satay King Pikachu|Japanese region|Online|10|August 9 to September 30, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Satay King Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Satay King Pikachu|Taiwanese region|Online|10|August 9 to September 30, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#Satay King Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pokémon Center Ash's Pikachu|Japanese region|Nintendo Network|50|August 24 to 30, 2015|link=List of Japanese region Nintendo Network event Pokémon distributions in Generation VI#Ash's Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Pikachu|Japanese region|Online|10|September 1 to October 29, 2015|link=List of Japanese region serial code event Pokémon distributions in Generation VI#PGL Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Pikachu|American region|Online|10|September 1 to October 29, 2015|link=List of American region serial code event Pokémon distributions in Generation VI#PGL Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Pikachu|PAL region|Online|10|September 1 to October 29, 2015|link=List of PAL region serial code event Pokémon distributions in Generation VI#PGL Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Pikachu|Korean region|Online|10|September 1 to October 29, 2015|link=List of Korean region serial code event Pokémon distributions in Generation VI#PGL Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|PGL Pikachu|Taiwanese region|Online|10|September 1 to October 29, 2015|link=List of Taiwanese region serial code event Pokémon distributions in Generation VI#PGL Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Beginner Trainer Pikachu|All|South Korea|10{{shinystar|VI}}|October 9 to 11, 2015;<br/>October 17 to 18, 2015|link=List of local event Pokémon distributions in Generation VI#Beginner Trainer Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Tohoku Pikachu|All|Japan|99|December 20, 2015<br/>January 2 to 11, 2016|link=List of local event Pokémon distributions in Generation VI#Tohoku Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Online Pikachu|Japanese region|Online|10|February 16 to August 31, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Pokémon Center Online Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Tohoku Pikachu|Japanese region|Online|10|March 11 to April 21, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Tohoku Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Cafe Pikachu|Japanese region|Online|10|May 27 to August 31, 2016|link=List of Japanese region serial code event Pokémon distributions in Generation VI#Pokémon Cafe Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Cafe Pikachu|American region|Online|10|May 27 to August 31, 2016|link=List of American region serial code event Pokémon distributions in Generation VI#Pokémon Cafe Pikachu}}
+{{eventAvail|{{gameabbrev6|ORAS}}|Pokémon Center Hiroshima Pikachu|All|Japan|36{{shinystar|VI}}|June 1 to 30, 2016|link=List of local event Pokémon distributions in Generation VI#Pikachu}}
+{{eventAvail|{{gameabbrev6|XYORAS}}|Pika Pika Pokémon Spa Pikachu|Korean region|Online|10|July 2 to September 30, 2016|link=List of Korean region serial code event Pokémon distributions in Generation VI#Pika Pika Pokémon Spa Pikachu}}
+{{eventAvail|{{gameabbrev7|SM}}|Pokémon Center Birthday Pikachu|All|Japan|10|November 18, 2016 to November 15, 2018|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Pikachu 2}}
+{{eventAvail|{{gameabbrev7|SM}}|Tohoku Pikachu|Japanese region|Online|10|March 11 to April 20, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Tohoku Pikachu}}
+{{eventAvail|{{gameabbrev7|SM}}|Carnival Pikachu|All|Japan|10|August 9 to 15, 2017<br>August 14, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Carnival Pikachu}}
+{{eventAvail|{{gameabbrev7|SM}}|Carnival Parade Pikachu|All|Japan|10|August 14, 2017|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Carnival Pikachu}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|2018 Tohoku Pikachu|Japanese region|Online|10|March 5 to April 26, 2018|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#2018 Tohoku Pikachu}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Pokémon Cafe Pikachu|All|Japan|5|March 14 to April 22, 2018|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Pokémon Cafe Pikachu}}
+{{eventAvail|{{gameabbrev7|SMUSUM}}|Pokémon World Festival Pikachu|All|South Korea|10|April 27 to May 7, 2018|link=List of local event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Pokémon World Festival Pikachu}}
+{{eventAvail|{{gameabbrev7|E}}|Pokémon Festa 2019 Shiny Pikachu|International (not Mainland China)|Online|10{{shinystar|LGPE}}|May 1 to 31, 2019|link=List of event Pokémon distributions in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!#Pikachu}}
+{{eventAvail|{{gameabbrev7|E}}|Target Bullseye Pass Shiny Pikachu|International (not Mainland China)|Online|10{{shinystar|LGPE}}|May 11 to June 23, 2019|link=List of event Pokémon distributions in Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!#Pikachu}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Japan Pokémon Center Birthday Pikachu|All|Japan|5|November 15, 2019 to January 31, 2021|link=List of event Pokémon distributions in Pokémon Sword and Shield#Japan Pokémon Center Birthday Pikachu & Eevee}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Singapore Pokémon Center Birthday Pikachu|All|Singapore|5|March 7, 2020 to January 31, 2021|link=List of event Pokémon distributions in Pokémon Sword and Shield#Singapore Pokémon Center Birthday Pikachu & Eevee}}
+{{eventAvail|{{gameabbrev8|SwSh}}|KIBO's Pikachu|All|Online|21|December 31, 2020 to January 15, 2021|link= List of event Pokémon distributions in Pokémon Sword and Shield#KIBO's Pikachu}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Game Freak's Singing Pikachu|All|Online|25|February 25 to March 25, 2021|link=List of event Pokémon distributions in Pokémon Sword and Shield#Game Freak's Singing Pikachu}}
+{{eventAvail|{{gameabbrev9|SV}}|Flying Terastal Pikachu|All|Online|5|November 18, 2022 to February 28, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#Flying Terastal Pikachu}}
+{{eventAvail|{{gameabbrev9|SV}}|25th Anniversary Pikatto Pika Pika Pikachu|All|Online|25|April 22 to July 31, 2023|link=List of event Pokémon distributions in Pokémon Scarlet and Violet#25th Anniversary Pikatto Pika Pika Pikachu}}
+|}
+
+=====Original Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Original Cap Pikachu|Japanese region|Online|1|April 15 to May 1, 2017<br>July 19 to 31, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Original Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Original Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|1|September 19 to 25, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Original Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Original Cap Pikachu|Japanese region<br>PAL region<br>Taiwanese region|Online|1|October 19 to November 23, 2017|link=List of Taiwanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Taiwanese Ash's Pikachu}}
+{{eventAvail|{{gameabbrev7|SM}}|Original Cap Pikachu|Japanese region<br>American region|Online|1|November 10 to 23, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Singapore Ash's Pikachu}}
+{{eventAvail|{{gameabbrev7|USUM}}|Original Cap Pikachu|Japanese region<br>PAL region<br>Taiwanese region|Online|1|March 29 to May 31, 2018|link=List of Taiwanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Hong Kong Ash's Pikachu}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Original Cap Pikachu|All|Online|25|September 29 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Original Cap}}
+|}
+
+=====Hoenn Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Hoenn Cap Pikachu|Japanese region|Online|6|May 3 to 15, 2017<br>August 2 to 14, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Hoenn Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Hoenn Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|6|September 26 to October 2, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Hoenn Cap}}
+{{eventAvail|{{gameabbrev7|USUM}}|Hoenn Cap Pikachu|Japanese region<br>American region<br>PAL region<br>Taiwanese region|Online|6|November 9 to 30, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Hoenn Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Hoenn Cap Pikachu|All|Online|25|October 2 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Hoenn Cap}}
+|}
+
+=====Sinnoh Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Sinnoh Cap Pikachu|Japanese region|Online|10|May 17 to 29, 2017<br>August 16 to 28, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Sinnoh Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Sinnoh Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|9|October 3 to 9, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Sinnoh Cap}}
+{{eventAvail|{{gameabbrev7|USUM}}|Sinnoh Cap Pikachu|Japanese region<br>American region<br>PAL region<br>Taiwanese region|Online|9|November 9 to 30, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Sinnoh Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Sinnoh Cap Pikachu|All|Online|25|October 9 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Sinnoh Cap}}
+|}
+=====Unova Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Unova Cap Pikachu|Japanese region|Online|14|May 31 to June 12, 2017<br>August 30 to September 11, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Unova Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Unova Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|13|October 10 to 16, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Unova Cap}}
+{{eventAvail|{{gameabbrev7|USUM}}|Unova Cap Pikachu|Japanese region<br>American region<br>PAL region<br>Taiwanese region|Online|13|November 9 to 30, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Unova Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Unova Cap Pikachu|All|Online|25|October 16 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Unova Cap}}
+|}
+
+=====Kalos Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Kalos Cap Pikachu|Japanese region|Online|17|June 14 to 26, 2017<br>September 13 to 25, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Kalos Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Kalos Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|17|October 17 to 23, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Kalos Cap}}
+{{eventAvail|{{gameabbrev7|USUM}}|Kalos Cap Pikachu|Japanese region<br>American region<br>PAL region<br>Taiwanese region|Online|17|November 9 to 30, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Kalos Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Kalos Cap Pikachu|All|Online|25|October 18 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Kalos Cap}}
+|}
+=====Alola Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev7|SM}}|Alola Cap Pikachu|Japanese region|Online|20|June 28 to July 17, 2017<br>September 27 to October 9, 2017|link=List of Japanese region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Alola Cap}}
+{{eventAvail|{{gameabbrev7|SM}}|Alola Cap Pikachu|American region<br>PAL region<br>Taiwanese region|Online|19|October 10 to 12, 2017<br>October 24 to 30, 2017|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Alola Cap}}
+{{eventAvail|{{gameabbrev7|USUM}}|Alola Cap Pikachu|Japanese region<br>American region<br>PAL region<br>Taiwanese region|Online|19|November 9 to 30, 2018|link=List of American region serial code event Pokémon distributions in Pokémon Sun, Moon, Ultra Sun, and Ultra Moon#Alola Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Alola Cap Pikachu|All|Online|25|October 23 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Alola Cap}}
+|}
+
+=====Partner Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's Partner Cap Pikachu|All|Online|25|September 29 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#Partner Cap}}
+|}
+
+=====World Cap Pikachu=====
+{{eventAvail/h|Language/Region|type=Electric}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Ash's World Cap Pikachu|All|Online|25|October 30 to November 30, 2020|link=List of event Pokémon distributions in Pokémon Sword and Shield#World Cap}}
+{{eventAvail|{{gameabbrev8|SwSh}}|25th Anniversary Film Fest Ash's World Cap Pikachu|All|Online|80|August 11 to September 30, 2022|link=List of event Pokémon distributions in Pokémon Sword and Shield#Ash's World Cap Pikachu}}
+|}
+
+====In-game events====
+=====Pikachu=====
+{{eventAvail/h|type=Electric|lochide=yes}}
+{{eventAvail|{{gameabbrev3|RSEFRLG}}{{gameabbrevss|Colo}}|Colosseum Pikachu|Japanese|hide|10|November 21, 2003 onwards|link=List of game-based Pokémon distributions in Generation III#Colosseum Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|Japanese|hide|10|December 14, 2006 onwards|link=List of game-based Pokémon distributions in Generation IV#Japanese Pokémon Battle Revolution Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|English|hide|10|June 25, 2007 onwards|link=List of game-based Pokémon distributions in Generation IV#Pikachu_2}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|French|hide|10|July 12, 2007 onwards|link=List of game-based Pokémon distributions in Generation IV#Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|German|hide|10|July 12, 2007 onwards|link=List of game-based Pokémon distributions in Generation IV#Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|Italian|hide|10|July 12, 2007 onwards|link=List of game-based Pokémon distributions in Generation IV#Pikachu}}
+{{eventAvail|{{gameabbrev4|DPPtHGSS}}|Pokétopia Pikachu|Spanish|hide|10|July 12, 2007 onwards|link=List of game-based Pokémon distributions in Generation IV#Pikachu}}
+{{eventAvail|{{gameabbrevss|HOME}}|HOME Pikachu|Worldwide|hide|5|February 12, 2020 onwards|link=List of game-based Pokémon distributions in Generation VIII#HOME Pikachu}}
+|}
+
+=====Partner Cap Pikachu=====
+{{eventAvail/h|type=Electric|lochide=yes}}
+{{eventAvail|{{gameabbrev7|USUM}}|Partner Cap Pikachu|Japanese|hide|50|November 17, 2017 onwards|link=List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Partner Cap Pikachu}}
+{{eventAvail|{{gameabbrev7|USUM}}|Partner Cap Pikachu|Taiwanese|hide|50|November 17, 2017 onwards|link=List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Partner Cap Pikachu}}
+{{eventAvail|{{gameabbrev7|USUM}}|Partner Cap Pikachu|American|hide|50|November 17, 2017 onwards|link=List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Partner Cap Pikachu}}
+{{eventAvail|{{gameabbrev7|USUM}}|Partner Cap Pikachu|PAL|hide|50|November 17, 2017 onwards|link=List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Partner Cap Pikachu}}
+{{eventAvail|{{gameabbrev7|USUM}}|Partner Cap Pikachu|Korean|hide|50|December 21, 2017 onwards|link=List of in-game event Pokémon in Pokémon Ultra Sun and Ultra Moon#Partner Cap Pikachu}}
+|}
+
+====[[Wild Area News]]====
+{{eventAvail/h|Gigantamax|type=Electric|lochide=yes}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|Yes|hide|17, 30, 40, 50, 60|May 12 to 18, 2020|link=Wild Area News/2020#May 12 to 18, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|No|hide|17, 30, 40, 50, 60<br>60{{shinystar|VIII}}|August 6 to 9, 2020|link=Wild Area News/2020#August 6 to 9, 2020}}
+{{eventAvail|{{gameabbrev8|SwSh}}|Wild Area News|Yes|hide|60<br>60{{shinystar|VIII}}|February 27 to 28, 2021|link=Wild Area News/2021#February 27 to 28, 2021}}
+|}
+
+====[[Poké Portal News]]====
+{{eventAvail/h|Tera Type|type=Electric|lochide=yes}}
+{{eventAvail|{{gameabbrev9|SV}}|Pikachu the Unrivaled|Water|hide|100|February 24 to 27, 2023|link=Poké Portal News/2023#February 24 to 27, 2023}}
+{{eventAvail|{{gameabbrev9|SV}}|Pikachu the Unrivaled|Water|hide|100|July 11 to 25, 2024|link=Poké Portal News/2024#July 11 to 25, 2024 2}}
+|}
+
+====[[Pokémon Global Link]] promotions====
+{{eventAvail/h|type=Electric}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|Japanese|PGL|10|September 19, 2012 to January 31, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|English|PGL|10|November 9, 2012 to May 30, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|French|PGL|10|November 9, 2012 to May 30, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|German|PGL|10|November 9, 2012 to May 30, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|Italian|PGL|10|November 9, 2012 to May 30, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+{{eventAvail|{{gameabbrev5|B2W2}}|Global Link Pikachu|Spanish|PGL|10|November 9, 2012 to May 30, 2013|link=List of Pokémon Global Link promotions/Pokémon#Pikachu}}
+|}

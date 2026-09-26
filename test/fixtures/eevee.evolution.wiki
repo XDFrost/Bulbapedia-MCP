@@ -1,0 +1,107 @@
+===Evolution data===
+Eevee can evolve into eight different Pokémon (collectively called [[Eeveelution]]s).
+
+Eevee can always evolve into {{p|Vaporeon}}, {{p|Jolteon}}, or {{p|Flareon}} when exposed to a [[Water Stone]], [[Thunder Stone]], or [[Fire Stone]], respectively.
+
+Since [[Generation II]], Eevee can evolve into {{p|Espeon}} or {{p|Umbreon}} when [[friendship Evolution|leveled up with high friendship]] (220 before [[Generation VIII]] or 160 since) during the [[time|day]]/night, respectively. In a few games without a [[time|clock]], it cannot evolve into Espeon or Umbreon; in {{Pokémon XD}} only, Eevee will evolve if the player has the [[Sun Shard]]/[[Moon Shard]] in their [[Bag]].
+
+Since [[Generation IV]], Eevee can evolve into {{p|Leafeon}} or {{p|Glaceon}} when it levels up near a [[Moss Rock]] or [[Ice Rock]], respectively. Not all games have Moss and Ice Rocks, so since [[Generation VIII]], Eevee can also evolve into Leafeon or Glaceon when exposed to a [[Leaf Stone]] or [[Ice Stone]].
+
+Since [[Generation VI]], Eevee can evolve into {{p|Sylveon}} if it knows a {{type|Fairy}} [[move]] and has high [[affection]] (at least two levels) when it levels up. Since affection was folded into [[friendship]] in [[Generation VIII]], it can evolve if its friendship is at least 160 instead.
+
+If multiple [[Methods of Evolution|evolutionary conditions]] are met simultaneously, {{p|Leafeon}} and {{p|Glaceon}} are prioritized over {{p|Sylveon}}, and Sylveon is prioritized over {{p|Espeon}} and {{p|Umbreon}}.
+
+The {{OBP|Partner Pokémon|Let's Go, Pikachu! and Let's Go, Eevee!|partner Eevee}} and Eevee with the {{DL|Gigantamax|Gigantamax Factor}} cannot evolve. Since {{LGPE}} only include the first 151 Pokémon, Eevee can only evolve into Vaporeon, Jolteon, and Flareon in those games. Similarly, {{g|Brilliant Diamond and Shining Pearl}} does not feature Sylveon.
+{| style="margin:auto; text-align:center; background: #{{normal color}}; {{roundy|10px}} border: 3px solid #{{normal color dark}};"
+|-
+| colspan="8" style="text-align: right" | <small>This table primarily describes the latest games; for earlier games, check eligibility below.</small>
+|-
+| colspan="8" | {{Evobox/Setup|133Eevee|Eevee|Normal|Normal|Normal|Unevolved}}
+|-
+| {{bag/s|Water Stone|SV}}<br>{{color2|000|Water Stone}}<br>↓
+| {{bag/s|Thunder Stone|SV}}<br>{{color2|000|Thunder Stone}}<br>↓
+| {{bag/s|Fire Stone|SV}}<br>{{color2|000|Fire Stone}}<br>↓
+| {{bag/s|Soothe Bell|SV}}<br>{{color2|000|Friendship}}<br><small>({{color2|000|Time|day}})</small><br>↓
+| {{bag/s|Soothe Bell|SV}}<br>{{color2|000|Friendship}}<br><small>({{color2|000|Time|night}})</small><br>↓
+|
+{|
+| [[File:Moss Rock VI.png|x40px|Moss Rock]]<br>{{color2|000|Level|Level up}}:<br><small>near {{color2|000|Moss Rock}}</small>
+| ↓
+| {{bag/s|Leaf Stone|SV}}<br>{{color2|000|Leaf Stone}}<br><small>&nbsp;</small>
+|}
+|
+{|
+| [[File:Ice Rock VI.png|40px|Moss Rock]]<br>{{color2|000|Level|Level up}}:<br><small>near {{color2|000|Ice Rock}}</small>
+| ↓
+| {{bag/s|Ice Stone|SV}}<br>{{color2|000|Ice Stone}}<br><small>&nbsp;</small>
+|}
+| {{bag/s|Soothe Bell|SV}} + [[File:Bag TM Fairy SV Sprite.png|40px|link=Category:Fairy-type moves]]<br>{{color2|000|Level|Level up}}:<br><small>{{color2|000|Friendship}} and a<br>{{color2|000|Fairy (type)|Fairy-type}} move</small><br>↓
+|-
+| {{Evobox/Setup|134Vaporeon|Vaporeon|Water|Water|Normal|First Evolution}}
+| {{Evobox/Setup|135Jolteon|Jolteon|Electric|Electric|Normal|First Evolution}}
+| {{Evobox/Setup|136Flareon|Flareon|Fire|Fire|Normal|First Evolution}}
+| {{Evobox/Setup|196Espeon|Espeon|Psychic|Psychic|Normal|First Evolution}}
+| {{Evobox/Setup|197Umbreon|Umbreon|Dark|Dark|Normal|First Evolution}}
+| {{Evobox/Setup|470Leafeon|Leafeon|Grass|Grass|Normal|First Evolution}}
+| {{Evobox/Setup|471Glaceon|Glaceon|Ice|Ice|Normal|First Evolution}}
+| {{Evobox/Setup|700Sylveon|Sylveon|Fairy|Fairy|Normal|First Evolution}}
+|}{{clear}}
+
+This table describes the changes in Evolution eligibility in different games.
+{| class="roundy" align=center style="text-align: center; background: #{{normal color dark}}; border: 2px solid #{{normal color}}"
+|- class="blacklinks"
+! style="background: #{{normal color light}}; {{roundytl}}" |
+! style="background: #{{water color light}}" width=100px | {{MS|134}}<br>{{p|Vaporeon}}
+! style="background: #{{electric color light}}" width=100px | {{MS|135}}<br>{{p|Jolteon}}
+! style="background: #{{fire color light}}" width=100px | {{MS|136}}<br>{{p|Flareon}}
+! style="background: #{{psychic color light}}" width=100px | {{MS|196}}<br>{{p|Espeon}}
+! style="background: #{{dark color light}}" width=100px | {{MS|197}}<br>{{p|Umbreon}}
+! style="background: #{{grass color light}}" width=100px | {{MS|470}}<br>{{p|Leafeon}}
+! style="background: #{{ice color light}}" width=100px | {{MS|471}}<br>{{p|Glaceon}}
+! style="background: #{{fairy color light}}; {{roundytr}}" width=100px | {{MS|700}}<br>{{p|Sylveon}}
+|- style="background: #FFF"
+| {{gameabbrev1|RBY}}
+| {{yes}} || {{yes}} || {{yes}} || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev2|GSC}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev3|RSE}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev3|FRLG}}/{{gameabbrevss|Colo}}
+| {{yes}} || {{yes}} || {{yes}} || {{no}} || {{no}} || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrevss|XD}}
+| {{yes}} || {{yes}} || {{yes}} || [[Sun Shard]] || [[Moon Shard]] || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev4|DPPt}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || [[File:Moss Rock VI.png|24px]] [[Moss Rock]] || [[File:Ice Rock VI.png|24px]] [[Ice Rock]] || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev4|HGSS}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{no}} || {{no}} || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev5|BWB2W2}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || [[File:Moss Rock VI.png|24px]] [[Moss Rock]] || [[File:Ice Rock VI.png|24px]] [[Ice Rock]] || style="background:#{{normal color}}" |
+|- style="background: #FFF"
+| {{gameabbrev6|XYORAS}}<br>{{gameabbrev7|SMUSUM}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || [[File:Moss Rock VI.png|24px]] [[Moss Rock]] || [[File:Ice Rock VI.png|24px]] [[Ice Rock]] || [[Affection]]
+|- style="background: #FFF"
+| {{gameabbrev7|PE}}
+| {{yes}} || {{yes}} || {{yes}} || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | || style="background:#{{normal color}}" | 
+|- style="background: #FFF"
+| {{gameabbrev8|SwSh}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{bag2|Leaf Stone}} || {{bag2|Ice Stone}} || [[Friendship]]
+|- style="background: #FFF"
+| {{gameabbrev8|BDSP}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || [[File:Moss Rock VI.png|24px]] [[Moss Rock]]<br>{{bag2|Leaf Stone}} || [[File:Ice Rock VI.png|24px]] [[Ice Rock]] || style="background:#{{normal color}}" | 
+|- style="background: #FFF"
+| {{gameabbrev8|LA}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || [[File:Moss Rock VI.png|24px]] [[Moss Rock]]<br>{{bag2|Leaf Stone}} || [[File:Ice Rock VI.png|24px]] [[Ice Rock]]<br>{{bag2|Ice Stone}} || [[Friendship]]
+|- style="background: #FFF"
+| {{gameabbrev9|SVZA}}
+| {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{yes}} || {{bag2|Leaf Stone}} || {{bag2|Ice Stone}} || [[Friendship]]
+|-
+| style="background: #{{normal color}}; height: 5px; {{roundybottom}}" colspan=9 |
+|}
+{{-}}
