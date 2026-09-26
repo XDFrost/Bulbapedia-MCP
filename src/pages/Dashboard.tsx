@@ -14,7 +14,22 @@ function snippets(token: string) {
   const url = `${window.location.origin}/mcp`
   return {
     claude: `claude mcp add --transport http bulbapedia ${url} --header "Authorization: Bearer ${token}"`,
-    json: JSON.stringify({ mcpServers: { bulbapedia: { url, headers: { Authorization: `Bearer ${token}` } } } }, null, 2),
+    // Claude Desktop only launches local (stdio) servers, so it needs the mcp-remote bridge.
+    // The token goes in env, not args: no spaces in args (a known Windows/Cursor bug) and it stays out of the process list.
+    desktop: JSON.stringify(
+      {
+        mcpServers: {
+          bulbapedia: {
+            command: 'npx',
+            args: ['-y', 'mcp-remote', url, '--header', 'Authorization:${AUTH_HEADER}'],
+            env: { AUTH_HEADER: `Bearer ${token}` },
+          },
+        },
+      },
+      null,
+      2,
+    ),
+    http: JSON.stringify({ mcpServers: { bulbapedia: { url, headers: { Authorization: `Bearer ${token}` } } } }, null, 2),
   }
 }
 
@@ -259,8 +274,9 @@ export function Dashboard({ me }: { me: MeState }) {
         <Modal title="Your new token" onClose={() => setNewToken(null)}>
           <p className="alert warn">Copy it now. It is stored as a hash and cannot be shown again.</p>
           <CopyBlock label="Token" text={newToken} />
-          <CopyBlock label="Claude Code" text={snippets(newToken).claude} />
-          <CopyBlock label="Claude Desktop, Cursor, or any MCP config" text={snippets(newToken).json} />
+          <CopyBlock label="Claude Code (run in a terminal)" text={snippets(newToken).claude} />
+          <CopyBlock label="Claude Desktop (claude_desktop_config.json, via mcp-remote)" text={snippets(newToken).desktop} />
+          <CopyBlock label="Cursor, Windsurf, or any client that supports HTTP servers with headers" text={snippets(newToken).http} />
         </Modal>
       )}
     </Layout>

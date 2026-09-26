@@ -79,7 +79,7 @@ export function Landing({ me }: { me: MeState }) {
               <span className="step-n">03</span>
               <div>
                 <h3>Paste it into your client</h3>
-                <p>Claude Code, Claude Desktop, Cursor, or anything that speaks MCP. Every call shows up on your dashboard.</p>
+                <p>Claude Code and Cursor connect directly. Claude Desktop goes through the small mcp-remote bridge. Either way, every call shows up on your dashboard.</p>
               </div>
             </li>
           </ol>

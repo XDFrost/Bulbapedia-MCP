@@ -160,7 +160,22 @@ Create a token on the dashboard; it shows ready-to-paste snippets. Claude Code:
 claude mcp add --transport http bulbapedia https://bulbapedia-mcp.<your-subdomain>.workers.dev/mcp --header "Authorization: Bearer bp_..."
 ```
 
-Generic JSON config (Claude Desktop, Cursor, etc.):
+Claude Desktop only launches local servers, so it needs the `mcp-remote` bridge. In
+`~/Library/Application Support/Claude/claude_desktop_config.json` (macOS) or `%APPDATA%\Claude\claude_desktop_config.json` (Windows):
+
+```json
+{
+  "mcpServers": {
+    "bulbapedia": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://bulbapedia-mcp.<your-subdomain>.workers.dev/mcp", "--header", "Authorization:${AUTH_HEADER}"],
+      "env": { "AUTH_HEADER": "Bearer bp_..." }
+    }
+  }
+}
+```
+
+Restart Claude Desktop afterwards. Cursor, Windsurf and other clients that support HTTP servers with headers take the direct form:
 
 ```json
 {
